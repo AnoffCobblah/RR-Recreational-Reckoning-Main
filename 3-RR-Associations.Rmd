@@ -1,0 +1,50 @@
+---
+title: "3-RR-Associations"
+author: "Anoff Nicholas Cobblah"
+date: "July 30, 2018"
+output: html_document
+    number_sections: yes
+    toc: true
+    toc_depth: 6
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+
+# Associations: Correlation between words across texts.
+
+Associations are a rather simple way of finding out the correlation between two words in your corpus, by using the tm package to create a term document matrix. 
+
+Before running the code below, you must determine a term or set of terms you want to find correlations for.  Enter these terms in the vector "assocterm" below. **NOTE THAT IF YOU PLAN ON STEMMING THE WORDS IN YOUR CORPUS, YOUR LIST OF TERMS SHOULD BE LEMMATIZED: "work", not "working." If "stemming = TRUE" in your Associations function below, "working" will not appear in the document term matrix, and will return NA.**
+```{r assocterm, eval=FALSE}
+  assocterm <- c("up", "down", "strange", "charm", "top", "bottom")
+```
+
+We must then determine a lower limit for the correlation.  "correlation" is a measure of co-occurrence.  For example, "correlation <- 0.5" will return all terms which co-occur in at least 50% of the texts. **However, it does not include a measure of how close the terms occur to one another within the text.**
+
+```{r correlation, eval=FALSE}
+  correlation <- 0.8
+```
+
+Having entered the parameters above, you can now run the actual script.  It will return a summary of the top 3 words for each "assocterm."  **Note that removePunctuation, stopwords, tolower, stemming, removeNumbers, and bounds can all be changed if you want punctuation, articles like "the", numbers, etc. to be included.**  Please note that both require the existence of Processed Data using the "Pre-Processing Data" step above. Also note that as written, this will only output the twenty highest associations. This can be changed below as well.
+
+```{r Association, eval=FALSE}
+if(file.exists(ProcessedDataLocation) == TRUE) {
+  files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE) #creates vector of txt file names.
+  datacorpus <- Corpus(URISource(files), readerControl=list(reader = readPlain))
+  data.tdm <- TermDocumentMatrix(datacorpus,control = list(removePunctuation = TRUE, stopwords = FALSE, tolower = TRUE, stemming = FALSE, 
+                                                           removeNumbers = TRUE, bounds = list(global= c(1,Inf))))
+  for(i in 1:length(assocterm)) {
+    assocdata <- findAssocs(data.tdm, assocterm[i], correlation)
+    
+    print(paste0("The following is the highest correlations for the search term '",assocterm[i],"'."))
+    print(assocdata[[1]][1:20])
+  }
+}else{print("No pre-processed data available. See 'Pre-Processing Texts' above")}
+
+```

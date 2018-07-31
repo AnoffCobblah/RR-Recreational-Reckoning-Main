@@ -1,0 +1,287 @@
+---
+title: "4-RR-WordFlagging"
+author: "Anoff Nicholas Cobblah"
+date: "July 30, 2018"
+output: html_document
+    number_sections: yes
+    toc: true
+    toc_depth: 6
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+# Word Flagging
+
+In what I call *word flagging*, I note where a certain word (or words) appear in a text (or texts), and visualizing those appearances. For instance, this technique could tell you visually whether Esther is mentioned more by name in the beginning or at the end of *Bleak House*. Or it could show where the words "North" and "South" appear in Gaskell's *North and South*, which might be useful in studying how the narrative makes use of those spaces.
+
+As usual, the first step is again to create a list of words you are interested in locating.
+
+```{r flagterm, eval=FALSE}
+  flagterm <- c("up", "down", "strange", "charm", "top", "bottom")
+```
+
+Please note that this script also requires the existence of Processed Texts.
+
+## Word Flag Script
+
+Flagging where these terms occur within the text means that, unlike other types of analyses, this script cannot treat the text as a "bag of words": we need to create a matrix (labelled data) which maintains information not only on whether or not the terms are in the text, but also where they appear.
+
+```{r Word Flag, eval=FALSE}
+if(file.exists(ProcessedDataLocation) == TRUE) {
+  stemflagterm <- unique(wordStem(flagterm))
+  files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE)
+  lemma <- list()
+  lemma_perc <- list()
+  data <- matrix(,ncol=7,nrow=1)
+    colnames(data) <- c("Text","Text_ID", "searchedterm","searchedterm_ID","Lemma","Lemma_Length","Lemma_Perc")
+  for (p in 1:length(stemflagterm)) {
+        iterp <- 1
+        tempdata <- matrix(,ncol=7,nrow=1) #this matrix is supposed to get wiped every loop.
+        searchedterm <- stemflagterm[p]
+    #Basically, we want to search for every place in the tems that matches the stemflagtermvector, and note where that occurs. This is a bit tricky, because we don't know how many times that term is going to appear.  That's where the iterp value comes in: for each loop which finds a match, "iterp"" increases by one and allows the value to be added to the list "lemma".
+    for (i in 1:length(files)) {
+      print(files[i])
+      fileName <- read_file(files[i])
+      #since tokenize_sentences function requires things to be encoded in UTF-8, need to remove some data.
+      Encoding(fileName) <- "UTF-8"
+      fileName <- iconv(fileName, "UTF-8", "UTF-8",sub='')
+      ltoken <- tokenize_words(fileName, lowercase = TRUE, stopwords = NULL, simplify = FALSE)
+      ltoken <- unlist(ltoken)
+      stemltoken <- wordStem(ltoken)
+      for (w in 1:length(ltoken)) {
+        if(stemltoken[w] == searchedterm) {
+          lemma[[iterp]] <- w
+          iterp <- iterp+1
+        }
+      }
+      #When comparing files, it is often useful to normalize somehow.  This cell changes the lemma ID # into the place in the text, by percentage, where the term appears.
+      if (length(lemma) != 0){
+        for (k in 1:length(lemma)) {
+          lemma_perc[[k]] <- (lemma[[k]] / length(ltoken)) *100
+        }
+      }
+      #This can get a bit messed up if we don't add in some NA values for files which have no references to the stemflagterm vector, so we add them here.
+        lemma <- unlist(lemma)
+          #there used to be an unnecessary step here where I added in some NAs.  But I might be wrong about it...
+        lemma_perc <- unlist(lemma_perc)
+      #Now it's time to start adding what we've found for this document into our data matrix.
+        mat <- matrix(,ncol=7,nrow=length(lemma))
+        mat[,1] <- gsub(paste0(ProcessedDataLocation,"/"),"",files[i]) #This grabs just the end of the file path.
+        mat[,1] <- gsub(".txt","",mat[,1])
+        mat[,2] <- i
+        mat[,3] <- searchedterm
+        mat[,4] <- p
+        mat[,5] <- lemma
+        mat[,6] <- length(ltoken)
+        mat[,7] <- lemma_perc
+        tempdata <- rbind(tempdata,mat)
+      #Finally, we need to clear our lists again before running the next search term through this file.
+        lemma <- list()
+        lemma_perc <- list()
+    }
+    #Our tempdatamatrix begins with an emtpy row, so we want to get rid of that, and then add all of this data for this searchterm, across all the files, to our final data matrix. "tempdata" will be erased once the loop starts again.
+      tempdata <- tempdata[-1,]
+      data <- rbind(data,tempdata)
+  }
+  #Data also starts with an empty row, so we delete that, and turn it into a dataframe which is saved in a new directory, "wfoutput".
+    data <- data[-1,]
+    WordFlagdf <- as.data.frame(data)
+    WordFlagdf
+}else{print("No pre-processed data available. See 'Pre-Processing Texts' above")}
+```
+
+There are a lot of things that you can do with these word flag data sets. Sometimes you want to know where a set of words occurs in just one text, sometimes you want to compare their use across a corpus. In addition, because it creates a data point for every reference to a word, this data can also be added up to determine a word's *frequency* in a text or corpus. Because there are often multiple uses for this data, it is helpful to be able to save it. You can save the Word Flag data set using the script below. It will create a new folder for the output as well.
+
+```{r Word Flagging Output Location, eval=FALSE}
+  wfoutputlocation <- paste0(getwd(),"/","wfoutput","-",format(Sys.Date()))
+  if(file.exists(wfoutputlocation) == FALSE) {dir.create(wfoutputlocation)}
+  tempname <- paste0(wfoutputlocation,"/","wfdata-",format(Sys.Date()),".txt")
+  write.table(WordFlagdf, file=tempname)
+```
+
+To read in previously constructed data, edit wfoutputlocation below and run the script:
+```{r Word Flagging input, eval=FALSE}
+  wfoutputlocation <- paste0(getwd(),"/","wfoutput","-",format(Sys.Date()))
+  tempname <- paste0(wfoutputlocation,"/","wfdata-",format(Sys.Date()),".txt")
+  data <- read.table(tempname, header=TRUE)
+  WordFlagdf <- as.data.frame(data)
+  WordFlagdf
+```
+
+## Visualizations of Word Flagging: 
+
+**NOTE THAT ALL THE FOLLOWING VISUALIZATIONS ASSUME THE EXISTENCE OF THE OBJECT "WordFlagdf." Complete the section above if this has not been constructed.
+
+###Scatterplots
+
+Visualizations are hard to automate. I can do some level of predicting, but ultimately the plots below will probably need to be edited to fit new research projects.
+
+#### Scatterplot: 1 Text
+
+The simplest visualization is when one has only one text that they are visualizing. In this case, it is clear that best practice is to have the % of the text (by lemma) on the x-axis and the searched terms on the y-axis.
+
+```{r Scatterplot Single Text, eval=FALSE}
+  p <- ggplot(WordFlagdf, aes(y = as.factor(searchedterm), x = as.numeric(as.character(Lemma_Perc))))
+  pg <- geom_point(size=1,pch = 16)
+  pl <- p + pg + labs(x = "% of Text (by word)", y = "Searched Term", title = "Appearances of Keywords within Text")
+  pl
+```
+
+If you want to save this output, it can be done with ggsave function.
+```{r Scatterplot Single Text Save, eval=FALSE}
+  wfoutputlocation <- paste0(getwd(),"/","wfoutput","-",format(Sys.Date()))
+  if(file.exists(wfoutputlocation) == FALSE) {dir.create(wfoutputlocation)}
+  tempname <- paste0(wfoutputlocation,"/","wfscatter-",format(Sys.Date()),".png")
+  ggsave(tempname, device="png")
+```
+
+#### Scatterplot: Multiple texts, 1 Plot per Keyword
+
+Multiple plots are trickier: if you have too many factors for the y axis, they can become cluttered. And while one could THEORETICALLY map all of the keywords on one plot, using different colors, this is not good practice and makes it very hard to interpret. The "facet_wrap()" function can help if have few enough texts.
+
+```{r Scatterplot Multi Text facet, eval=FALSE}
+    p <- ggplot(WordFlagdf, mapping = aes(y = as.factor(Text), x = as.numeric(as.character(Lemma_Perc))))
+    pg <- geom_point(size=1,pch = 16)
+    pl <- p + pg + labs(x = "% of Text (by word)", y = "Text", title = "Appearances of Terms w/i Texts") + facet_wrap(~searchedterm)
+    print(pl)
+```
+
+Again if you want to save this output, it can be done with ggsave function.
+```{r Scatterplot Multi Text Save, eval=FALSE}
+  wfoutputlocation <- paste0(getwd(),"/","wfoutput","-",format(Sys.Date()))
+  if(file.exists(wfoutputlocation) == FALSE) {dir.create(wfoutputlocation)}
+  tempname <- paste0(wfoutputlocation,"/","wfscatter-",format(Sys.Date()),".png")
+  ggsave(tempname, device="png")
+```
+
+For more than 10 searchedterms or texts, multiple plots are the best way of going about this:
+
+```{r Scatterplot Multi Text, eval=FALSE}
+  for(i in 1:length(flagterm)) {
+    temptitle <- paste0("Appearances of '",flagterm[i],"' within Texts")
+    tempdatadf <- subset(WordFlagdf,WordFlagdf$searchedterm == flagterm[i])
+    p <- ggplot(tempdatadf, aes(y = as.factor(Text), x = as.numeric(as.character(Lemma_Perc))))
+    pg <- geom_point(size=1,pch = 16)
+    pl <- p + pg + labs(x = "% of Text (by word)", y = "Text", title = temptitle)
+    print(pl)
+  }
+```
+
+However, if this method isn't working, one can simply subset further. For example, if I decide that I am only interested in Middlemarch and Daniel Deronda, I could subset the data in the following way:
+```{r Scatterplot Multi Text subset, eval=FALSE}
+  for(i in 1:length(flagterm)) {
+    temptitle <- paste0("Appearances of '",flagterm[i],"' within Texts")
+    tempdatadf <- WordFlagdf[grep(flagterm[i],WordFlagdf$searchedterm),]
+    p <- ggplot(subset(tempdatadf,tempdatadf$Text %in% c("1863_Middlemarch","1876_Daniel-Deronda")), aes(y = as.factor(Text), x = as.numeric(as.character(Lemma_Perc))))
+    pg <- geom_point(size=1,pch = 16)
+    pl <- p + pg + labs(x = "% of Text (by word)", y = "Text", title = temptitle)
+    print(pl)
+  }
+```
+
+In this example the extra subset is not very helpful, but in examples with more data, you can also subset using logical operators to take only value before certain dates.
+
+### Term Frequency Visualizations
+Instead of visualizing where terms are referenced in a text, you may instead be interested in understanding the frequency with which they appear in certain sections of a text(s), or the overall number of times they occur within a document. This technique could tell you, for instance, whether the word "London" appears more often in early Dickens than late Dickens.  Or it could tell you how often Darwin refers to "man" in *Origin of Species*.
+
+There are many ways of finding term frequencies. The first and most generalizable method is to continue working with the data which was created in Word Flagging, and to create histograms or other types of binned plots with that data. Histograms allow one to see the frequency or probability density with which terms fall in various parts of the text. Similarly, a binned tile plot can be used to create a heat map which represents visually which areas of which texts have the greatest occurrence of a search term.
+
+#### Bar Charts
+
+Obviously if you have already flagged the location where a list of terms appears in a corpus of texts, you can simply add these up to find out how often they appear in a text, as seen below.
+
+```{r, term frequency entire document, eval=FALSE}
+
+  tfTexts <- unique(WordFlagdf$Text)
+  tfsearchedterm <- unique(WordFlagdf$searchedterm)
+  tempmat <- matrix(,nrow=length(tfTexts),ncol=length(tfsearchedterm))
+  colnames(tempmat) <- tfsearchedterm
+  rownames(tempmat) <- tfTexts
+  for(i in 1:length(tfTexts)){
+    tempdatadf1 <- subset(WordFlagdf,WordFlagdf$Text == tfTexts[i]) #focuses just on one text at a time
+    for(j in 1:length(tfsearchedterm)){
+      tempdatadf2 <- subset(tempdatadf1,tempdatadf1$searchedterm == tfsearchedterm[j]) #focuses just on one searched term at a time
+      tempmat[i,j] <- nrow(tempdatadf2) 
+    }
+  }
+  tempmat
+```
+
+But a faster way of doing this would simply be to use ggplot's barchart function to add these elements together.
+
+```{r, term frequency ggplot, eval=FALSE}
+    p <- ggplot(WordFlagdf, mapping = aes(x = as.factor(Text)))
+    pg <- geom_bar() 
+    pl <- p + pg + labs(x = "Text", title = "Appearances of Terms w/i Texts") + facet_wrap(~searchedterm) + coord_flip()
+    print(pl)
+```
+
+
+#### Histograms
+You can also do something else: break the text vector into 'bins' and determine how frequently certain words are referenced in certain parts of the text.  This can be visualized most easily by using the histogram function in R.
+
+Again, these are the types of visualizations which require some forethought, to ensure these many plots are readable. Binwidth can be adjusted as necessary. And the arrangedment of the grid in terms of keywords or texts can easily be changed.
+
+```{r histogram script, eval=FALSE}
+
+  tfTexts <- unique(WordFlagdf$Text)
+  tfsearchedterm <- unique(WordFlagdf$searchedterm)
+    for(i in 1:length(tfTexts)){
+      tempdatadf1 <- subset(WordFlagdf,WordFlagdf$Text == tfTexts[i]) #focuses just on one text at a time
+      p <- ggplot(tempdatadf1, mapping = aes(x = as.numeric(as.character(Lemma_Perc))))
+      pg <- geom_histogram(binwidth = 10)
+      pl <- p + pg + labs(x = "Text", title =  paste0("Histograms of Terms in ", tfTexts[i])) + facet_wrap(~searchedterm)
+      print(pl)
+      }
+```
+
+#### Binned Tile Plot
+
+Histograms are an easy way of binning data in R, but for a more visually striking example for comparing how search terms appear across several texts, a binned tile plot can be used to create a heat map which represents visually which areas of which texts have the greatest occurrence of a search term. **Histograms are recommended over heat maps, as they are clearer to read.**
+
+```{r Binned Tile Plot, eval=FALSE}
+
+  tfTexts <- unique(WordFlagdf$Text)
+  tfsearchedterm <- unique(WordFlagdf$searchedterm)
+  binnedtilemat <- matrix(,nrow=1,ncol=5)
+  for(i in 1:length(tfTexts)) {
+    tempdf1 <- subset(WordFlagdf,WordFlagdf$Text == tfTexts[i]) #focuses just on one text at a time
+    for(u in 1:length(tfsearchedterm)) {
+      blankmat <- matrix(,nrow=20,ncol=5)
+      colnames(blankmat) <- c("searchedterm", "bin", "bin_avg", "frequency","Text")
+      tempdf2 <- subset(tempdf1,tempdf1$searchedterm == tfsearchedterm[u]) #focuses just on one searched term at a time
+      blankmat[,1] <- as.character(tfsearchedterm[u])
+      blankmat[,2] <- c("(0-5)","(5-10)", "(10-15)", "(15-20)", "(20-25)", "(25-30)", "(30-35)", "(35-40)", "(40-45)", "(45-50)", "(50-55)", "(55-60)", "(60-65)", "(65-70)", "(70-75)", "(75-80)", "(80-85)", "(85-90)", "(90-95)", "(95-100)")
+      blankmat[,3] <- c(2.5,7.5,12.5,17.5,22.5,27.5,32.5,37.5,42.5,47.5,52.5,57.5,62.5,67.5,72.5,77.5,82.5,87.5,92.5,97.5)
+      blankmat[,4] <- 0 #ran into some trouble here.  Cut doesn't always return the # of bins if no data, so I needed to add it
+        bins <- cut(as.numeric(as.character(tempdf2$Lemma_Perc)),breaks=seq(0,100,by=5),labels=FALSE, include.lowest = TRUE)
+        for (v in 1:20) { #to do: something wrong here
+          mat3 <- as.matrix(table(bins))
+          vec3 <- as.numeric(rownames(mat3))
+          blankmat[vec3[v],4] <- mat3[v]
+        }
+      blankmat[,5] <- as.character(tfTexts[i])
+      binnedtilemat <- rbind(binnedtilemat,blankmat)
+    }
+    binnedtilemat <- binnedtilemat[-1,]
+    binnedtiledf <- as.data.frame(binnedtilemat)
+      p <- ggplot(binnedtiledf, aes(y = as.factor(searchedterm), x= as.factor(bin))) + geom_tile(aes(fill=as.numeric(as.character(frequency)))) + scale_fill_gradient(low="blue",high="red")
+      pl <- p +labs(x = "% of Text (by lemma)", y = "Searched Term", title = paste0("Appearances of Terms in ",tfTexts[i])) + theme(text = element_text(size=8), legend.position = "bottom", legend.title = element_blank())
+      print(pl)
+      if(i == 1) {
+        p <- ggplot(binnedtiledf, aes(y = as.factor(searchedterm), x= as.factor(bin))) + geom_tile(aes(fill=as.numeric(as.character(frequency)))) + scale_fill_gradient(low="blue",high="red")
+      pl <- p +labs(x = "% of Text (by lemma)", y = "Searched Term", title = paste0("Preview: Appearances of Terms in ",tfTexts[i])) + theme(text = element_text(size=8), legend.position = "bottom", legend.title = element_blank())
+      print(pl)
+      }
+  }
+```
+
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
