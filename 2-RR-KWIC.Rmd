@@ -1,0 +1,130 @@
+---
+title: "2-RR-KWIC"
+author: "Anoff Nicholas Cobblah"
+date: "July 30, 2018"
+output: html_document
+    number_sections: yes
+    toc: true
+    toc_depth: 6
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+
+# Key Words in Context
+
+Key words in context (KWIC) are an important tool if you want to quickly see the context of a word or set of words within a text.  While this can be done for more than one text, it quickly becomes unwieldy, so I would suggest ideally doing these for one text at a time.
+
+Before beginning, we'll need to choose some parameters.
+
+"conlength" is how long you want the 'context' to be.  For instance, "conlength <- 100" will provide the 100 terms on either side of your term of interest.  Change this as desired below.
+
+```{r conlength, eval=FALSE}
+  conlength <- 100
+```
+
+"KWICsearchedtermlist" is the list of terms you want to see in context within the text.  For example, "searchedtermlist <- c("up", "down", "strange", "charm", "top", "bottom")" will show you how the context in which each of these words is used within a text.
+
+```{r KWICsearchedtermlist, eval=FALSE}
+  KWICsearchedtermlist <- c("up", "down", "strange", "charm", "top", "bottom")
+```
+
+Please note that both require the existence of Processed Data using the "Pre-Processing Data" step above.
+
+There are two methods for finding Key Words in Context included here: one method using the tokenizer package, and one using quanteda. 
+
+## KWIC Tokenizer Method
+Basically, the tokenizer package goes through each texts and turns it into a list of words.  I then unlist those words with the "unlist()" function to turn them into a character vector, and use the "wordStem()" function from the SnowballC package to turn that vector into a set of lemmatized stem words. I also apply the same function to my list of searched terms, and try to match them (e.g. find the place in the text vector where the stem "down" from my searched term list matches "down" within the text.  I then retrieve the words near that match within the original character string: this is the context for the key word.)
+
+```{r KWIC TOKEN, eval=FALSE}
+if(file.exists(ProcessedDataLocation) == TRUE) {
+  files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE) #creates vector of txt file names.
+  stemKWICsearchedtermlist <- unique(wordStem(KWICsearchedtermlist)) #lemmatizes the list of terms you want to search for.  Unique function makes sure the stemming process doesn't create any repeats.
+  KWICmat <- matrix(,ncol=6,nrow=1)
+  for (i in 1:length(files)) {
+    fileName <- read_file(files[i])
+    Encoding(fileName) <- "UTF-8"  #since tokenize_sentences function requires things to be encoded in UTF-8, need to remove some data.
+    fileName <- iconv(fileName, "UTF-8", "UTF-8",sub='')
+    ltoken <- tokenize_words(fileName, lowercase = TRUE, stopwords = NULL, simplify = FALSE)
+    ltoken <- unlist(ltoken)
+    stemltoken <- wordStem(ltoken) #this uses the Snowball library to lemmatize the entire text.
+    textID <- i
+    for (p in 1:length(stemKWICsearchedtermlist)) {
+      stemKWICsearchedterm <- stemKWICsearchedtermlist[p]
+      for (j in 1:length(stemltoken)) {
+          if (stemKWICsearchedterm == stemltoken[j]) {
+            if (j <= conlength) {tempvec <- ltoken[(1:(j+conlength))]}
+            if (j > conlength) {tempvec <- ltoken[(j-conlength):(j+conlength)]}
+            temprow <- matrix(,ncol=6,nrow=1)
+            colnames(temprow) <- c("Text", "Text_ID", "stemKWICsearchedterm","Lemma","Lemma_Perc","KWIC")
+            temprow[1,1] <- gsub(paste0(ProcessedDataLocation,"/"),"",files[i]) #This grabs just the end of the file path.
+              temprow[1,1] <- gsub(".txt","",temprow[1,1])
+            temprow[1,2] <- textID
+            temprow[1,3] <- stemKWICsearchedterm
+            temprow[1,4] <- j
+            temprow[1,5] <- (j/length(stemltoken))*100
+            temprow[1,6] <- paste(tempvec,sep= " ",collapse=" ")
+            KWICmat <- rbind(KWICmat,temprow)
+          }
+      }
+    print(stemKWICsearchedtermlist[p]) #let's user watch as code runs for long searches
+    }
+    print(files[i]) #let's user watch as code runs for long searches
+  }
+  KWICTokmat <- KWICmat[-1,]
+  KWICTokdf <- as.data.frame(KWICTokmat)
+  View(KWICTokdf)
+}else{print("No pre-processed data available. See 'Pre-Processing Texts' above")}
+```
+
+If you want to save this output to your working directory, you can use the following script.
+```{r KWIC tokenizer save, eval=FALSE}
+  KWICoutputlocation <- paste0(getwd(),"/","KWIC","-",format(Sys.Date()))
+  if(file.exists(KWICoutputlocation) == FALSE){dir.create(KWICoutputlocation)}
+  tempname <- paste0(KWICoutputlocation,"/","KWICdf","_","tokenmet_",format(Sys.time(), "%Y-%m-%d-%I-%M-%p"),".txt")
+  write.table(KWICTokdf, tempname)
+```
+
+## KWIC "quanteda"" Method
+The quanteda package has a ready built function for key words in context which can be used. This has the advantage of keeping the original punctuation and capitalization: however, quanteda key words in context cannot lemmatize words: a search for "strange" will therefore not pick up references to "strangely". Unfortunately, quanteda seems to work best with data frames containing small snippets of text (less than 1000 words) or with single texts. Since breaking these texts into smaller segments could create unequal KWIC segments, this script opts instead to take the texts one at a time, creating separate KWIC matrices for each text, and then adding them together. It should also be noted that in order to produce relatively similar results between the quanteda and tokenizer method, I have opted to read in .txt files using the "read_file()" and "Encoding()" function instead of the "readtext" function recommended by quanteda.  While this does provide extra metadata for reading pdfs and xmls, it isn't relevant for most KWIC uses.
+
+```{r KWIC quanteda, eval=FALSE}
+if(file.exists(ProcessedDataLocation) == TRUE) {
+  files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE) #creates vector of txt file names.
+  KWICoutputlocation <- paste0(getwd(),"/","KWIC","-",format(Sys.Date()))
+  if(file.exists(KWICoutputlocation) == FALSE){dir.create(KWICoutputlocation)}
+  for (i in 1:length(files)) {
+    fileName <- read_file(files[i])
+    Encoding(fileName) <- "UTF-8"  
+    fileName <- iconv(fileName, "UTF-8", "UTF-8",sub='')
+    for (p in 1:length(KWICsearchedtermlist)) {
+      KWICsearchedterm <- KWICsearchedtermlist[p] #CANNOT use stemKWICsearchedterm list, as this interferes with wildcard search.
+      tempdf <- kwic(fileName,KWICsearchedterm, window=conlength,valuetype=c("glob"),case_insensitive = TRUE)
+      textname <- gsub(paste0(ProcessedDataLocation,"/"),"",files[i]) #This grabs just the end of the file path.
+             textname <- gsub(".txt","",textname)
+      if (nrow(tempdf)>0) {
+        tempdf$docname <- textname
+        if ((i+p) == 2) {KWICdf <- tempdf}
+        if ((i+p) > 2) {KWICdf <- rbind(KWICdf,tempdf)}
+      }
+      print(stemKWICsearchedtermlist[p]) #let's user watch as code runs for long searches
+    }
+    print(files[i]) #let's user watch as code runs for long searches
+  }
+  KWICQuantdf <- KWICdf
+  View(KWICQuantdf)
+}else{print("No pre-processed data available. See 'Pre-Processing Texts' above")}
+```           
+
+If you want to save this output to your working directory, you can use the following script.
+```{r KWIC quanteda save, eval=FALSE}
+  KWICoutputlocation <- paste0(getwd(),"/","KWIC","-",format(Sys.Date()))
+  if(file.exists(KWICoutputlocation) == FALSE){dir.create(KWICoutputlocation)}
+  tempname <- paste0(KWICoutputlocation,"/","KWICdf","_","Quantedamet_",format(Sys.time(), "%Y-%m-%d-%I-%M-%p"),".txt")
+  write.table(KWICQuantdf, tempname)
+```

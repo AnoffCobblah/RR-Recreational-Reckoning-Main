@@ -1,0 +1,180 @@
+---
+title: "0-RR-Preparation"
+author: "Anoff Nicholas Cobblah"
+date: "July 30, 2018"
+output: html_document
+    number_sections: yes
+    toc: true
+    toc_depth: 6
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+## Preparation
+
+### Experimental Question
+R can be a powerful tool for better understanding texts. It isn't always necessary to have a fully testable hypothesis in mind; visualizing texts can be a powerful tool for discovery, especially when you are willing to have fun, exploring the many ways in which one can customize your analysis.  On the other hand, because the data can be easily manipulated, one can easily fall into the trap of thinking they observe a feature in the text and then manipulating the text to draw out that feature.  Fishing for information that supports a theory one already holds is a real problem in the field labelled by scholars such as those in the Stanford Literary Lab as "computational criticism."
+
+There are several principles that can be used to approach objective experimentation in automated text analysis, as discussed in Justin Grimmer and Brandon M. Stewart's "Text as Data: The Promise and Pitfalls of Automatic Content Analysis Methods for Political Texts" (**Political Analysis**, 2013). Unlike the social sciences, however, the humanities more generally proceed not through testable and reproducable experiments, but through the development of *ideas*.  **Recreational computational criticism therefore asks only that you choose one question that your analysis will answer.  Questions such as: "Does Dickens's Bleak House include more masculine or feminine pronouns?"; "What topics are central to the Sherlock Holmes canon?"; "Do novel titles become longer or shorter over the course of the nineteenth-century?" New features may become observable while pursuing this analysis. And it is up to the critic to theorize about what this newly visualized feature means.**
+
+#### Why R?
+R isn't the only tool one can use for visualizing texts. However, I have found that R computational methods shine when you have texts that are either too long to read quickly, or too many texts to read quickly. They are also useful when you have a specific methodology in mind or prioritize customizability in the data mining or the visualization.  For quick visualizations of things like word clouds, Voyant (https://voyant-tools.org) is probably a better. 
+
+### Downloading R
+The first step in using this methodology is obviously to download R.  This can be done here (https://www.r-project.org). Users should also download RStudio, an environment which will make running the code easier. (If you are reading this in R/RStudio, then congratulations on already having started!)
+
+### Setting Directory
+The first step in analyzing your data is choosing a workspace. **I recommend creating a new folder for each project.** This folder will be your *working directory.* The working directory in R is generally set via the "setwd()" command. However, here, we're going to be working within R Markdown Files (.Rmd). R Markdowns rely on a package called knitr, which generally requires the R Markdown to be stored in the location of your working directory. So I would recommend creating a new folder, and then downloading these R Markdown Files to the folder where you want to work. For example, you might create a folder called "data" on your computer desktop, in which case your working directory would be something like "C:/Users/Nick/Desktop/data". **You can check that your working directory is indeed in the right place by using the "getwd()" function below.** 
+
+```{r directory, root.dir=TRUE, eval=FALSE}
+getwd()
+```
+
+### Downloading Packages
+
+The next step is to load in the packages that will be required. My methodology makes use of several packages, depending on what is required for the task. Rather than loading the libraries for each script, I generally find it more useful to install and initialize all the packages I will be using at once.
+
+Packages are initially loaded with the "install.packages()" function.  **HOWEVER, THIS STEP ONLY HAS TO BE COMPLETED ONCE.**
+
+"ggmpap" is a package for visualizing location data.
+
+"ggplot2" is a package for data visualizations.  More information can be found here (https://cran.r-project.org/web/packages/ggplot2/index.html).
+
+"pdftools" is a package for reading pdfs. In the past, you had to download a separate pdf reader, and it was a real pain. You, reader, are living in a golden age. Information on the package can be found here (https://cran.r-project.org/web/packages/pdftools/pdftools.pdf).
+
+"plotly" is a package for creating interactive plots.
+
+"quanteda" is a package by Ken Benoit for the quantitative analysis of texts.  More information can be found here (https://cran.r-project.org/web/packages/quanteda/quanteda.pdf). **quanteda** has a great vignette to help you get started ([here](https://cran.r-project.org/web/packages/quanteda/vignettes/quickstart.html)).  There are also exercises available [here](http://kenbenoit.net/quantitative-text-analysis-tcd-2016/).
+
+"readr" is a package for reading in certain types of data. More information can be found here (https://cran.r-project.org/web/packages/readr/readr.pdf).
+
+"SnowballC" is a package for stemming words (lemmatizing words, or basically cutting the ends off words as a way of lowering the dimensions of the data.  For instance, "working","worked", and "works" all become "work").
+
+"tm" is a simple package for text mining. An introduction to the package can be found here (https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf).
+
+"tokenizers" is a package which turns a text into a character vector.  An introduction to the package can be found here (https://cran.r-project.org/web/packages/tokenizers/vignettes/introduction-to-tokenizers.html).
+
+```{r installations, warning=FALSE, eval=FALSE}
+install.packages("ggmap")
+install.packages("ggplot2")
+install.packages("pdftools")
+install.packages("plotly")
+install.packages("quanteda")
+install.packages("readr")
+install.packages("SnowballC")
+install.packages("stm")
+install.packages("tm")
+install.packages("tokenizers")
+
+```
+
+
+
+### Loading Libraries
+The next step is to load the libraries for these packages into your environment, which is accomplished with the "library()" function.
+
+```{r libraries, warning=FALSE, message=FALSE, eval=FALSE}
+library(ggmap)
+library(ggplot2)
+library(quanteda)
+library(pdftools)
+library(plotly)
+library(readr)
+library(SnowballC)
+library(stm)
+library(tm)
+library(tokenizers)
+```
+
+### coreNLP
+
+"coreNLP" is a package I primarily use for part of speech tagging.  However, installing the package requires a large amount of time, so carefully consider whether you want to use these before running this script.
+
+```{r coreNLP installations, warning=FALSE, eval=FALSE}
+install.packages("coreNLP") #only need to do this once
+library(coreNLP)
+downloadCoreNLP() #only need to do this once
+initCoreNLP() #NOTE: this function will cause problems if you try to load it into the environment more than once.  Make sure to keep it out of loops too.
+
+```
+
+# A Note About Citation
+Most of the software packages are written by academics.  Reliable and easy-to-use software is difficult to make.  If you use these packages in your published work: *please* cite them.  In R you can even see how the author would like to be cited (and get a bibtex entry).
+```{r Citations, eval=FALSE}
+citation("coreNLP")
+citation("ggplot2")
+citation("quanteda")
+citation("pdftools")
+citation("plotly")
+citation("readr")
+citation("SnowballC")
+citation("stm")
+citation("tm")
+citation("tokenizers")
+```
+
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+
+# Pre-processing Text(s): Turning Raw Texts into Workable Data
+
+## Parameters for Pre-Processing Texts
+The first step in textual analysis is to transform the text into a workable format. In its current iteration, my methodology works with locally stored pdf or txt files only. If you are working with locally stored data, the first thing to do is to move all your raw data into a folder within your working directory titled "data" (lower-case). Your corpus can be one pdf, or thousands of txt files; it doesn't matter as long as they are in the same location. If you want to store your data in a different folder for some reason, change the file path below. 
+
+```{r RawDataLocation, eval=FALSE}
+RawDataLocation <- paste0(getwd(),"/","data") 
+```
+ 
+In order to turn the locally stored pdf and txt files into a format that can be analyzed, the "Pre-Processing Texts" steps below creates a new folder, which will actually be where the texts that are being analyzed are stored.  The default is to create a folder called "Processed-Texts-[Current Date]" in the working directory.  But if you want to store them somewhere else, edit the file path below.
+
+```{r ProcessedDataLocation, eval=FALSE}
+ProcessedDataLocation <- paste0(getwd(),"/","Processed-Texts","-",format(Sys.Date()))
+```
+
+##Pre-processing PDFs
+
+Many historical documents are stored as pdfs, which can be inconvenient in many ways.  Pdfs are often full of error-producing metadata, and further errors can be produced by poor *Optical Character Recognition*.  So the first thing we are going to do is turn the pdf files in our raw data set into txt files.  These files will be stored in the newly created folder, Processed-Texts-[Current Date]", if it does not already exist.  
+
+```{r PDF Script, eval=FALSE}
+
+  if(file.exists(ProcessedDataLocation) == FALSE) {dir.create(ProcessedDataLocation)}
+  files <- list.files(path = RawDataLocation, pattern = "pdf$", full.names = TRUE) #creates vector of pdf file names in your working directory.
+  Rpdf <- readPDF(control = list(text = "-layout"))
+  PDFdatacorpus <- Corpus(URISource(files), readerControl = list(reader = Rpdf))
+  writeCorpus(PDFdatacorpus, path = ProcessedDataLocation)
+  PDFtxtfiles <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE)
+  sapply(PDFtxtfiles,FUN=function(eachPath){
+    file.rename(from=eachPath,to=sub(pattern=".pdf",replacement="",eachPath))
+  })
+
+```
+
+## Pre-processing Txts
+
+If your texts are already in txt format, you do not need to change their format. So this makes sure these texts can be read into R, and then moves the texts from RawDataLocation to the same location the pdfs went to. Again, these files will be stored in a newly created folder, "Processed-Texts-[Current Date]", if it does not already exist.  
+
+```{r TXT Script, eval=FALSE}
+
+  if(file.exists(ProcessedDataLocation) == FALSE) {dir.create(ProcessedDataLocation)}
+  files <- list.files(path = RawDataLocation, pattern = "txt$", full.names = TRUE) #creates vector of txt file names in your working directory.
+  TXTdatacorpus <- Corpus(URISource(files), readerControl=list(reader = readPlain))
+  writeCorpus(TXTdatacorpus, path = ProcessedDataLocation)
+  TXTtxtfiles <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE)
+  sapply(TXTtxtfiles,FUN=function(eachPath){
+    file.rename(from=eachPath,to=sub(pattern=".txt.txt",replacement=".txt",eachPath))
+  })
+
+```
+
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+
+# Instructions for Use
+Recreational Reckoning has a variety of tools available. Now that you know what your experimental question is, you should look through the tools below to find the ones which will help you answer it. To produce a summary of what Recreational Reckoning has to offer, use the "Knit" button above in the R Studio console. This will create an html document with a table of contents. Look through this table and create your own strategy for using these tools. To see examples of possible applications of these tools, see the "Applications of Recreational Reckoning" section at the end of this document. 

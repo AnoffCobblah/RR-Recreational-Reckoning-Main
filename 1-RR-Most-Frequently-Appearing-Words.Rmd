@@ -1,0 +1,31 @@
+---
+title: "1-RR-Most-Frequently-Appearing-Words"
+author: "Anoff Nicholas Cobblah"
+date: "July 30, 2018"
+output: html_document
+    number_sections: yes
+    toc: true
+    toc_depth: 6
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+*********************************************************************************************************************************************
+# Most Frequently Appearing Words
+This is a simple way of determining which words in your corpus appear most frequently, using the tm package to create a term document matrix.  The variable "lowfreq" determines the lower limit.  Here, we are throwing out any terms which appear less than 10 times.  But this variable can be changed as needed
+
+
+``` {r Most Frequent Terms, eval=FALSE}
+  files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE) #creates vector of txt file names.
+  datacorpus <- Corpus(URISource(files), readerControl=list(reader = readPlain))
+  data.tdm <- TermDocumentMatrix(datacorpus,control = list(removePunctuation = TRUE, stopwords = TRUE, tolower = TRUE, stemming = TRUE, 
+                                                           removeNumbers = TRUE, bounds = list(global= c(1,Inf))))
+  ft <- findFreqTerms(data.tdm, lowfreq = 10, highfreq = Inf)
+  ft.tdm <- inspect(data.tdm[ft,])
+  print("Frequency summary below:")
+  print(apply(ft.tdm, 1, sum))
+```
