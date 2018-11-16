@@ -20,9 +20,9 @@ This is a simple way of determining which words in your corpus appear most frequ
 
 
 ``` {r Most Frequent Terms, eval=FALSE}
-  files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE) #creates vector of txt file names.
-  datacorpus <- Corpus(URISource(files), readerControl=list(reader = readPlain))
-  data.tdm <- TermDocumentMatrix(datacorpus,control = list(removePunctuation = TRUE, stopwords = TRUE, tolower = TRUE, stemming = TRUE, 
+files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE) #creates vector of txt file names.
+  datacorpus <- VCorpus(URISource(files, encoding = "UTF-8", mode = "text"))
+  data.tdm <- TermDocumentMatrix(datacorpus,control = list(removePunctuation = TRUE, stopwords = TRUE, tolower = FALSE, stemming = TRUE, 
                                                            removeNumbers = TRUE, bounds = list(global= c(1,Inf))))
   ft <- findFreqTerms(data.tdm, lowfreq = 10, highfreq = Inf)
   ft.tdm <- inspect(data.tdm[ft,])
