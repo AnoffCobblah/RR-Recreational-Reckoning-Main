@@ -1,0 +1,157 @@
+                    806          VL C      •    VO L. 46, N O. 3/4
+                          Press, 2015); Mary Ellis Gibson, Indian Angles: English Verse in Colonial
+                          India from Jones to Tagore (Athens: Ohio University Press, 2011).
+                    5.    Margaret Loose, The Chartist Imaginary: Literary Form in Working-Class
+                          Political Theory and Practice (Columbus: Ohio State University Press,
+                          2016); Kirstie Blair, The Poets of the People’s Journal: Newspaper Poetry in
+                          Victorian Scotland (Glasgow: Association for Scottish Literary Studies,
+                          2016), Working Verse in Victorian Scotland: Poetry, Press, Community (forth-
+                          coming), and Form and Faith in Victorian Poetry and Religion (Oxford:
+                          Oxford University Press, 2012); Charles LaPorte, Victorian Poets and the
+                          Changing Bible (Charlottesville: University of Virginia Press, 2011);
+                          Carolyn Williams, Gilbert and Sullivan: Gender, Genre, Parody
+                          (Princeton: Princeton University Press, 2011); Justin Sider,
+                          “‘Modern-Antiques,’ Ballad Imitation, and the Aesthetics of
+                          Anachronism,” Victorian Poetry 54, no. 4 (2016): 455–75.
+                    6.    Carolyn Williams, Transfigured World (Ithaca: Cornell University Press,
+                          1990); Justin Sider “Aesthetic Categories and the Social Life of Genre
+                          in Victorian Criticism,” Victorian Studies 59, no. 3 (2017): 450–56;
+                          Naomi Levine, “Elizabeth Barrett Browning’s Historiographical
+                          Poetics,” Modern Language Quarterly 77, no. 1 (2016): 81–104; and
+                          Naomi Levine, “Tirra-Lirrical Ballads: Source Hunting with the Lady
+                          of Shalott,” Victorian Poetry 54, no. 4 (2016): 439–54.
+                    7.    See historicalpoetics.com for a full discussion.
+                    8.    Jason Rudy, “On Cultural Neoformalism, Spasmodic Poetry, and the
+                          Victorian Ballad,” Victorian Poetry 41, no. 4 (2003): 590–96.
+                    Politics
+                    MARK ALLISON
+                                                                    A PROLEGOMENON
+                    I     want to approach this vexed subject indirectly. Consider the following
+                          events:
+                             • 24 March 1832: Edward Bulwer [Lytton] votes for the Reform
+                                 Bill, which passes the House of Commons.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800089X
+
+                                                                                                              PO LITICS             807
+                      • 30 August 1841: The gentleman-radical Feargus O’Connor
+                          emerges from his prison term, where he is met by a jubilant
+                          crowd. He is dressed in a suit of fustian, a fabric “worn exclu-
+                          sively by nineteenth-century workmen.”1
+                      • 19 October 1847: Smith, Elder and Company publishes Jane
+                          Eyre.
+                      • 30 April 1895: Oscar Wilde defends “The Love that dare not
+                          speak its name” in open court.2
+                      I assume that most VLC readers would agree that all four of these
+              events might be meaningfully characterized as “political.” I further
+              assume that the majority of my readers would agree that their political
+              significance cannot be determined simply by referring to their proximity
+              to institutional politics. (One cannot presuppose, for example, that
+              Bulwer’s vote for the Reform Bill is intrinsically the “most political” of
+              these events, in either substance or significance, merely because it took
+              place within Parliament.) I wholeheartedly share these assumptions.
+              And that is why we are in such a muddle.
+                      In the Phenomenology of Spirit (1807), G. W. F. Hegel famously dismissed
+              Friedrich Schelling’s theory of the Absolute as “The night in which . . . all
+              cows are black.”3 By explaining the entirety of phenomenal existence by
+              referring to a single, underlying concept, Hegel maintains that Schelling suc-
+              ceeded only in reducing the rich diversity of the material world into an undif-
+              ferentiated homogeny. Hegel’s barb is equally—and uncomfortably—
+              applicable to the way that we employ “politics” and its cognates in contempo-
+              rary Victorian studies.4 By characterizing virtually everything we analyze as
+              “political,” we are merely rendering the darkness more visible.
+                      How did we arrive here? Briefly: the theoretical paradigms (Marxist,
+              feminist, poststructuralist) and identarian social justice movements of the
+              last half-century spurred us to develop a far more sophisticated and capa-
+              cious understanding of the “political,” as well as a keen awareness of its ubiq-
+              uity. (Indexically, there is no entry for “politics” in Raymond Williams’s
+              Keywords; it is the taken-for-granted horizon of the entire project.5) These
+              are invaluable critical—and, indeed, ethical—gains. But they came at a
+              cost: they plunged us into the night in which all cows are black.
+                      What is to be done? It would be a theoretical regression to reserve
+              the term “politics” for institutional governance and statecraft. Our chal-
+              lenge, rather, is to develop a methodological self-consciousness and the-
+              oretical vocabulary commensurate with the more expansive conception
+              of “politics” that we now possess.6
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800089X
+
+                    808          VL C      •    VO L. 46, N O. 3/4
+                            First, we need to find ways to talk with greater precision about the
+                    different registers, or modalities, of politics. While it is apparent that
+                    each of the events I listed at the outset of this essay is political, it is no
+                    less apparent that they are not political in the same way. It would greatly
+                    benefit us to have the theoretical resources to conceptualize such distinc-
+                    tions—even though we will want to complicate and problematize them in
+                    individual cases.
+                            Second, and more difficult, we must develop critical concepts that
+                    will enable us to theorize how these different political modalities are con-
+                    nected to one another. If the events I listed above indeed represent four
+                    different modalities of politics, how do we theorize their interrelations?
+                            Several clarifications are in order. I am not proposing that we
+                    engage in a neostructuralist exercise in typology for typology’s sake.
+                    Nor is the goal to set ourselves up as arbiters who retrospectively decide
+                    which Victorian phenomena were “truly” political—much less to rank
+                    nineteenth-century texts and events according to their “real” political
+                    efficacy. What I am advocating, rather, is greater self-consciousness and
+                    methodological clarity about the different valences of politics, as well
+                    as their interconnections.
+                            We can make considerable progress simply by taking more responsibil-
+                    ity, as scholars, for being explicit about how we are conceiving of “the polit-
+                    ical” in our own work. But a reinvigorated theoretical vocabulary will surely
+                    help. This vocabulary need not necessarily be new provided that we use
+                    extant concepts imaginatively and robustly. Several from the
+                    Hegelian-Marxist tradition, in particular, strike me as promising, although
+                    undoubtedly other critical paradigms have their own resources to offer.
+                            The first of these concepts is mediation (Vermittlung). Mediation is of
+                    course a multi-faceted term, but one of its most important uses is for des-
+                    ignating how events or actions that occur in one part of a totality exert an
+                    indirect impact on other spheres of that same totality. In a social totality
+                    comprised of many relatively autonomous levels, mediation names how
+                    interventions on one level ripple outward, sending shock waves that
+                    pass unnoticed through some domains while violently upsetting others.
+                            The second is nonsychronism (Ungleichzeitigkeit). Ernst Bloch
+                    employed this concept to describe the precapitalist contradictions that
+                    survive, unresolved, into the current mode of production.7 If conceived
+                    more expansively, this term can help us articulate the fact that different
+                    modalities of the political unfold according to very different temporali-
+                    ties, none of which need be construed as primary or normative. They
+                    are all parts of the ongoing dynamic that Williams called (third term!)
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800089X
+
+                                                                                         PO LIT I C S, P RO GRE SS                  809
+              “the long revolution”: the open-ended, multi-fronted struggle for human
+              emancipation, realization, and dignity.8 And, that, presumably, is a poli-
+              tics that we can all agree upon.
+                                                                      NOTES
+              1. Paul A. Pickering, “Class Without Words: Symbolic Communication in the
+                   Chartist Movement,” Past & Present no. 112 (1986): 144–62, 157.
+              2. Montgomery H. Hyde, ed., The Three Trials of Oscar Wilde (New York:
+                   University Books, 1956), 236.
+              3. G. W. F. Hegel, Phenomenology of Spirit, trans. A. V. Miller (Oxford:
+                   Oxford University Press, 1977), 9.
+              4. Indeed, this is a fundamental problem for the contemporary left more
+                   generally. See, for example, Mark Lilla’s recent—and rather unchari-
+                   table—manifesto, The Once and Future Liberal: After Identity Politics
+                   (New York: Harper Collins, 2017).
+              5. Raymond Williams, Keywords: A Vocabulary of Culture and Society
+                   (New York: Oxford University Press, 1983).
+              6. As this statement suggests, I am not persuaded that the available mod-
+                   els (such as Rancière’s tripartite distinction between archipolitics, par-
+                   apolitics, and metapolitics) are adequate to the task, although they are
+                   certainly stimulants to thought. See Jacques Rancière, Disagreement:
+                   Politics and Philosophy, trans. Julie Rose (Minneapolis: University of
+                   Minnesota Press, 1999), 61–93.
+              7. Ernst Bloch, “Nonsynchronism and the Obligation to Its Dialectics,”
+                   trans. Mark Ritter, New German Critique no. 11 (1977): 22–38.
+              8. Raymond Williams, The Long Revolution (London: Chatto & Windus,
+                   1961).
+              Progress
+              RUTH M. MCADAMS
+              A      S Victorianists, we are eager reject the ideological commitment to
+                      historical progress that ostensibly dominates our culture of study.
+              Although there are political and intellectual reasons to distance ourselves
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800089X
+

@@ -1,0 +1,155 @@
+                                                                          IMPERIALISM, INFO RMATION                                 739
+                                                                       NOTE
+              1. Sir John R. Seeley, The Expansion of England, ed. John Gross (Chicago:
+                   Chicago University Press, 1971), 12.
+              Information
+              RICHARD MENKE
+              W         HEN Jane Austen’s Emma Woodhouse skeptically asks Harriet
+                        Smith whether Robert Martin is “a man of information,” a man
+              who reads “beyond the line of his own business,” she isn’t inquiring
+              about whether Harriet’s would-be suitor possesses a large set of arbitrary
+              data. Rather, Emma is questioning the breadth of his general culture,
+              ungenerously applying a vague standard of gentlemanly cultivation to a
+              yeoman farmer. Harriet’s flustered answer suggests that she perceives
+              the tenor of the question but struggles to frame Robert’s reading habits
+              in such terms: “Oh yes!—that is, no—I do not know—but I believe he has
+              read a good deal—but not what you would think any thing of. He reads
+              the Agricultural Reports, and some other books that lay in one of the win-
+              dow seats. . . . But sometimes of an evening, before we went to cards, he
+              would read something aloud out of the Elegant Extracts. . . . And I know
+              he has read the Vicar of Wakefield.”1 The utilitarian agricultural reports
+              would fail Emma’s test, the books on the window seat represent arbitrary
+              rather than general reading, and while Vicesimus Knox’s Elegant Extracts
+              might bespeak a laudable impulse toward self-improvement, this popular
+              anthology suggests not wide-ranging cultivation but efficient edification
+              via preselected highlights. (Emma herself turns to the book as a source
+              of riddles, and in real life, Austen had given a copy of it to a niece in
+              1801.) Perhaps The Vicar of Wakefield might pass muster.
+                      Elsewhere, too, Austen associates information with general self-
+              cultivation via reading. As a girl, Catherine Morland prefers “baseball . . .
+              to books—or at least books of information—for, provided that nothing
+              like useful knowledge could be gained from them, provided they were all
+              story and no reflection, she had never any objection to books at all.” For
+              Austen, information is “useful knowledge” of a particular sort. It resides not
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:44:14, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000700
+
+                    740          VL C      •    VO L. 46, N O. 3/4
+                    in the raw facts of agricultural reports but in William Shakespeare (“a great
+                    store of information”) and other forms of cultivated reading, a fund of gene-
+                    ral truths for reflection.2
+                            Shortly after Austen’s time, Geoffrey Nunberg suggests, this idea of
+                    information as general culture interacted with the granular sense of
+                    information as a particular instance of informing someone, thus by the
+                    early Victorian era helping to yield the modern “abstract” meaning of
+                    information: information as a kind of corpuscular fact able to circulate
+                    as a dematerialized flow.3 In an informatic Aufhebung, Emma’s sense of
+                    information as storehouse of insight removed from immediate use
+                    now amalgamates with the particularities that even Harriet recognized as
+                    non-information—the report’s systematic recording, the haphazard vol-
+                    ume’s givenness, the textual excerpt’s removal from its context. Information
+                    comes to denote facts or representations that are somehow out there,
+                    independent of any specific instantiation, removed from context and
+                    materiality. In a further reversal from Austen’s informatics, bloodless,
+                    scattered abstract information could therefore appear quite distinct from
+                    knowledge, since knowledge seems to presuppose a knower who has inter-
+                    nalized it. In 1870, J. A. Froude points to this distinction as he skeptically
+                    takes on the Victorian assumption that “larger information generates
+                    larger and nobler thoughts.” On the contrary, he argues, a scattered edu-
+                    cation in useless generalities will lead young men to become “socialists,”
+                    “trades-unionists,” “Fenians,” and readers of “the penny newspaper.”
+                    Knowledge is now the antidote for diffuse information: “The evils caused
+                    by a smattering of information, sounder knowledge may eventually
+                    cure.”4
+                            Removed from context, alienated from a knowing subject, informa-
+                    tion since the mid-nineteenth century has often seemed a kind of imma-
+                    terial substance, ideally suited to pass from one medium to the next in an
+                    emerging world of media multiplicity, colonial knowledge, and control at
+                    a distance. Yet this protean, general quality has made information
+                    strangely apt to adopt the material contours of its own media and for-
+                    mats, however stealthily. In Austen, information had lain in books to
+                    be unlocked by the correct mode of reading; even Shakespeare is a
+                    codex to be read, not a playscript or performance. But for the
+                    Victorians, information readily takes on the properties of newly invented
+                    technologies that seemed to alienate data from matter and context. Like
+                    messages on the electric telegraph, information now circulates instantly
+                    and far from its origins, an immaterial fluid that resembles Victorian
+                    descriptions of electricity. Or it comes to resemble the ranks of names,
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:44:14, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000700
+
+                                                                                                    INFO RMATION                    741
+              codes, and numbers with which a Bradshaw’s Guide translates gross move-
+              ments of coal, steam, and metal into a grid of fine print, the rhythm of
+              railway time into the visual simultaneity of the table, ordered and ready to
+              hand yet complex and challenging to decode. In Dracula (1897), infor-
+              mation—tracking the Count, the vampire-hunters often seek it by
+              name—takes after Mina Harker’s typescript, the novel’s putative origin
+              and the destination for its collage of journals, letters, news clippings,
+              and phonograph diaries. Indeed, typing comes to represent a kind of
+              undeath for documents, sapping the essence from its originals even as
+              it allows them to live on indefinitely in a kind of regularized, alienated
+              form, as typewritten information.
+                      By the end of the nineteenth century, proliferating, disjointed,
+              insubstantial information itself could become a model for printed
+              texts—a final reversal of Austen’s bookish informatics. In George
+              Gissing’s New Grub Street (1891), a character who edits the “general infor-
+              mation column” of the mediocre journal Chat (“Would you be so good as
+              to inform me . . . what was the exact area devastated by the Great Fire of
+              London—that kind of thing”) comes up with a scheme to transform it
+              into Chit-Chat, a frothy assemblage of excerpted “information—bits of sto-
+              ries, bits of description, bits of scandal, bits of jokes, bits of statistics,” that
+              becomes the great hit of the era. The randomness and disjunction of
+              information become formal rules: “No article” in Chit-Chat may “measure
+              more than two inches in length,” and those inches “must be broken into
+              at least two paragraphs.”5 A parody of the real weekly newspaper Tit-Bits,
+              Chit-Chat becomes Gissing’s bleak paradigm for print culture in a nascent
+              information age.
+                      Strategically indeterminate yet covertly medium-specific, the phe-
+              nomenon of Victorian information suggests how we might analyze not
+              just the ideas in things but the things in ideas. The history of information
+              also offers further avenues of research into Victorian culture—for
+              instance, into questions about what counts as information, what forms
+              it takes, and who owns or controls it. Information’s Victorian histories
+              also indicate that the media technologies behind our own contemporary
+              scholarship are hardly neutral, that the affordances of the digital archive,
+              etext, and searchable database are already materially informing our ideas
+              about the past.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:44:14, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000700
+
+                    742          VL C      •    VO L. 46, N O. 3/4
+                                                                            NOTES
+                    1. Jane Austen, Emma, ed. James Kinsley (Oxford: Oxford University
+                          Press, 2003), 23 (emphasis mine).
+                    2. Jane Austen, Northanger Abbey, in Northanger Abbey, Lady Susan, The
+                          Watsons, Sanditon, ed. James Kinsley and John Davie (Oxford:
+                          Oxford University Press, 2003), 7.
+                    3. Geoffrey Nunberg, “Farewell to the Information Age,” in The Future of
+                          the Book (Berkeley: University of California Press, 1996), 103–38.
+                    4. James Anthony Froude, “On Progress,” in Short Studies on Great Subjects,
+                          2nd ser. (New York: Scribner, 1872), 262–63.
+                    5. George Gissing, New Grub Street, ed. John Goode (Oxford: Oxford
+                          University Press, 1998), 459–60.
+                    Institutions
+                    MAIA MCALEAVEY
+                             “To you the British House of Commons is everything.”
+                             “Yes;—everything,’ said Mr. Palliser, with unwonted enthusiasm;—
+                             everything, everything. That and the Constitution are everything.”
+                                                                         — Anthony Trollope, Can You Forgive Her?1
+                    I      spent the early months of the Donald Trump administration rereading
+                          Anthony Trollope’s Barsetshire and Palliser novels, a self-protective
+                    act that at first I understood as a retreat. It was only after former FBI
+                    Director James Comey testified before the Senate Intelligence
+                    Committee on June 8, 2017 that I realized why Trollope’s signature
+                    form—the series of linked novels—felt newly vital: Trollope’s novel
+                    sequences tell the story of institutional durability amid cultural upheaval.
+                            During the 2016 election, James Comey was responsible both for an
+                    investigation into Hillary Clinton’s use of a private email server and for a
+                    subsequent investigation into the Trump campaign’s connection to
+                    election-meddling by the Russians. After President Trump abruptly
+                    removed Comey from his post at the FBI, Comey was received as a
+                    hero on the left, even by those who blamed him for Hillary Clinton’s
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:44:14, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000700
+

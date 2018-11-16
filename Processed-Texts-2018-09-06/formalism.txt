@@ -1,0 +1,162 @@
+                    702          VL C      •    VO L. 46, N O. 3/4
+                            This is not to quibble or to question the validity of the metaphors we
+                    use to conjure up literary form. It is, though, to suggest that the metaphors
+                    we use are always motivated, and that it is best to be as aware as we can of those
+                    motivations, especially when we seek to connect texts to the social or natural
+                    world by way of the formal attributes we ascribe to each. To the extent that
+                    literary language—poetic, narrative, or dramatic—is highly organized, it is
+                    not at all misleading to say that forms inhere in texts. At the same time,
+                    the figures we employ in order to think cogently and creatively about form
+                    are heuristic devices that need not be organically related to the texts at all.
+                    We make use of some figures rather than others because we seek answers
+                    to one set of questions rather than another. Our inquiries are context-
+                    specific, as are the vocabularies we use to pursue them. Here again student
+                    responses can be clarifying. Is literary form “in” a text, I ventriloquize them
+                    asking, or is it something you just make up? Do you find it or invent it? Those
+                    are not the only two options, but it is not hard to see why the question is posed
+                    that way. Found or invented? The answer is yes. One challenge of teaching
+                    formalism is to explain why that is so, and why it matters.
+                                                                            NOTES
+                    1. Paul B. Armstrong, “Form and History: Reading as an Aesthetic
+                          Experience and Historical Act,” Modern Language Quarterly 69, no. 2
+                          (2008): 195–219, 198.
+                    2. Jonathan Kramnick and Anahid Nersessian, “Form and Explanation,”
+                          Critical Inquiry 43, no. 3 (2017): 650–69, 664, 665.
+                    3. Sandra Macpherson, “A Little Formalism,” ELH 82, no. 2 (2015): 385–
+                          405, 390.
+                    Formalism
+                    HERBERT F. TUCKER
+                    A        trusted colleague’s having written on form leaves me to tease out its
+                              associated –ism, and the contentious family of terms of which that
+                    suffix makes it a member. I don’t think my keyword belongs with
+                    Methodism, Marxism, and other badges of adherence to a system of
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:43:04, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800061X
+
+                                                                                                         FO R M A L I S M           703
+              belief. Nor does it quite go with spoonerism and aphorism, which you
+              can commit but can hardly be committed to, much less profess. And
+              yet these latter terms still faintly savor of the systematic: when we call a
+              piece of wit a witticism we conjure an orientation towards discourse
+              that seems a shade more deliberate than may be fully compatible with
+              the free play of wit. Ditto the deeper gravamen of plagiarism, which
+              denotes an act but connotes, alas, a policy. While formalism may not con-
+              stitute a program for literary scholarship, it has designs on the field nev-
+              ertheless. Finically preferring certain reading behaviors over others, it
+              always arouses dislike. Long may it continue to do so.
+                      Formalism, a fighting word, thrives on polemical occasions. Just now
+              routinized contextualism is in retreat before a rising generation of scholars
+              who don’t merely pay court to form as a matter of principle, or summon it
+              to ice an argument already baked, but actively devise new tools of formal
+              analysis whereby to generate arguments in the first place. We are at a junc-
+              ture, that is, where formalism can afford to lick its wounds and savor the
+              struggles in which they were earned. The latest struggles arose a couple of
+              decades ago, at least for nineteenth-century studies they did, and as usual
+              they were waged in the first instance by Romanticists—Susan Wolfson
+              (1997), Marshall Brown (2000, 2006), Marjorie Levinson (2007)—who
+              pushed back against a shopworn Historicism that was so far from New
+              that it was cheapening monographs, overrunning conferences, and stulti-
+              fying classrooms.1 By the time Levinson could invite PMLA readers to pon-
+              der what the “New Formalism” was, the tide had turned, in a direction that
+              the honorific plural in a 2013 title like New Formalisms and Literary Theory
+              placed beyond doubt.2
+                      As for the wounds, they tell a much older story. Francis Bacon and
+              John Milton reprobated formalists as pretenders to wisdom who strutted
+              a stiff attachment to conservative routine. In church matters the formalist
+              was by innuendo a hypocrite, in matters of state a reactionary obstructing
+              innovation under the cover of a strict constructionist devotion to rules.
+              The likewise pejorative term formalism had to await Victorian coinage,
+              of which the first OED usage occurs on a page from Alton Locke (1850)
+              where Charles Kingsley’s frustrated hero twice decries it as a besetting
+              sin of, you guessed it, intellectual life at the university.3 So hostile a tradi-
+              tion leaves Victorianist formalism presumptively—until it speaks in its
+              own defense—somewhere between arraignment under St. Paul’s spirited
+              denunciation of the letter that killeth and the academic guilt that comes
+              by association with, say, the doctrines of the late Antonin Scalia. But of
+              course Victorianist formalism will speak in its own defense. Seeing to
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:43:04, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800061X
+
+                    704          VL C      •    VO L. 46, N O. 3/4
+                    that is why I came to this VLC party. I can’t do so better than by remark-
+                    ing (1) that defense is what formalism does best and (2) that literary stud-
+                    ies in our time will have to play the best defense it can muster, up to and
+                    including the kind that looks like, and risks giving, offense. Formalism is
+                    not so much a position as an agenda, a disciplinary pressure whose self-
+                    less mission is and ever has been to rescue literary study from the all too
+                    human propensity to jilt art for the seductions of meaning.
+                            Defining formalism is no fun: either the task devolves into tautology
+                    or it stumbles into the rabbit-warren of defining form. We can do better by
+                    asking what formalism’s opposite may be. Contentualism won’t help, if only
+                    because it looks so much like the ungainly word that forms the subject of
+                    my second paragraph’s second sentence. Please ponder the awkward neol-
+                    ogy anyhow, long enough to appreciate its superfluity within a discipline
+                    where it goes without saying that texts have content and are written and
+                    published in order to deliver a message. Formalism finds a worthier oppo-
+                    site in hermeneutics, which recognizes some rules of engagement and con-
+                    cedes that finding out textual meanings requires skills that may be honed
+                    by methodical practice. For it is at the ample table of hermeneutic method
+                    that formalism perennially lobbies for a seat. It’s the business of formalism
+                    to remind interpreters that there is no content without form and thus that
+                    a failure to read for form is ultimately a disservice to content itself, which
+                    will vary, by a little or a lot, wherever form does. Indeed, the relation is
+                    reversible. Ralph Waldo Emerson’s glittering tissue of antiformalist slogans
+                    in “The Poet” (1844) concedes the reciprocity of message with medium as
+                    soon as it affirms the “instant dependence of form upon soul.” His insis-
+                    tence that “it is not meters, but a meter-making argument that makes a
+                    poem” demonstrates in the very saying of it that meter and poem are
+                    alike made, that meters are the first fruits of poetic argument, and there-
+                    fore that whoso would look on it must come to them.4 Interpretive mean-
+                    ing grows intimate with interpretive performance.
+                            Or maybe for our purposes the opposite of formalism is dynamism.
+                    Derrida launched his epochal L’Écriture et la différence with an essay cham-
+                    pioning “force” over “form,” prophetically aligning poststructuralism with
+                    antiformalism—and yet, in the process, opening his work to eventual cri-
+                    tique on the grounds that deconstruction was but formalism’s quintes-
+                    sence.5 Cutting the cord between rhetorical contrivance and textual
+                    meaning, deconstruction embraced the pursuit of signs and nothing
+                    but, astray amid a wilderness of traces. We who are Victorianists needn’t
+                    resort to wholesale de Manian demolition, however, to grasp form and
+                    force as aspects of each other: their relation is written all over the
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:43:04, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800061X
+
+                                                                                                         FO R M A L I S M           705
+              industrial era. Thomas Carlyle’s hyperventilating dynamism throbs across
+              the literary nineteenth century. We meet it in John Ruskin’s architectural
+              lesson that form follows function; in the life sciences’ subordination of
+              morphology to physiology, entailed as it was by evolutionism’s master the-
+              sis that what survives is what works; and most handily in the poetics of
+              Gerard Manley Hopkins, where the inscape of created form, once caught,
+              buckles to reveal the creative force of instress. This ubiquitous Victorian
+              dynamism at once affirms the ultimate, ontological priority of force
+              (form’s cause) and the mediate, practical priority of form (force’s
+              index). As a matter of practice, if it’s force you’re after, then form is
+              where you have to look for it—because form is after force too: the
+              force that came and went is what form remains the legible trace of.6 So
+              dynamism is not the opposite of formalism after all but instead its raison
+              d’être. Say rather its pretext, and leave formalism to cope with what’s left:
+              the text. This formalist will settle for that.
+                                                                      NOTES
+              1. Susan Wolfson, Formal Charges: The Shaping of Poetry in British
+                   Romanticism (Stanford: Stanford University Press, 1997); Wolfson
+                   and Marshall Brown, eds., a special issue of Modern Language
+                   Quarterly 61 (2000), and Reading for Form (Seattle: University of
+                   Washington Press, 2006); Marjorie Levinson, “What Is New
+                   Formalism?” PMLA 122 (2007): 558–69.
+              2. Verena Thiele and Linda Tredennick, eds., New Formalisms and Literary
+                   Theory (New York: Palgrave Macmillan, 2013). See also Fredric
+                   V. Bogel, New Formalist Criticism: Theory and Practice (New York:
+                   Palgrave, 2013).
+              3. Charles Kingsley, Alton Locke, Tailor and Poet: An Autobiography, ed.
+                   Elizabeth A. Cripps (Oxford: Oxford University Press, 1983), 137,
+                   see chap. 13.
+              4. Selections from Ralph Waldo Emerson: An Organic Anthology, ed. Stephen
+                   E. Whicher (Boston: Houghton Mifflin, 1957), 222, 225.
+              5. Jacques Derrida, “Force et signification,” in L’Écriture et la différence
+                   (Paris: Seuil, 1967), 9–50.
+              6. See recent reflections on this dynamist theme in Sandra Macpherson,
+                   “A Little Formalism,” ELH 82 (2015): 385–405, especially 388–89.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:43:04, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800061X
+

@@ -1,0 +1,252 @@
+                    676          VL C      •    VO L. 46, N O. 3/4
+                    Environment
+                    NATHAN K. HENSLEY
+                    H         AS there ever been something called the environment? And if
+                               so, what was it—before we destroyed it? Or again, and the
+                    reverse: when did the environment come into being? While the term,
+                    derived from the middle French “to surround,” dates in English to the
+                    seventeenth century, gaining force in the eighteenth, one version of
+                    our commonsensical notion of environment—as the physical milieu for
+                    biotic life—is definitively Victorian. The Oxford English Dictionary gives
+                    its birth year as 1855, and attributes it to Herbert Spencer.1 It was not
+                    until 1912 that Thomas Hardy would re-outfit his novelistic oeuvre by
+                    classifying some as “Novels of Character and Environment.” Yet in
+                    Hardy’s Wessex Edition nomenclature, the term stands to mean not a
+                    ontologically complete or total nonhuman world, “the environment,”
+                    but the variable milieus—Flintcomb Ash, the Vale of Froom—that enable
+                    and constrain the human actors attempting to flourish in those particular
+                    zones. This pluralized notion of “environment” is the crystal of what
+                    Elizabeth Miller calls Hardy’s “bioregional” project, and helped Hardy
+                    imagine how an organism like Tess Durbeyfield might or might not fit
+                    with a given ecosystem.2 Hardy’s commitment to documenting the rela-
+                    tion between organism and milieu takes shape, in Miller’s words, as a
+                    “dialectical approach to human characters, the environment in which
+                    they live, and the complex, reciprocal relation between them,” and is
+                    generated from a post-Darwinian sense of human beings’ entanglement
+                    with forces and entities beyond themselves.3
+                            Hardy’s work was to document the collapse of liberalism’s fictions of
+                    autonomy under the pressure of evolutionary thought. But the notion of
+                    environment as a relatively fixed local milieu that determines human
+                    action is also what Annales School historian Fernand Braudel had in
+                    mind when, in the first section The Mediterranean (1949, 1966), he
+                    referred to “The Role of the Environment” in the social history of that
+                    region. For Braudel, environment names the “constant repetition, ever-
+                    recurring cycles” of nonhuman activity, where change is slow or absent
+                    and history is “almost timeless.”4 “The mountains,” he says, “resist the
+                    march of history . . . or they accept it only with reluctance.”5 Braudel’s envi-
+                    ronment is a static or nearly static local backdrop, in dialogue with which
+                    human history might coevolve, but which human action cannot substan-
+                    tively change—a formulation that has cognates in the novelistic concept
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:22, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000542
+
+                                                                                                   E NV I RO NM E N T               677
+              of “setting.” In this sense as an unchanging mise en scène, environment exists
+              in tension with ecology, another Victorian term, which denotes a more
+              robustly interactive collaboration among factors or agents in a system. As
+              Vin Nardizzi has noted, thinkers like Michel Serres in the 1990s began to
+              critique “environment” for its crypto-anthropocentrism and called on phi-
+              losophy to “forget the word environment in this context.”6 While working on
+              Tess, Hardy himself gothically pointed to lack of reciprocal interaction
+              between foreground and background in his model, when he recorded feel-
+              ing “as if I were a spectre not solid enough to influence my environment.”7
+                      Whatever his existential dilemma, Hardy refers here to my environ-
+              ment, not the environment. That latter usage, “[f]requently with the,”
+              the OED says, understands the environment as singular abstraction or
+              ecological totality: “[t]he natural world or physical surroundings in gene-
+              ral.”8 This world-scaled abstraction was unavailable to Hardy in 1888 and
+              even 1912, and arrives, we are told, only in the postwar moment, smack at
+              the center of the period of vertiginous “growth” and rapidly gathering
+              ecological catastrophe that environmental historians call the Great
+              Acceleration: in 1948, the year of my parents’ birth.9 Where did this envi-
+              ronment come from? Timothy Mitchell argues that the interlinked disas-
+              ters driven by the twentieth century’s petroleum economy succeeded a
+              Victorian scenario by which coal was extracted, distributed, and inciner-
+              ated along networks connecting major cities by rail. By the 1970s, these
+              Victorian practices of accumulation—fixed to physical limits, bound by
+              established lines of connection—came to seem quaint against an emer-
+              gent economic logic whereby petroleum traveled by tanker along vari-
+              able routes, and in which the concept of growth itself had become
+              unmoored from “spatial and material processes that had physical limits.”
+              Instead, growth came to be conceived in relation to a new and theoreti-
+              cally limitless abstraction: “the economy.”10 Mitchell shows how, for rea-
+              sons too complex to detail here, this notion of “the economy” as a closed
+              totality of monetary circulation generated countermovements, political
+              and economic both, that culminated in the “production of the environ-
+              ment as a rival object of politics.”11 In this telling, “the environment” owes its
+              roots to specific antagonisms over labor, capital, and energy access in the
+              crisis period of early neoliberalism: it was a new abstraction vast enough
+              to leverage against “the economy.” Baby boomers, caught as they were in
+              the whirlwind of the Great Acceleration’s money economy—which was,
+              we might note, also the moment that established Victorian Studies as a
+              discipline—thus succeeded in solidifying a notion of environment coex-
+              tensive with something like “earth” or “nature” conceived as total system.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:22, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000542
+
+                    678          VL C      •    VO L. 46, N O. 3/4
+                    Like the first Earth Day, the Environmental Protection Agency dates from
+                    1970, when it was proposed as an entity able to manage items of legislation,
+                    like the Clean Air Act (1970) and the Clean Water Act (1972), directed at
+                    more particular earth systems. And as the Great Acceleration accelerated,
+                    so too did this newly abstract environment: Google’s NGram shows the
+                    sharpest spike for “the environment” between 1960 and 1975, after
+                    which point the definite-articled term levels off until the mid-1980s,
+                    when it shoots skyward again.
+                            Published at the height of this new burst in 1983, Gillian Beer’s mas-
+                    terful evaluation of Darwinian thought bears a snapshot of environ-
+                    ment’s conceptual history in its syntax. In Darwin’s Plots, Beer
+                    summarized natural selection by noting that “the fitness of an individual
+                    to its environment” depended on a sense (contra Hardy) that “the environ-
+                    ment is not monolithic or stable.”12 She continued: “we tend to think of
+                    the individual organism as dynamic and the environment as static—but
+                    the environment, being composed of so many more varied needs than
+                    the individual, is prone to unforeseeable and uncontrollable changes.”13
+                            Varied and changeful as it is here represented to be, “the environ-
+                    ment” nevertheless receives the definite article: it is a container into
+                    which so many other local milieus might be subsumed. Beer’s hesitation
+                    between “its” and “the” environment thus fixes into uneasy totality what
+                    the sentence argues to be plural and endlessly variable. This tension crys-
+                    tallizes the mismatch between, on the one hand, the argot of post-1970s
+                    environmental thought informing Beer’s 1983 intervention and, on the
+                    other, the more plastic or pluralized dance between milieu and instance,
+                    background and foreground, animate “organism” and questionably
+                    animate milieu, that Charles Darwin himself had always imagined as
+                    “entangle[ment].” The twist is that the term “environment” appears
+                    not a single time in On the Origin of Species itself. Instead Darwin uses a
+                    plural term, “conditions,” which appears endlessly, and in multiple
+                    forms: as “surrounding conditions,” “physical conditions,” “conditions
+                    for . . . propagation,” and (most commonly) “conditions of life.”14
+                            To recover this definitional question as a problem for Victorian
+                    form, we might turn finally to Dickens, who in Our Mutual Friend
+                    (1865) translates into narrative opportunity the very conceptual difficul-
+                    ties in “environment” charted so far. That gothic study of systems and
+                    entropy folds its human and nonhuman worlds together only to prise
+                    them back apart, and vice versa. This interchange between foreground
+                    and background confirms Bruno Latour’s insight that what he calls the
+                    work of purification, which establishes the living world of human culture
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:22, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000542
+
+                                                                                                   E NV I RO NM E N T               679
+              and the inert or mechanistic domain of nonhuman nature as “entirely
+              discrete ontological zones,” comes hand in hand with “work of transla-
+              tion,” which “creates mixtures between entirely new types of beings,
+              hybrids between nature and culture.”15 Articulated skeletons, animate
+              dolls, heaps of dust, dead bodies dragged from the river: in all these
+              tropes and more, the novel crystallizes the play between the categories
+              of thing and person, environment and character, nature and culture, a
+              drama that plays out, as in Beer, at the level of syntax: here, the personal
+              pronoun. Dead bodies, nearly obsessively, are denied it, and thus find
+              themselves separated across a semantic divide from the world of the
+              human characters who might participate in the sentimental melodrama
+              of this marriage plot. “It was insensible,” notes Lizzie of her future hus-
+              band Eugene Wrayburn, now floating as part of her environment in
+              the Thames, “if not virtually dead; it was mutilated, and streaked the
+              water all about it with dark red streaks. As it could not help itself, it
+              was impossible for her to get it on board.”16 But in Dickens’s heteronor-
+              mative economy of redemption, it must be redeemed into he, and this
+              appalling object does become human again. In charting this recuperative
+              motion Dickens ratifies the humanism Latour calls “modern” thinking,
+              but in so doing also names as problematic the very dilemma the term
+              “environment” likewise identifies. I am referring to the transitional
+              space between milieu and character, a variable line that both separates
+              and connects the world of objects from the world of (human) subjects.
+              In this sense Dickens’ experiment might spur us to convert our questions
+              about “Victorian literature and the environment” into other, nimbler
+              conceptual pairings: Victorian Cultures of Nature, say, or Nonhuman
+              Victorians, or even, to channel Dickens and Darwin, The Conditions of
+              (Victorian) Life.
+                                                                      NOTES
+                1. “environment, n.,” OED Online, Oxford University Press, http://
+                     www.oed.com.
+                2. Elizabeth Carolyn Miller, “Dendrography and Ecological Realism,”
+                     Victorian Studies 5, no. 4 (2016): 696–718, 699.
+                3. Miller, “Dendrography,” 698.
+                4. Fernand Braudel, The Mediterranean and the Mediterranean World in
+                     the Age of Philip II, Vol. 1, trans. Sian Reynolds (New York: Harper,
+                     1972), 20.
+                5. Braudel, The Mediterranean, 41.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:22, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000542
+
+                    680          VL C      •    VO L. 46, N O. 3/4
+                       6. Michel Serres, The Natural Contract, trans. Elizabeth MacArthur and
+                            William Paulson (Ann Arbor: University of Michigan Press, 2003);
+                            quoted in Vin Nardizzi, “What is ‘Environment’?,” lecture delivered
+                            at Georgetown University, April 8, 2017.
+                       7. Robert Gittings, Thomas Hardy’s Later Years. In Young Thomas Hardy
+                            and Thomas Hardy’s Later Years (New York: Book of the Month,
+                            1990), 59.
+                       8. “environment, n.,” OED Online, Oxford University Press, http://
+                            www.oed.com.
+                       9. “Within the last three human generations, three-quarters of the
+                            human-caused loading of the atmosphere with carbon dioxide took
+                            place. The number of motor vehicles on Earth increased from 40 mil-
+                            lion to 850 million. The number of people nearly tripled, and the
+                            number of city dwellers rose from above 700 million to 3.7 billion.
+                            In 1950 the world produced about 1 million tons of plastics but by
+                            2015 that rose to nearly 300 million tons. In the same time span,
+                            the quantities of nitrogen synthesized (mainly for fertilizer) climbed
+                            from under 4 million tons to more than 85 million tons. . . . The
+                            entire life experience of almost everyone now living has taken place
+                            within the eccentric historical moment of the Great Acceleration”
+                            (Peter Engelke and J. R. McNeill, The Great Acceleration: An
+                            Environmental History of the Anthropocene since 1945 [Cambridge:
+                            Belknap Press, 2016], 4–5).
+                    10. Timothy Mitchell, Carbon Democracy: Political Power in the Age of Oil
+                            (New York: Verso, 2012), 169.
+                    11. Mitchell, Carbon Democracy, 170–171 (emphasis added).
+                    12. Gillian Beer, Darwin’s Plots: Evolutionary Narrative in Darwin, George Eliot,
+                            and Nineteenth-Century Fiction (Cambridge: Cambridge University Press,
+                            2009), 18 (emphasis added).
+                    13. Beer, Darwin’s Plots, 18 (emphasis added).
+                    14. Charles Darwin, The Origin of Species by Means of Natural Selection; or the
+                            Preservation of Favoured Races In The Struggle For Life, 6th ed. (Project
+                            Gutenberg, 1859): https://www.gutenberg.org/files/2009/2009-h/
+                            2009-h.htm. Devin Griffiths explains how Darwin imagined “a
+                            world of nonhuman intent and distributed sentience” that “effec-
+                            tively flattened the natural world, diffusing intentionality as an emer-
+                            gent property shared throughout nature” (Devin Griffiths, The Age of
+                            Analogy: Literature and Science Between the Darwins [Baltimore: Johns
+                            Hopkins University Press, 2016], 238).
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:22, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000542
+
+                                                                                                   E NV I RO NM E N T               681
+              15. Bruno Latour, We Have Never Been Modern, trans. Catherine Porter
+                     (Cambridge: Harvard University Press, 1993), 10.
+              16. Charles Dickens, Our Mutual Friend (New York: Penguin, 1998),
+                     683–84.
+              Environment
+              ALLEN MACDUFFIE
+              T      HE story of the coinage and popularization of the word environment
+                     in its modern sense runs through some of the towering intellectual
+              figures of the Victorian period—Thomas Carlyle, Harriet Martineau, G.
+              H. Lewes, and Herbert Spencer—and their continental influences,
+              Johann Wolfgang von Goethe and Auguste Comte. In some ways, it is a
+              story that bears directly upon the wholesale rethinking of the conven-
+              tional divide between nature and culture that went on in many disci-
+              plines over the course of the century, a conceptual shift that has roots
+              in German and British Romantic thought, and finds scientific theoriza-
+              tion in the work of Charles Darwin. But it’s also a story about the compli-
+              cations and difficulties involved in reimagining the relationship between
+              these two crucial categories, and the way racial, imperial, and economic
+              ideologies blunted or even subverted the new conceptual possibilities for
+              ecological thinking that the term environment both reflected and helped
+              generate.
+                      It seems fitting that the word “environment” would first appear in its
+              modern guise in 1828, at the dawn of the period that would produce the
+              factory town and the railroad, the Coal Question and the Great Guano
+              Rush, Tess of the d’Urbervilles and Wuthering Heights, and, for many contem-
+              porary critics, the first observable signs of the Anthropocene. Carlyle first
+              uses it in his essay Goethe to translate the master’s original German
+              Umgebung and to signify not merely surroundings or context (as it had
+              been commonly used before) but rather the vital, ongoing influence of
+              those surroundings upon a person or thing.1 As Ralph Jessop argues,
+              this coinage arises from the “counter-Enlightenment” stance Carlyle
+              took against the forces of mechanization and mechanical thinking: envi-
+              ronment is an attempt to convey something of the holistic, “dialogical
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:22, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000542
+

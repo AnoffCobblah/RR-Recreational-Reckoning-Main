@@ -1,0 +1,202 @@
+                                                                           I N STI TUTI O NS , LI TERATURE                          745
+              allows for individual narrative arcs and even heroism at the level of the
+              novel, while attesting to the power of something grander than the indi-
+              vidual at the level of the series. As we’re faced anew with the question
+              of how to balance a single individual’s disruptive claims against long-
+              standing institutional norms, and whether or not to fear a bureaucratic
+              “deep state” operating independently of executive power, Trollope’s
+              formal negotiations take on fresh power.
+                                                                      NOTES
+              1. Anthony Trollope, Can You Forgive Her? (1864; London: Everyman,
+                   1994), 714.
+              2. “Full Transcript and Video: James Comey’s Testimony on Capitol
+                   Hill,” New York Times, June 8, 2017.
+              3. Carolyn Dever, “Trollope, Seriality, and the ‘Dullness’ of Form,”
+                   Literature Compass 7, no. 9 (2010): 861–66, 862.
+              4. Frank E. Robbins, “Chronology and History in Trollope’s Barset
+                   and Parliamentary Novels,” Nineteenth-Century Fiction 5, no. 4 (1951):
+                   303–16, 308.
+              5. Anthony Trollope, Phineas Redux, (Oxford: Oxford University Press,
+                   1991), 278.
+              6. Anthony Trollope, The Duke’s Children (Oxford: Oxford University
+                   Press, 1991), 488–89.
+              Literature
+              SARAH ALLISON
+                     O begin, if we merely say that literature, in the sense of “written work
+              T      valued for superior or lasting artistic merit,”1 has been a major disci-
+              plinary shibboleth of the last thirty years and leave the reader to imagine
+              an entry on literature as it might have appeared in 1987, or 1993, or
+              2005,2 “literature” could then work as a placeholder for debates about
+              canonicity and prestige that have since become part of a wider discipli-
+              nary self-conception. Here, I suggest that the relevance of the term
+              now lies both in its apparent contrast with other forms of writing and
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:44:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000724
+
+                    746          VL C      •    VO L. 46, N O. 3/4
+                    in the way different types of literature are distinguished from one
+                    another. The Oxford Historical Thesaurus gives twenty-eight entries
+                    under headings of “types of literature,” including “highest class” and
+                    “inferior,” as well as “satiric,” “folk,” “ancient Latin and Greek,” and so
+                    forth. That is, the word “literature” is useful in drawing distinctions not
+                    only of value but of genre and provenance. The question about literature
+                    in the nineteenth century was often not whether a text was “literature,” but
+                    what kind of literature it was. What if the key feature of literature has
+                    really only ever been the modifier that precedes it?
+                            If “literature” is a word whose main significance might actually lie in
+                    the adjectives that qualify it, then the most useful history of the word now
+                    accounts for it primarily in terms of the company it keeps. Computational
+                    text analysis helps restore this word to nineteenth-century discursive con-
+                    texts. In a presentation called “Around the word «littérature»: The
+                    English case,” Mark Algee-Hewitt, Ryan Heuser, David McClure, and
+                    Franco Moretti developed (effectively) a series of snapshots of discourse
+                    from the narrow perspective of a string of characters: l-i-t-e-r-a-t-u-r-e.3
+                    Their work lets us see what McClure calls “marquee-level changes in its
+                    use,”4 in particular the emergence of the idea of literature as belles lettres
+                    traced by Raymond Williams and others,5 and it also draws our attention to
+                    the presence of the word in discourses about classicism, pedagogy, and
+                    nationalism. That is, literature with its modifiers helps us see past the gen-
+                    res we impose, if only by suggestive, implicit contrast. The language in
+                    which a text is written, the culture it hails from, or the commercial or ped-
+                    agogical context of its circulation might each be considered a top candi-
+                    date for the most salient feature of the texts we study, and a distanced
+                    perspective on the word lets us see all those uses at once.
+                            This particular string of characters helps us read as Linda K. Hughes
+                    argues that we should: “sideways, including analysis across genres.”6
+                    Though Hughes argues in favor of nondigital methods, I follow Anne
+                    DeWitt in suggesting we orient ourselves sideways by using computational
+                    methods to develop a picture of the landscape of nineteenth-century dis-
+                    course.7 Specifically, that includes nonfictional as well as fictional genres,
+                    as the imaginativeness of fiction and poetry emerge by contrast to nonfic-
+                    tional genres. The essential terms of this twist on the history of this word
+                    are there in Keywords, in which Williams traces “the attempted and often
+                    successful specialization of literature to certain kinds of writing.”8
+                    Williams’s entry on literature reveals how imaginative writing came to
+                    be recognized as literature, “affected by an emphatic definition of appro-
+                    priate subject-matter.”9 The key distinction in Williams is between
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:44:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000724
+
+                                                                                                       LITERATURE                   747
+              imaginative books and the “concepts of writing and communication” they
+              seem to exclude, a point that is increasingly relevant institutionally—at
+              my university, English and mass communication are separate depart-
+              ments, and our program has separate tracks in literature, writing, and
+              film and digital media. Conceptually, too, it matters, because establishing
+              that “literature” is always a subcategory of a larger body of texts supple-
+              ments the sense that students are majoring in specialized imaginative lit-
+              erature with a sense that they are being taught to make distinctions,
+              broad and subtle, to help organize the mass of texts they encounter.
+                      The thing, literature, evokes some of the same cultural crosscurrents
+              as the canon debates—arguments about cultural capital, about the rela-
+              tion of class and personhood to knowledge, about nationalism and
+              imperialism—in nonliterary contexts. By looking for the word every-
+              where at once, we can see how it once circulated—and continues to cir-
+              culate—more broadly as a way to designate different kinds of writing and
+              how it might function to remind us that everything is a text. The other
+              definition of literature I’d like us to keep in mind is “non-fictional
+              books and writings published on a particular subject.”10 The significance
+              of these two notions of the word now to university teaching is evident in a
+              search for “literature” on the Open Syllabus Explorer,11 a collection of
+              syllabi drawn from across disciplines. As of December 2017, the top
+              three most-taught texts with “literature” in the title are an essay on the
+              role of contemporary literature in the college curriculum, the Norton
+              Anthology of Literature, and a book on the literature review in the social sci-
+              ences.12 If we consider that the dust has more or less settled around fights
+              about the idea of literariness, taking it up again now becomes a way to see
+              past the “irrelevance” of literature in favor of a renewed interest in the
+              many kinds of literature that circulated in the nineteenth century and
+              that continue to circulate around us today.
+                                                                      NOTES
+                1. “literature, n.,” OED Online, Oxford University Press, http://ww.
+                     oed.com.
+                2. Gerald Graff, Professing Literature: An Institutional History (Chicago:
+                     University of Chicago Press, 1987); Allan Bloom, The Closing of the
+                     American Mind: How Higher Education Has Failed Democracy and
+                     Impoverished the Souls of Today’s Students (New York: Simon and
+                     Schuster, 1987); Jacques Derrida, Acts of Literature, ed. Derek
+                     Attridge (New York: Routledge, 1991); John Guillory, Cultural
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:44:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000724
+
+                    748          VL C      •    VO L. 46, N O. 3/4
+                            Capital the Problem of Literary Canon Formation, ACLS Humanities
+                            E-Book (Chicago: University of Chicago Press, 1993); Derek
+                            Attridge, The Singularity of Literature (London: Routledge, 2004);
+                            James F. English, The Economy of Prestige: Prizes, Awards, and the
+                            Circulation of Cultural Value (Cambridge: Harvard University Press,
+                            2005).
+                       3.   This presentation, given in May 2016, was one stage of a larger collab-
+                            orative project called “‘Literature/Littérature’: History of a Word,”
+                            which involves researchers from the Stanford Literary Lab; the
+                            Sorbonne, Paris; Loyola University New Orleans; and the Max Planck
+                            Institute, Frankfurt.
+                       4.   David McClure, e-mail message to author, June 20, 2016.
+                       5.   Raymond Williams, Keywords: A Vocabulary of Culture and Society
+                            (New York: Oxford University Press, 1985).
+                       6.   Linda K. Hughes, “SIDEWAYS!: Navigating the Material(ity) of Print
+                            Culture,” Victorian Periodicals Review 47, no. 1 (2014): 1–30, 1–2.
+                            Hughes makes an argument for “sequential rather than ‘data min-
+                            ing’ approaches to reading periodicals” (2), a framework that
+                            describes her method of transforming texts into three-dimensional
+                            historical debates, as when she reframes Arnold’s essays on culture
+                            as part of a longer conversation.
+                       7.   Anne DeWitt, “Advances in the Visualization of Data: The Network of
+                            Genre in the Victorian Periodical Press,” Victorian Periodicals Review
+                            48, no. 2 (2015): 161–82. DeWitt argues that readers create genre ret-
+                            rospectively in 1880s periodicals. She points out that “even the drastic
+                            expansion of the canon that Moretti calls for ignores the ‘large mass
+                            of facts’ that constitute Victorian print culture, an oversight that
+                            becomes all the more problematic given the well-established imbrica-
+                            tion of novels with the periodical press” (162).
+                       8.   Williams, Keywords, 152 (emphasis mine).
+                       9.   Williams, Keywords, 145. “Poetry had been the high skills of writing and
+                            speaking in the special context of high imagination; the word could
+                            be moved in either direction. Literature, in its C19 sense, repeated
+                            this, though excluding speaking,” but in recent years, he adds, “liter-
+                            ature and literary . . . have been increasingly challenged by concepts
+                            of writing and communication which seek to recover the most active
+                            and general senses which the extreme specialization had seemed
+                            to exclude” (154). He also notes that “in relation to the past,
+                            Carlyle and Ruskin, for example, who did not write novels or
+                            poems or plays, belong to English literature” (152).
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:44:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000724
+
+                                                                                  LITERATURE, LOGISTICS                             749
+              10. “literature, n.,” OED Online.
+              11. The database is designed to “enable new lines of inquiry into canon
+                     formation, the evolution of disciplines, pedagogical change, and
+                     institutional history” (“About—The Open Syllabus Project,” http://
+                     opensyllabusproject.org/faq).
+              12. Thomas H. English, “Contemporary Literature,” South Atlantic
+                     Bulletin 5, no. 1 (1939): 1–6; The Norton Anthology of English
+                     Literature, 9th ed., ed. M. H. Abrams, Stephen Greenblatt, et al.
+                     (New York: Norton, 2012); Chris Hart, Doing a Literature Review:
+                     Releasing the Social Science Research Imagination (London: Sage,
+                     1998). If one restricts the search to “English,” the third book listed
+                     in the results is a reference source: William Harmon’s A Handbook
+                     to Literature, 12th ed. (Boston: Pearson, 2011).
+              Logistics
+              SUSAN ZIEGER
+              L      OGISTICS, the art and science of efficiently managing the mobility
+                      of things and people, seems a twenty-first century phenomenon,
+              associated with global supply chains and their emblem, the shipping con-
+              tainer. Logistics manages the flow of production and distribution, reduc-
+              ing inventory costs and delivering goods just-in-time; it nimbly adjusts to
+              fluctuations and disruptions in the supply chain, whether from under-
+              sourced materials, workers’ strikes, or software malfunctions. Though
+              the efficient transportation of goods is as old as antiquity, it clearly accel-
+              erates after the Industrial Revolution, as part of the famous annihilation
+              of space and time at which Victorians marveled. Steamships, steel
+              hulls, and refrigerated shipping expanded the volume and variety of
+              transportable goods; and modernizing national and international postal,
+              telegraph, telephonic, and wireless networks facilitated fast flows of finan-
+              cial and commercial information. Moreover, the term logistique was a
+              nineteenth-century one; it originally meant the supply of materiel to
+              troops in warfare. The Napoleonic Wars made logistics a new area in
+              the study of war, on par with strategy and tactics. Military logistics was
+              never aloof from the movement of capital in the prehistory of
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:44:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000724
+

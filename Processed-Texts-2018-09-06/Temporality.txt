@@ -1,0 +1,202 @@
+                                                                             TELEOLOGY, TEMPORALITY                                 909
+              does not mean we’re caught in a trap; it just means we can’t help thinking
+              about the future. Carly Simon still puts it best: We can never know about the
+              days to come, but we think about them anyway.
+                                                                      NOTES
+              1. Terry Eagleton, The Illusions of Postmodernism (Oxford: Blackwell
+                   Publishers, 1996), 108.
+              2. Jesse Rosenthal, Good Form: The Ethical Experience of the Victorian Novel
+                   (Princeton: Princeton University Press, 2017).
+              3. Caroline Levine, Forms: Whole, Rhythm, Hierarchy, Network (Princeton:
+                   Princeton University Press, 2015); Paul K. Saint-Amour, Tense Future:
+                   Modernism, Total War, Encyclopedic Form (Oxford: Oxford University
+                   Press, 2015). Fredric Jameson has famously argued that we are unable
+                   to imagine a better world, and that science fiction confronts the
+                   impossibility of imagining the future in Archaeologies of the Future: The
+                   Desire Called Utopia and Other Science Fictions (New York: Verso, 2005).
+                   To this, Kim Stanley Robinson responds, “We can imagine utopia;
+                   it’s easy as pie”—it’s imagining how to get there that’s the dilemma
+                   —but “we have come to a moment of utopia or catastrophe; there is
+                   no middle ground. . . . utopia is no longer a nice idea but, rather, a
+                   survival necessity” (“Remarks on Utopia in the Age of Climate
+                   Change,” Utopian Studies 27, no. 1 [2016]: 7, 10).
+              4. Eve Kosofsky Sedgwick, “Paranoid Reading and Reparative Reading,
+                   Or, You’re So Paranoid, You Probably Think This Introduction Is
+                   about You,” in Novel Gazing: Queer Readings in Fiction (Durham: Duke
+                   University Press, 1997), 4.
+              5. Sedgwick, “Paranoid Reading,” 4.
+              6. Rita Felski, “Suspicious Minds,” Poetics Today 32, no. 2 (2011): 215–34, 225.
+              Temporality
+              JACOB JEWUSIAK
+                        HEN Gerard Manley Hopkins reflects on the “grandeur of God,”
+              W         he claims that it “will flame out, like shining from shook foil”
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800116X
+
+                    910          VL C      •    VO L. 46, N O. 3/4
+                    and gather “to a greatness, like the ooze of oil.”1 These modalities of
+                    Godly power exemplify competing temporalities: the flashing, electric
+                    moment and a slow, encompassing duration. God’s combination of
+                    these temporalities serves as proof of his greatness—a divine simultaneity
+                    that brings together times that, for humans, remain epistemologically dis-
+                    tinct. The sonnet then presents a bifurcated image of the world: one
+                    where generations of humanity have “seared” the soil with trade and
+                    another of a resilient nature “never spent.”2 By opposing the world of
+                    humanity’s finite scarcity against that of the Holy Ghost’s eternal abun-
+                    dance, these lines create an alternative temporal binary. The sonnet
+                    entwines these different ways of thinking about time—the moment/dura-
+                    tion and the finite/eternal—through the envelope rhyme of its octave
+                    and the cross rhyming of its sestet. These configurations of rhyme attest
+                    to the poem’s uneven mapping of one system of time onto another. The
+                    analysis of duration, for example, not only derives meaning from its
+                    opposition to the moment, but also bears the residue of tangential and
+                    tendentious ways of thinking about time, such as finitude and infinitude.
+                            By drawing together different vectors of time, “God’s Grandeur”
+                    reminds the critic of Victorian literature of the temporal complexity
+                    that has fallen out of current debates about historicism and formalism.
+                    Recently, critics such as John Bowen and Rita Felski have attacked the his-
+                    toricist position as edging out the innovation of new critical approaches;
+                    Tom Eyers memorably refers to this as the “strangulating hegemony of his-
+                    toricism in the literary disciplines.”3 In response to this frustration, some
+                    scholars have pushed the pendulum of scholarship to form. Following
+                    Caroline Levine’s influential book Forms and Sandra Macpherson’s call
+                    to imagine “a genuinely formalist critical practice . . . that would turn
+                    one away from history without shame or apology,” a series of recent
+                    books in Victorian criticism have featured “form” in their titles.4 In what fol-
+                    lows, I argue that the turn away from history to form often privileges spatial
+                    arrangements, such as structural patterns (Levine) or description (surface
+                    reading), over time’s passage. I propose that renewed engagement with
+                    temporality offers polemic opportunities that the debate between histori-
+                    cism and formalism obscures.
+                            While critics such as Catherine Gallagher and Pearl Brilmyer have
+                    recently called for injecting formalism with new temporal possibilities,
+                    they stop short of providing concrete models for what this might look
+                    like.5 Hopkins’s “God’s Grandeur” provides one possible model by set-
+                    ting duration and the moment alongside the finite and the infinite as
+                    a way of expanding the dimensions of temporal experience. Drawing
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800116X
+
+                                                                                                     T E M PO R A L I T Y           911
+              these systems into new configurations also challenges the temporal com-
+              mitments of historicism and formalism. In their strongest expressions,
+              the formalist freezes the literary text to reveal timeless structures that
+              transcend contextual specificity, while the historicist reads the text as a
+              product of the historical contingencies that surround its production.
+              Though many critics now work somewhere at the intersection of history
+              and form, the terms resonate with a polemic opposition that continues to
+              inform scholarly debates.
+                      Yet the normalization of this methodological opposition has resulted
+              in a critical myopia that privileges spatial concerns over the temporal—in
+              arguments that require a firm grounding in space before entering the
+              conversation. Many of the most influential pieces in Victorian studies
+              focus upon institutional or domestic spaces—such as the prison, the
+              workhouse, the factory, or the home—and even studies of time in the
+              nineteenth century often examine the way clocks and trains reconfigure
+              social spaces. Rather than accuse historicism as narrowing our field and
+              positing formalism as the cure, a turn to temporality can open new meth-
+              odological coordinates.6 By bracketing the well-worn tracks of historicism
+              and formalism, we might clear an opening for new critical positions, a
+              richer continuum for polemic based on the interaction—rather than
+              opposition—of different time systems.
+                      This reparative approach to temporality can help us identify exam-
+              ples of marginality that a more spatially oriented polemic might miss.
+              How do the characters who do not have a “place” in the Victorian novel’s
+              major plots—such as the bildungsroman or the marriage plot—make
+              ethical demands on the reader’s attention through the way time shapes
+              the narrative? By thinking in a temporal idiom beyond the formalist/his-
+              toricist binary, we can attend to mixtures of dilation and compression,
+              diuturnity and eventfulness, that the linear narrative of development
+              pushes aside in its focus on the singular protagonist. Marginal characters
+              do not just compete for limited space, but also inhabit temporal zones
+              that intersect, overlay, and parallel the represented world shared in the
+              text.7 For example, a temporal context that has received relatively little
+              critical attention is aging. The intersection of the biological and cultural
+              rhythms of growing older as it occurs in a poem or novel provides a rich
+              site for interrogating the politics of representation—of who counts as
+              worthy of attention and who does not. Thomas Hardy, in “I Look Into
+              My Glass,” reflects on the way time writes itself into his face: the “wasting
+              skin” he views in the mirror contrasts with the youthful feeling in his
+              heart, and gives rise to a sense of alienation from “hearts grown cold
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800116X
+
+                    912          VL C      •    VO L. 46, N O. 3/4
+                    to me.”8 The coming of age creates dissonance on two temporal planes—
+                    the poet’s relation to himself, where his appearance does not correspond
+                    to his inner feeling, and society, which excludes the poet based on ageist
+                    expectations about growing older.
+                            While temporalities such as aging tend to be associated with margin-
+                    alization, this is not always the case, nor is this the most compelling ave-
+                    nue of inquiry. Instead, we should ask how authors used temporality as a
+                    way of escaping, critiquing, lamenting, or celebrating the spatial contexts
+                    that appear so much more unforgivably solid and inescapably real.
+                    Enabling an inventive inquiry about how literature holds together some-
+                    times irreconcilable combinations of time involves thinking beyond a
+                    reductive opposition of terms like history and form, to the overlooked
+                    and undiscovered temporal interstices of a future criticism.
+                                                                            NOTES
+                    1. Gerard Manley Hopkins, “God’s Grandeur,” in Poems and Prose
+                          (New York: Penguin, 1985), 27, lines 1–3.
+                    2. Hopkins, “God’s Grandeur,” lines 6, 9.
+                    3. Tom Eyers, “Theory Over Method, or In Defense of Polemic,” Critical
+                          Inquiry 44, no. 1 (2017): 136–43, 139. Bowen laments “how deeply (or,
+                          rather, how shallowly) historicist most Victorian studies is” (“Time for
+                          Victorian Studies?” Journal of Victorian Culture 14, no. 1 [2009]: 282–93,
+                          284). In a wider context, Felski urges that “We cannot close our eyes to
+                          the historicity of art works, and yet we sorely need alternatives to see-
+                          ing them as transcendentally timeless on the one hand and impris-
+                          oned in their moment of origin on the other” (The Limits of Critique
+                          [Chicago: Chicago University Press, 2015], 154).
+                    4. Sandra Macpherson, “A Little Formalism,” ELH 82, no. 2 (2015): 384–
+                          405, 385. See recent volumes such as Nathan K. Hensley, Forms of
+                          Empire: The Poetics of Victorian Sovereignty (Oxford: Oxford University
+                          Press, 2016); Jesse Rosenthal, Good Form: The Ethical Experience of the
+                          Victorian Novel (Princeton: Princeton University Press, 2017); Claire
+                          Jarvis, Exquisite Masochism: Marriage, Sex, and the Novel Form
+                          (Baltimore: Johns Hopkins University Press, 2016).
+                    5. Identifying a tendency for criticism to extract the timeless from the
+                          momentary, Gallagher calls for “analytic insights into the temporal
+                          nature of narrative” that address what is left out of the “partialness
+                          and inadequacy of stop-action formal analyses” (“Formalism and
+                          Time,” MLQ 61, no. 1 [2000]: 229–51, 251). More recently, Brilmyer
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800116X
+
+                                                                      TE MPORALITY, THEATRICALITY                                   913
+                   uses Ruskin to reflect upon the duration of literary form: “Let us imag-
+                   ine new ways of accounting for the temporality of both social and lit-
+                   erary forms, structures which are neither unchanging outlines nor
+                   historical moments entirely past” (“Durations of Presents Past:
+                   Ruskin and the Accretive Quality of Time,” Victorian Studies 59, no. 1
+                   [2016]: 94–97, 96–97).
+              6. Sue Zemka’s Time and the Moment in Victorian Literature and Society
+                   (Cambridge: Cambridge University Press, 2012) provides a compel-
+                   ling example of using temporality as the basis for a larger account
+                   of hermeneutics, modernity, and the novel.
+              7. Alex Woloch theorizes characters in the novel as “jostl[ing] for limited
+                   space within the same fictive universe” (The One vs. The Many: Minor
+                   Characters and the Space of the Protagonist in the Novel [Princeton:
+                   Princeton University Press, 2003], 13).
+              8. Thomas Hardy, “I Look Into My Glass,” in Thomas Hardy: The Complete
+                   Poems, ed. James Gibson (London: Palgrave, 2001), 81, lines 2, 6.
+              Theatricality
+              SHARON ARONOFSKY WELTMAN
+              D       URING its first season, the hit television series Glee aired an episode
+                       named “Theatricality,” in which the talented glee club kids pay
+              homage to Lady Gaga and Kiss.1 They wear homemade versions of the
+              stars’ hyperextravagant costumes in their high school’s hallways as well
+              as on stage, using their wild (and wildly creative) outfits for defiant self-
+              expression, braving harsh reactions from bullies and the school principal.
+              Beyond the students’ personal flair, the title draws attention to the epi-
+              sode as exuberant performance rather than as a mimetic approximation
+              of real life.
+                      Because “theatricality” denotes knowingness about the medium’s
+              effect, it is also defined negatively: “the quality of being exaggerated
+              and excessively dramatic.”2 This is how Thomas Carlyle uses the term
+              in its oldest recorded instance (which is Victorian): The French
+              Revolution (1837) opposes theatricality to sincerity.3 Here Carlyle displays
+              the antitheatricality that Jonas Barish chronicles in The Anti-theatrical
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800116X
+

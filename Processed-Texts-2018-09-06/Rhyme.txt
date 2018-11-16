@@ -1,0 +1,164 @@
+                    844          VL C      •    VO L. 46, N O. 3/4
+                    11. George Eliot, Romola, ed. Andrew Sanders (London: Penguin, 1980),
+                            433.
+                    12. Eliot, Mill, 363–64.
+                    13. Arnold, Culture, 33.
+                    Rhyme
+                    NAOMI LEVINE
+                    O         NE enigmatic statement about rhyme appears all the time in
+                               Victorian poetry criticism. It’s this: “Rhyme has been said to con-
+                    tain in itself a constant appeal to Memory and Hope.”1 The statement
+                    is attributed to Arthur Hallam, the critic whose early death is the subject
+                    of Alfred Tennyson’s In Memoriam (1850). Hallam’s idea of rhyme has
+                    long been used to explain the form of the In Memoriam stanza; in the for-
+                    ward and backward movement of the abba rhymes, readers keep hearing
+                    the melancholy play of memory and hope that Hallam described.2
+                            Hallam’s statement has become an axiom of Victorianist close read-
+                    ing, but in its original context it described a set of historical phenomena:
+                    the migration of rhyme from Arabic to Provençal poetry and the cultiva-
+                    tion of rhyme’s expressive properties by the troubadours. Hallam, I
+                    argue, borrowed his idea from Romantic literary historiography, most
+                    directly from J. C. L. Simonde de Sismondi’s De la littérature du midi de
+                    l’Europe (1813; trans. 1823). This intellectual background matters, both
+                    for our understanding of Victorian poetics and for our own ways of
+                    approaching questions of form. It tells us, surprisingly, that in the
+                    nineteenth-century imagination rhyme’s effects were tied to its origins:
+                    no form without history. It also tells us that there was no such thing as
+                    Victorian rhyme if “Victorian” means England and the nineteenth cen-
+                    tury. Victorian rhyme was a medievalist and orientalist idea about the ori-
+                    gin of European poetry, and it arose from Continental aesthetics and
+                    literary history writing.
+                            Few people read Sismondi’s comparative literary scholarship today.
+                    It is exactly the kind of large-scale historiography that twentieth-
+                    century formalism reacted against—but it was widely read in its
+                    time. The book, written in a period of conversation with Germaine
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000992
+
+                                                                                                                   R HY M E         845
+              de Staël and August Schlegel, traces the development of Romance-
+              language literatures from their medieval beginnings. Sismondi’s
+              claim is that European rhyme derived from Arabic love lyrics; when
+              Provençal troubadours began to rhyme, they were learning from the
+              poetry of Arabia via Al-Andalus. From the love poems of Provence,
+              rhyme entered the rest of Europe. This view is known as the Arabist
+              (or Hispano-Arabic) theory of rhyme, and Sismondi helped popularize
+              it in the nineteenth century.3
+                      I focus here on a moment in Sismondi’s history that dramatizes the
+              Arabist theory and exemplifies the entanglement of formal and historical
+              approaches to poetry at this time. It’s an anecdote that tantalized the
+              poets: Robert Browning, Algernon Swinburne, and Ezra Pound all
+              wrote verses about it. A lovelorn twelfth-century troubadour, Geoffrey
+              (Jaufré) Rudel, hears of a beautiful and virtuous Countess of Tripoli.
+              He falls in love with her sight unseen, sets out on a boat to find her,
+              and gets sick on the journey. She learns that a poet is dying of love for
+              her, and she meets him aboard the ship. They have a touching encounter
+              before he is “silenced by the convulsions of death.”4 In Sismondi’s faintly
+              rhyming formulation, “he was buried at Tripoli, beneath a tomb of por-
+              phyry, which the countess raised to his memory, with an Arabic inscrip-
+              tion.”5 Other accounts elaborate on the countess’s grief: she becomes
+              a nun and spends the rest of her life devoted to Rudel’s memory.
+                      This story is about love in solitude and over long distance. For Rudel
+              the love is prospective and for the countess it is retrospective, but in both
+              cases the moment of their meeting is just a blip in a longer story of long-
+              ing. The story had been told before, but in Sismondi’s historiography it
+              takes on special narrative significance. Rudel is not just one of the first
+              troubadours, and he’s not just the personification of amour de loin—“dis-
+              tant love”—a prototype and extreme variant of courtly love. He is also a
+              crucial figure in the transnational history of rhyme, a poet who turns
+              Arabic verse forms into Provençal lyric.
+                      Sismondi introduces Rudel as his narrative pivots from Arabic to
+              Provençal prosody. He writes, “In Arabic poetry . . . the second verse of
+              each couplet frequently terminates with the same word, and this repeti-
+              tion has been, likewise, adopted by the Provençals. A remarkable exam-
+              ple of it may be found in some verses of Geoffrey de Rudel,”6 and
+              then he tells Rudel’s story and presents a poem that resembles the
+              Arabic couplet form (the ghazal) he has just described. Here is
+              Thomas Roscoe’s translation of Sismondi’s Rudel poem, which appeared
+              alongside versions in Provençal and French. Note the play of monorhyme
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000992
+
+                    846          VL C      •    VO L. 46, N O. 3/4
+                    against repetition, with every other line landing insistently on the word
+                    “afar” [luench/loin].
+                             Angry and sad shall be my way,
+                             If I behold not her afar,
+                             And yet I know not when that day
+                             Shall rise, for still she dwells afar.
+                             God! Who hast formed this fair array
+                             Of worlds, and placed my love afar,
+                             Strengthen my heart with hope, I pray,
+                             Of seeing her I love afar [etc.]7
+                     On the page, the repeating word “afar” seems to denote the spatial and
+                    temporal distance that the other rhymes reach across. The poem doesn’t
+                    just describe amour de loin: it convinces us that rhyme intrinsically is amour
+                    de loin—a kind of long-distance longing.
+                            The poem appears to corroborate Sismondi’s historical argument
+                    about the transmission of rhyme through the Mediterranean, and it
+                    helps make his case for the elegiac and erotic properties of rhyme. It
+                    demonstrates, through the poem’s material verse structure, both the
+                    genealogy and the poetics he is promoting.8 When Sismondi comes to
+                    some general observations about rhyme, he makes its formalization of
+                    troubadour love explicit. The troubadours, adapting the rhymes of
+                    Arabic poetry into a variety of stanzaic forms, found “the secret and mys-
+                    terious associations” between modern prosody and the emotions. When
+                    the troubadour “uttered his bold, nervous, and resounding rhymes; or in
+                    tender and voluptuous strains, expressed the vehemence of his love,” he
+                    was discovering that “[r]hyme is an appeal to our memory and to our
+                    expectations” (“La rime est un appel au souvenir et à l’espérance”).9
+                            Which brings us back to the aphoristic sentence of Arthur Hallam’s
+                    that took on the status of a theory in the nineteenth century: “Rhyme has
+                    been said to contain in itself a constant appeal to Memory and Hope.”
+                    On the face of it, Hallam’s statement addresses rhyme’s formal and affec-
+                    tive qualities only. It tells us that the distance between two rhyme words is
+                    a space of desire: the first word bends toward the second—longs for it,
+                    even—and the second word when we reach it remembers the first (and
+                    its longing), maybe with a retrospective longing of its own. As readers we
+                    participate in this desire, so that when we read rhymes the hoping and
+                    remembering and longing are also ours. Hallam’s is an account of
+                    rhyme on the page and in the body and mind; it seems resolutely ahistori-
+                    cal. But of course, it isn’t. What Victorian rhyme contains in itself is stories
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000992
+
+                                                                                                                   R HY M E         847
+              about the history of rhyme: Rudel’s hope and the Countess of Tripoli’s
+              memory; Provence’s worship of Arabic poetry; the way the troubadours
+              tuned Arabic rhyme to their loving and longing feelings. Hallam’s
+              English theory of rhyme, borrowed from Sismondi, is actually a dream of
+              rhyme’s many translations—the route by which Victorian rhyme arrived.
+                                                                      NOTES
+              1. Arthur Hallam, “The Influence of Italian Upon English Literature,” in
+                   The Writings of Arthur Hallam, ed. T. Vail Motter (New York: Oxford
+                   University Press, 1943), 222, n. 10.
+              2. Coventry Patmore, review of In Memoriam by Alfred Tennyson, in North
+                   British Review 13, no. 26 (1850): 545–46. See also, for example,
+                   Christopher Ricks, Tennyson (Berkeley: University of California Press,
+                   1989), 296; and Seamus Perry, Alfred Tennyson (Horndon: Northcote
+                   House, 2005), 136.
+              3. See Roger Boase, The Origin and Meaning of Courtly Love: A Critical Study
+                   of European Scholarship (Manchester: Manchester University Press,
+                   1977); María Rosa Menocal, The Arabic Role in Medieval Literary
+                   History: A Forgotten Heritage (Philadelphia: University of Pennsylvania
+                   Press, 1987); and Roberto M. Dainotto, Europe (In Theory) (Durham:
+                   Duke University Press, 2007).
+              4. J. C. L. Simonde de Sismondi, Historical View of the Literature of the South
+                   of Europe, Vol. 1, trans. Thomas Roscoe (London: Henry Colburn,
+                   1823), 105.
+              5. Sismondi, Historical View, 105. Thanks to Stefanie Markovits and Ben
+                   Glaser for hearing this rhyme.
+              6. Sismondi, Historical View, 104.
+              7. Sismondi, Historical View, 106.
+              8. Sismondi’s version is no longer considered part of Rudel’s corpus; see
+                   the variants in Rupert T. Pickens, ed., The Songs of Jaufré Rudel
+                   (Toronto: Pontifical Institute of Mediaeval Studies, 1978), 150ff.,
+                   which follow a different rhyme scheme. On the unreliability of
+                   Rudel’s sixteenth-century editor, see Boase, The Origin, 11–12.
+              9. Sismondi, Historical View, 116–17; Sismondi, De la littérature du midi de
+                   l’Europe, vol. 1 (Paris: Treuttel et Würtz, 1813), 115. See also
+                   Germaine de Staël’s observation that rhyme “is the image of hope
+                   and of memory” in Germany, Vol. 1 (London: John Murray, 1813), 289.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000992
+

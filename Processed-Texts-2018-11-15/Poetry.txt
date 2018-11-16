@@ -1,0 +1,206 @@
+                    802          VL C      •    VO L. 46, N O. 3/4
+                    Poetry
+                    MEREDITH MARTIN
+                             Our sense of what ‘poetry’ means will probably be changed by the internet
+                             just as surely as our conception of the “Victorian” will be changed. The first
+                             because we will locate poetry and theories of poetry . . . in ‘unofficial’ class
+                             and gender contexts, British and American. Poetry in Eliza Cook’s Journal will
+                             look different than the poetry published by, say, The Monthly Repository or in
+                             Scribner’s. The second because we will probe “unofficial” history as well. . . .
+                             [W]e will undo the very notion of a central, dominant historical narrative
+                             for the nineteenth century.
+                                                                 —Isobel Armstrong, “The Victorian Poetry Party”1
+                    S      INCE the last moment of self-reflection in 2004, when Isobel
+                            Armstrong wrote this passage, scholars have, indeed, been overturn-
+                    ing the very idea of “poetry” as anything like a unified subject in the
+                    Victorian era thanks, in large part, to research afforded by online
+                    archives. From the adjectives that might describe a poem (sweet, uplift-
+                    ing, smooth, mournful, delicate, song-like, marching) to the terms
+                    (meter, rhythm, tone, pitch, voice, cadence, sound, sense) to the genres
+                    in the back of our Norton Anthology (epic, ballad, song, ode, lesser ode,
+                    elegy, lyric, parody, dirge, sonnet), contemporary scholarship on
+                    Victorian poetry has become a wildly contested field that now questions
+                    not only the stability of most of the words I list above, but has also come
+                    to question the once-believed distinctions between so-called literary and
+                    popular forms. Moreover, we are reading nineteenth-century poems in
+                    transatlantic and global contexts of circulation and exchange. These con-
+                    texts have pushed us, finally, to be wary of that age-old tendency to apply
+                    (those very Victorian) progress narratives to English poetry and English
+                    poetic form, or to follow the well-worn ideologies of poetry’s civilizing
+                    power. Though there are exceptions, the move contemporary scholars
+                    are making when they encounter Victorian poetry, wherever they
+                    might find it, is to view it from several angles at once. First, scholars
+                    are questioning the narratives of how we should read Victorian poems,
+                    how and why we have been taught to read them in the ways that we
+                    have. We see how scholars of the twentieth century have read back
+                    onto the wildly heterogeneous and geographically immense world of
+                    nineteenth-century poetry in ways that have limited horizons and have
+                    curtailed certain questions. New work in nineteenth-century poetry
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000888
+
+                                                                                                                 POE T RY           803
+              thinks broadly about poetry, its readers, and the ways it conditioned its
+              readers—readers of all genders, races, and countries—to read.
+                      Why this turn toward reception? Though scholars of the history of
+              poetics like the late T. V. F. Brogan began the laborious work of reading
+              through and cataloguing the thousands of works that fell out of the reg-
+              ular canon of literary history as early as the 1980s, the availability of dig-
+              ital archives in the past ten years has accelerated the contemporary
+              re-examination about Victorian media, print, and format to an astound-
+              ing degree. A scholar of “poetry” in the Victorian era can now quickly
+              search across millions of pages beyond single volumes in library cata-
+              logues in order to think through how “poetry” was used in non-literary
+              contexts, complicating and querying long-held hierarchies between
+              “verse” and “poetry” or the older distinctions between “poetry” and
+              “prose.” Scholars have used distant reading technology to show how
+              the cultural currency of the word “meter” across the Victorian era inter-
+              sected with both enthusiasm and dismay over the idea of English national
+              culture or to survey how technology may make the perfectly educated
+              human ear obsolete in evaluating a poetic line.2 And by opening up
+              what was once thought of as purely literary, we are now reading
+              Coleridge as not only a poet and critic but also a journalist, we are tracing
+              poems across reprints and continents, and we are reading the long can-
+              onized poets of the Victorian era as well as newly canonized poets like
+              Toru Dutt as deeply embedded in a global network of circulation, imita-
+              tion, and parody.3 Though scholars have long been exploring global
+              Anglophone poetry, questions of education, cultural appropriation,
+              and translation are now central to discussions of poetic form and
+              national identity in England and the colonies.4 And English poetry
+              now means a richer and deeper examination of the communities that
+              wrote and read poems—from Chartists to working class poems in
+              Scotland, to the influence of the Bible on how Victorians read poetry
+              to the generic forces of melodrama and musicals, opera and art-songs,
+              visual art and tableau. Each of these sub-fields developed and maintained
+              its own sense of a poetics—a poetics as reading practice that has compli-
+              cated and enriched our understanding of the period.5 What was once
+              held apart as “the aesthetic” is now fundamentally historical in our
+              understanding of the nineteenth-century; historiography, as a Victorian
+              invention, is embedded in our understanding of the development of
+              Victorian aesthetics.6
+                      We are now reconsidering poetry published across various periodi-
+              cals and newspapers alongside volumes of poems in circulation, and we
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000888
+
+                    804          VL C      •    VO L. 46, N O. 3/4
+                    are also reconsidering where and how serious discussions of poetics were
+                    taking place. We have turned to previously unexamined literary histories;
+                    introductions to poetry; widely reprinted grammar books whose exam-
+                    ples might become canonical; manuals of rhetoric; guides to elocution;
+                    introductions to the English language; newspapers with reviews that crit-
+                    icize the poetic technique of another poet or offer a new reading; reviews
+                    of prosody handbooks, manuals, and treatises; in addition to the hand-
+                    books, manuals, and treatises themselves; introductions to individual
+                    poets that include explanations of the poet’s prosody; and parodies, col-
+                    lections of parodies, and histories of prosody. Until recently, this kind of
+                    material didn’t seem to count in the history of poetic form. Rather than
+                    see only one or two Victorian critics of poetry (Mill, Arnold) defining the
+                    field, we now see Victorian poetic theory as richer and more various;
+                    scholars who were once thought to have been the most influential are
+                    now read in the much broader context of a culture that used poems
+                    and poetry to appeal to several kinds of audiences at once and disagreed
+                    fervently about what counted as poetry. Victorian readers were canny
+                    connoisseurs of genre; the nineteenth-century, that great era of evolving
+                    taxonomies, produced poets who knew the suppleness of generic catego-
+                    ries—this we already knew. What we now understand is how generically
+                    conditioned Victorian readers were to apprehend the mixing, upending,
+                    and manipulating of the poems they read. Contemporary critics must no
+                    longer read anachronistically, back-projecting our current ideas about
+                    poetry onto an imagined Victorian reader. Scholars of nineteenth-
+                    century poetry (and by implication, readers of poems in any period)
+                    must rethink the social, institutional, and generic histories that have gov-
+                    erned the reading of poetry then and now, including the determinations
+                    for what counts as poetry worth reading.7 Historical poetics both broad-
+                    ens and deepens our understanding of the poetic canon and English lit-
+                    erature as a discipline, providing for scholars of poetry what many of the
+                    newer discoveries about canonicity have provided to scholars of prose—a
+                    sense that expanding our archive destabilizes inherited notions about
+                    genre, and a sense that we might begin to trace the contours of how
+                    those inherited notions came to be passed down to us in, and as, a disci-
+                    pline. And it expands the archive of Victorian poetry in crucial ways that
+                    are difficult to navigate—by seriously considering paratextual materials,
+                    histories of circulation and reading, and other influences on poetic dis-
+                    course. Whether we bring all of these to bear on our close readings of
+                    nineteenth-century poetry matters less than the fact that our vision of
+                    the archive, the material, and the genre of any particular poem is not
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000888
+
+                                                                                                                 POE T RY           805
+              taken for granted as stable or exhaustive, nor is our own critical vantage
+              point a place that can go unexamined.
+                      In the essays marshaled in the two-volume, field-stating Victorian
+              Poetry special issues, edited by Linda K. Hughes, Armstrong noted that
+              the only category missing seemed to be race, and the ability to join cul-
+              tural studies to textual studies. Armstrong predicted that cultural and tex-
+              tual studies would be more and more intertwined, but nowhere other
+              than in a brief mention of Jason Rudy’s essay did she see how an expan-
+              sionist view of the field could be compatible with intense formal study.
+              But that is precisely what Rudy’s 2004 essay augured for the field—a
+              responsibility to view Victorian poetry and poetics in a global history of
+              circulation, keeping close track of how the categories of gender, class,
+              and race were not only understood in nineteenth-century contexts but
+              often embedded into the contours of the verses themselves.8
+                                                                      NOTES
+              1. Isobel Armstrong, “The Victorian Poetry Party,” Victorian Poetry 42,
+                   no. 1 (2004): 9–28.
+              2. T. V. F. Brogan, English Versification: 1570–1980: A Reference Guide with a
+                   Global Appendix (Baltimore: Johns Hopkins University Press, 1981);
+                   Meredith Martin, The Rise and Fall of Meter: Poetry and English
+                   National Culture: 1860–1930 (Princeton: Princeton University Press,
+                   2012); and Jason David Hall, Nineteenth-Century Verse and Technology:
+                   Machines of Meter (New York, London: Palgrave Macmillan, 2017).
+              3. Meredith McGill, ed., The Traffic in Poems: Nineteenth-Century Poetry
+                   and Transatlantic Exchange (New Brunswick: Rutgers University
+                   Press, 2008), and American Literature and the Culture of Reprinting
+                   1834–1853 (2003; Philadelphia: University of Pennsylvania Press,
+                   2007). Her argument is expanded by Ryan Cordell and David
+                   Smith’s Viral Texts project, viraltexts.org; Jason Rudy, Imagined
+                   Homelands: British Poetry and the Colonies (Baltimore: Johns Hopkins
+                   University Press, 2017); Tricia Lootens, The Political Poetess: Victorian
+                   Femininity, Race, and the Legacy of Separate Spheres (Princeton:
+                   Princeton University Press, 2017).
+              4. Heidi Thompson, Coleridge and the Romantic Newspaper: The “Morning
+                   Post” and the Road to “Dejection” (New York: Palgrave Macmillan,
+                   2016); Yopie Prins, Ladies’ Greek: Translations of Tragedy (Princeton:
+                   Princeton University Press, 2017); Annmarie Drury, Translation as
+                   Transformation in Victorian Poetry (Cambridge: Cambridge University
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000888
+
+                    806          VL C      •    VO L. 46, N O. 3/4
+                          Press, 2015); Mary Ellis Gibson, Indian Angles: English Verse in Colonial
+                          India from Jones to Tagore (Athens: Ohio University Press, 2011).
+                    5.    Margaret Loose, The Chartist Imaginary: Literary Form in Working-Class
+                          Political Theory and Practice (Columbus: Ohio State University Press,
+                          2016); Kirstie Blair, The Poets of the People’s Journal: Newspaper Poetry in
+                          Victorian Scotland (Glasgow: Association for Scottish Literary Studies,
+                          2016), Working Verse in Victorian Scotland: Poetry, Press, Community (forth-
+                          coming), and Form and Faith in Victorian Poetry and Religion (Oxford:
+                          Oxford University Press, 2012); Charles LaPorte, Victorian Poets and the
+                          Changing Bible (Charlottesville: University of Virginia Press, 2011);
+                          Carolyn Williams, Gilbert and Sullivan: Gender, Genre, Parody
+                          (Princeton: Princeton University Press, 2011); Justin Sider,
+                          “‘Modern-Antiques,’ Ballad Imitation, and the Aesthetics of
+                          Anachronism,” Victorian Poetry 54, no. 4 (2016): 455–75.
+                    6.    Carolyn Williams, Transfigured World (Ithaca: Cornell University Press,
+                          1990); Justin Sider “Aesthetic Categories and the Social Life of Genre
+                          in Victorian Criticism,” Victorian Studies 59, no. 3 (2017): 450–56;
+                          Naomi Levine, “Elizabeth Barrett Browning’s Historiographical
+                          Poetics,” Modern Language Quarterly 77, no. 1 (2016): 81–104; and
+                          Naomi Levine, “Tirra-Lirrical Ballads: Source Hunting with the Lady
+                          of Shalott,” Victorian Poetry 54, no. 4 (2016): 439–54.
+                    7.    See historicalpoetics.com for a full discussion.
+                    8.    Jason Rudy, “On Cultural Neoformalism, Spasmodic Poetry, and the
+                          Victorian Ballad,” Victorian Poetry 41, no. 4 (2003): 590–96.
+                    Politics
+                    MARK ALLISON
+                                                                    A PROLEGOMENON
+                    I     want to approach this vexed subject indirectly. Consider the following
+                          events:
+                             • 24 March 1832: Edward Bulwer [Lytton] votes for the Reform
+                                 Bill, which passes the House of Commons.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000888
+

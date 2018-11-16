@@ -1,0 +1,248 @@
+                                                                           S T U PI D I T Y, S U S TA I N A B I L I T Y             895
+              16. Austen, Pride and Prejudice, 55–6.
+              17. If not entirely universal, it is nevertheless ordinary.
+              Sustainability
+              DEANNA K. KREISEL
+              “S        USTAINABILITY ” generally means the ability to be maintained at
+                         a certain level, but in recent years the word has come to refer
+              almost exclusively to environmental sustainability: the perhaps fantastical
+              set of circumstances under which life may continue on this planet under
+              conditions similar to those prevailing now.1 While the word “sustainable”
+              was not used in the contemporary sense of minimizing environmental
+              impact until 1976,2 the concept has a much older history: historians of
+              northern Europe, particularly Germany, have traced the development
+              of sustainable forestry management and other agricultural practices
+              back to the middle ages.3 But the concept (or perhaps we should say
+              anxiety) really got a kick-start with the publication of the Reverend
+              Thomas Malthus’s Essay on the Principle of Population in 1798.4 The argu-
+              ment of that work was simply that population increases geometrically
+              while food supply increases arithmetically; the two upward curves meet
+              at a crisis point where famine becomes inevitable and population growth
+              will thus be “checked.”5 The enormous cultural impact of Malthus’s the-
+              sis is one good reason to date the birth of the modern sustainability idea
+              to the nineteenth century. Others include the sharp increase in environ-
+              mental stressors—in terms of pressure on both resources and environ-
+              mental sinks—occasioned by the industrial revolution, and the birth of
+              political economy as a professional discipline in the early decades of
+              the century.6
+                      For sustainability is essentially an economic question. Its two central
+              components are issues with which political economists have long grap-
+              pled: population and resources, including food. (Two other important
+              components of sustainability could be mentioned: the management of
+              waste, including carbon sinks, and climate change. Waste recycling was
+              an important topic in the nineteenth century, but it was almost always
+              invoked in the context of soil fertilization.7 And while Jesse Oak Taylor
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001134
+
+                    896          VL C      •    VO L. 46, N O. 3/4
+                    has demonstrated that anxiety over pollution was a crucial part of “green”
+                    Victorian consciousness—and late-Victorian texts such as Richard
+                    Jefferies’s After London and M. P. Shiel’s The Purple Cloud evince a signifi-
+                    cant concern with what we can loosely term “climate”—the pressing fear
+                    of imminent environmental and economic collapse due to climate
+                    change is of course not a prominent feature of popular discourse until
+                    the late twentieth, or even twenty-first, century.8)
+                            Victorian discussions of population and resources together, then,
+                    form a proto-sustainability discourse that closely prefigures our own. In
+                    addition to Malthus, whose thesis influenced a wide range of Victorian
+                    thinkers including Darwin, a central figure in the population debate
+                    was William Forster Lloyd, whose Two Lectures on the Checks to Population
+                    (1833) introduced the concept of the tragedy of the commons, which
+                    occurs “when the constitution of society is such as to diffuse the effects
+                    of individual acts throughout the community at large, instead of appro-
+                    priating them to the individuals, by whom they are respectively commit-
+                    ted.”9 The “individual acts” in this case are the decisions to marry and
+                    bear children, and the “effects” are the costs of care and feeding of
+                    the results. Lloyd effectively extends Malthus’s dismal prognosis by not-
+                    ing that, because of this diffusion of costs, rationality and restraint are
+                    not effective checks on population: “the simple fact of a country being
+                    over populous . . . is not, of itself, sufficient evidence that the fault lies
+                    in the people themselves.”10
+                            On the resources side, writers such as William Stanley Jevons,
+                    Edward Hull, and William Armstrong worried that economic crisis was
+                    inevitable due not to the exhaustion of food supply but instead to the
+                    depletion of fossil fuel resources.11 The “coal question” debate of the
+                    1860s was in many ways a continuation of earlier anxieties about wood
+                    and forest management, with the added ingredient of a post-Lyell
+                    sense of the vast time scales involved in the creation of fossil fuels (ren-
+                    dering them effectively and practically nonrenewable). As Benjamin
+                    Morgan has argued in a recent discussion of the “coal imaginary,”
+                    “new scales of energy use and of geological time shared certain figural
+                    and rhetorical resolutions.”12 Elizabeth Carolyn Miller’s recent work
+                    has considered the narrative formations attendant upon these resolu-
+                    tions in the work of William Morris, George Eliot, Joseph Conrad, and
+                    others.13
+                            The conceptual synthesis of long-term population and resource
+                    management is the stationary or steady-state economy—characterized
+                    by a zero rate of profit and growth, a fixed stock of wealth, and a stable
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001134
+
+                                                                                                 S U S TA I N A B I L I T Y         897
+              population—which is a direct nineteenth-century precursor to certain
+              strains of economic/environmental sustainability. While Adam Smith
+              and David Ricardo lamented the stationary state as the inevitable and
+              unfortunate future of capitalism (Marx referred to the stationary state
+              as the “bourgeois ‘Twilight-of-the-Gods’”), later thinkers such as
+              J. S. Mill and John Ruskin heralded the stationary state as, in Mill’s
+              words, “a very considerable improvement on our present condition.”14
+              Steady-state economies are thus the conceptual obverse (either voluntary
+              or involuntary) of capitalism, which is characterized by perpetual
+              growth—which often relies on colonial markets, resources, or labor
+              secured by violent appropriative imperial expansion.15 Recent versions
+              of zero- (or even negative-) growth economies in response to ongoing
+              environmental crisis have been championed by ecological economists,
+              most prominently Herman Daly.16
+                      The sustainability concept has recently absorbed a number of direct
+              body blows from the academic left. Important recent critiques by Stacy
+              Alaimo, Allan Stoekl, Jeremy Davies, and Leerom Medovoi, among oth-
+              ers, have pointed out the inconsistencies, contradictions, and even out-
+              right bad faith inherent in the concept.17 As Davies eloquently notes,
+              “to talk of sustainability and steady-state economics is to deal in abstrac-
+              tions that would be equally applicable at any time; it is to engage in a
+              romance of stasis.”18 In other words, sustainability discourse attends to
+              spatial constraints (resources, population, the “carrying capacity” of the
+              planet) while fantasizing that temporal constraints can be overcome—
+              that the current state of affairs can go on nearly forever.
+                      Criticisms of this kind are cognate with the strain of queer theory,
+              emerging from the work of Leo Bersani and Lee Edelman, skeptical of
+              “reproductive futurity.” One of the unstated—and nearly unstatable—
+              assumptions of sustainability discourse, after all, is that we should care
+              about the future of humanity: this is an assumption that makes sense
+              only in the context of a commitment to the reproduction of our spe-
+              cies, if not ourselves. The paradox of futurity was intuited long ago by
+              our dismal population theorist William Forster Lloyd, who noted that
+              when the consequences of individual actions are borne by the social
+              body, “the future is struck out of the reckoning.”19 The problem
+              with thinking about environmental stewardship as sustainability is
+              that to care about the future in these terms one must have a personal
+              investment in it, but because of Malthusian population dynamics the
+              planet cannot indefinitely maintain all of the personal investments
+              needful.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001134
+
+                    898          VL C      •    VO L. 46, N O. 3/4
+                                                                            NOTES
+                       1. Even at this very high level of abstraction, the concept raises many unan-
+                            swerable questions. Sustainability for whom or what? The thoroughly
+                            anthropocentric Brundtland Report (officially entitled Our Common
+                            Future) defines sustainable development as meeting “the needs of the
+                            present without compromising the ability of future generations to
+                            meet their own needs.” Even assuming sustainability is for future
+                            generations of humans (a pretty big assumption), we are left with enor-
+                            mous questions. All human beings? How many? At what standard of
+                            existence? And for how long? Further, these basic questions don’t
+                            even begin to address the problem of exactly how this state of sustainabil-
+                            ity is to be brought about. Our Common Future: Report of the World Commission
+                            on Environment and Development, Chapter 2, “Towards Sustainable
+                            Development,” http://www.un-documents.net/ocf-02.htm#IV.
+                       2. Every essay on sustainability is legally required to begin with the
+                            term’s usage history according to the OED. Recent excellent treat-
+                            ments of the concept by Allen MacDuffie and Leerom Medovoi go
+                            further, unearthing tensions in the word’s etymological history that
+                            imply its inherent incoherence or untenability. Allen MacDuffie,
+                            Victorian Literature, Energy, and the Ecological Imagination (Cambridge:
+                            Cambridge University Press, 2014), 102–04; and Leerom Medovoi,
+                            “A Contribution to the Critique of Political Ecology: Sustainability
+                            as Disavowal,” New Formations 69 (2010), 129–43,130–32.
+                       3. See Ulrich Grober, Sustainability: A Cultural History, trans. Ray
+                            Cunningham (Totnes: Green Books, 2012) and Paul Warde, “The
+                            Invention of Sustainability,” Modern Intellectual History 8, no. 1
+                            (2011), 153–70.
+                       4. Thomas Malthus, An Essay on the Principle of Population (Library of
+                            Economics and Liberty, 2000), http://www.econlib.org/library/
+                            Malthus/malPop1.html.
+                       5. The food curve can be pushed upward by technological advances
+                            that increase production; it was widely believed that the invention
+                            of nitrogen fertilizers in the early twentieth century solved (or at
+                            least indefinitely delayed) the Malthusian conundrum. However,
+                            the environmental impacts of the byproducts of chemical fertilizers
+                            (along with those of monoculture crops and other agribusiness prac-
+                            tices) have put paid to that fantasy. I am grateful to Benjamin
+                            Morgan for this insight. (Malthus’s own suggested solution—perhaps
+                            an equally fantastic one—was abstinence and late marriage.)
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001134
+
+                                                                                                 S U S TA I N A B I L I T Y         899
+                6. For a recent excellent treatment of the economic-environmental
+                     impacts of the industrial revolution, see Andreas Malm, Fossil
+                     Capital: The Rise of Steam Power and the Roots of Global Warming
+                     (New York: Verso, 2016).
+                7. Catherine Gallagher notes that both John Ruskin and Charles
+                     Dickens imagined a possibly self-sustaining sanitation system in
+                     which bodily products and remains (including corpses, human
+                     waste, and blood products) would nourish further production in a
+                     closed and infinite cycle of renewal. As Justus von Liebig laments
+                     in 1840, “When we consider the immense value of night-soil
+                     [human waste] as a manure, it is quite astounding that so little atten-
+                     tion is paid to preserve it. The quantity is immense which is carried
+                     down by the drains in London to the River Thames, serving no other
+                     purpose than to pollute its waters. . . . [T]he value of the manure
+                     thus lost amounts annually to several millions of pounds sterling.”
+                     Catherine Gallagher, The Body Economic: Life, Death, and Sensation in
+                     Political Economy and the Victorian Novel (Princeton: Princeton
+                     University Press, 2006), 100–07; Justus von Liebig, Chemistry, In Its
+                     Application to Agriculture and Physiology (Cambridge: John Owen,
+                     1842), 194n (emphasis original).
+                8. Jesse Oak Taylor, The Sky of Our Manufacture: The London Fog in British
+                     Fiction from Dickens to Woolf (Charlottesville: University of Virginia
+                     Press, 2016); Richard Jefferies, After London (Mineola: Dover
+                     Publications, 2015); M. P. Shiel, The Purple Cloud (London:
+                     Penguin Classics, 2012).
+                9. William Forster Lloyd, Two Lectures on the Checks to Population, rpt. as
+                     “W. F. Lloyd on the Checks to Population,” Population and Development
+                     Review 6, no. 3 (1980), 479. The term “tragedy of the commons” was
+                     coined by Garrett Hardin, “The Tragedy of the Commons,” Science
+                     162, no. 3859 (1968), 1243–48.
+              10. Lloyd, Two Lectures, 480.
+              11. William Stanley Jevons, The Coal Question: An Enquiry Concerning the
+                     Progress of the Nation (London: Macmillan, 1865); Edward Hull, The
+                     Coal-Fields of Great Britain: Their History, Structure and Duration
+                     (London: Edward Stanford, 1861); William Armstrong, “Address of
+                     the President,” Report of the Thirty-Third Meeting of the British
+                     Association for the Advancement of Science (London: John Murray, 1864).
+              12. Benjamin Morgan, “Scalar Rupture: Coal at the Holocene/
+                     Anthropocene Boundary” (Unpublished ms., 2017), 3.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001134
+
+                    900          VL C      •    VO L. 46, N O. 3/4
+                    13. Elizabeth Carolyn Miller, “William Morris, Extraction Capitalism,
+                            and the Aesthetics of Surface,” Victorian Studies 57, no. 3 (2015):
+                            395–404, and “Extraction Ecologies and Victorian Literature,” key-
+                            note address, North American Victorian Studies Association
+                            Conference (Banff, Canada, November 18, 2017).
+                    14. John Stuart Mill, Principles of Political Economy with some of their
+                            Applications to Social Philosophy (Library of Economics and Liberty),
+                            http://www.econlib.org/library/Mill/mlP61.html;                                               Karl        Marx,
+                            Theories of Surplus Value, trans. G. A. Bonner and Emile Burns
+                            (New York: International, 1952), 427.
+                    15. As Jason W. Moore points out, the “endless frontier strategy of histor-
+                            ical capitalism is premised on a vision of the world as interminable:
+                            this is the concept of capital and its theology of limitless substitutabil-
+                            ity” (Capitalism in the Web of Life: Ecology and the Accumulation of Capital
+                            [New York: Verso, 2015], 66).
+                    16. Herman E. Daly, Steady-State Economics, 2nd. ed. (Washington, DC:
+                            Island Press, 1991) and Beyond Growth: The Economics of Sustainable
+                            Development (Boston: Beacon Press, 1996).
+                    17. Stacy Alaimo, “Sustainable This, Sustainable That: New Materialisms,
+                            Posthumanism, and Unknown Futures,” PMLA 127, no. 3 (2012):
+                            558–64; Allan Stoekl, “‘After the Sublime,’ After the Apocalpyse:
+                            Two Versions of Sustainability in Light of Climate Change,”
+                            Diacritics 41, no. 3 (2013): 40–57; Jeremy Davies, The Birth of the
+                            Anthropocene (Berkeley: University of California Press, 2016);
+                            Medovoi, “Contribution.”
+                    18. Davies, The Birth of the Anthropocene, 198–99.
+                    19. Lloyd, Two Lectures, 479.
+                    Technology
+                    CHARLIE TYSON
+                    W          E live in a built world, one the Victorians helped make. The rooms
+                               in which we live and work are filled with clothespins, books, light-
+                    bulbs, and other marks of material culture. Modern industrial societies
+                    are artefactual, however, not just in their manifest contents but in their
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001134
+

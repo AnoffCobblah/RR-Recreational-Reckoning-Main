@@ -1,0 +1,247 @@
+                    900          VL C      •    VO L. 46, N O. 3/4
+                    13. Elizabeth Carolyn Miller, “William Morris, Extraction Capitalism,
+                            and the Aesthetics of Surface,” Victorian Studies 57, no. 3 (2015):
+                            395–404, and “Extraction Ecologies and Victorian Literature,” key-
+                            note address, North American Victorian Studies Association
+                            Conference (Banff, Canada, November 18, 2017).
+                    14. John Stuart Mill, Principles of Political Economy with some of their
+                            Applications to Social Philosophy (Library of Economics and Liberty),
+                            http://www.econlib.org/library/Mill/mlP61.html;                                               Karl        Marx,
+                            Theories of Surplus Value, trans. G. A. Bonner and Emile Burns
+                            (New York: International, 1952), 427.
+                    15. As Jason W. Moore points out, the “endless frontier strategy of histor-
+                            ical capitalism is premised on a vision of the world as interminable:
+                            this is the concept of capital and its theology of limitless substitutabil-
+                            ity” (Capitalism in the Web of Life: Ecology and the Accumulation of Capital
+                            [New York: Verso, 2015], 66).
+                    16. Herman E. Daly, Steady-State Economics, 2nd. ed. (Washington, DC:
+                            Island Press, 1991) and Beyond Growth: The Economics of Sustainable
+                            Development (Boston: Beacon Press, 1996).
+                    17. Stacy Alaimo, “Sustainable This, Sustainable That: New Materialisms,
+                            Posthumanism, and Unknown Futures,” PMLA 127, no. 3 (2012):
+                            558–64; Allan Stoekl, “‘After the Sublime,’ After the Apocalpyse:
+                            Two Versions of Sustainability in Light of Climate Change,”
+                            Diacritics 41, no. 3 (2013): 40–57; Jeremy Davies, The Birth of the
+                            Anthropocene (Berkeley: University of California Press, 2016);
+                            Medovoi, “Contribution.”
+                    18. Davies, The Birth of the Anthropocene, 198–99.
+                    19. Lloyd, Two Lectures, 479.
+                    Technology
+                    CHARLIE TYSON
+                    W          E live in a built world, one the Victorians helped make. The rooms
+                               in which we live and work are filled with clothespins, books, light-
+                    bulbs, and other marks of material culture. Modern industrial societies
+                    are artefactual, however, not just in their manifest contents but in their
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001146
+
+                                                                                                     T E C HN O LOGY                901
+              deep contours. We are powered, connected, and fed by vast systems of
+              transportation, waste disposal, and electricity. A blossoming of scholar-
+              ship in “thing theory” has focused on the former category of objects—
+              on private, often domestic, commodities such as chairs, curtains, and
+              doorknobs.1 Only recently have literary and cultural scholars turned
+              their attention to infrastructural systems such as highways and electrical
+              grids.2 Yet infrastructure, these scholars find, is boring. Distant from
+              the “glamor of the commodity” and defined by aspirations toward pre-
+              dictability and regularity, infrastructure is noticeable only when pipes
+              hiss or lights flicker off.3
+                      The concept of the “technological sublime”—feelings of awe and
+              terror aroused by impressive-yet-alien technologies such as aviation or
+              artificial intelligence—captures the estrangement many people feel
+              from the technologies that undergird their existence. This estrangement
+              is produced by the discrepancy between large-scale technological systems
+              and the human frame of reference. By casting the encounter between
+              human being and technological apparatus in aesthetic terms, the “tech-
+              nological sublime” opens the way for literary and cultural scholars to con-
+              sider the perceptual qualities involved in such encounters.4
+                      At the heart of the technological sublime lies a paradox. Edmund
+              Burke’s Philosophical Enquiry (1757) identifies the sublime strongly with
+              objects in the natural world: the “gloomy forest,” the “howling wilder-
+              ness,” and the “starry heaven”; the lion, panther, and rhinoceros; the
+              cries of animals.5 In the industrial age and after, a new site of sublimity
+              emerged. The technological systems that altered patterns of economic
+              and daily life for wealthy nations in the nineteenth and early twentieth
+              centuries—such systems as railroads, electric power, and aviation—fre-
+              quently achieved, in their scale, power, and strangeness, a form of the
+              sublime.6 Yet, how can technological instruments designed by human
+              beings and under human command stir the feelings of terror and lack
+              of control Burke holds as requisite for sublimity?
+                      Burke draws just one example of the sublime—the noise of artillery
+              —from technology.7 Many of his examples, however, come from architec-
+              ture. Built artifacts that seem to have required immense labor for their
+              construction, or which achieve an “artificial infinite” by means of succes-
+              sive, uniform parts (such as seemingly endless rows of pillars), achieve a
+              sublime grandeur.8 We might think that technological systems could be
+              ushered into Burke’s category of the sublime under the same rubric
+              that admits architecture. Burke’s discussion of “use,” however, gives us
+              cause for hesitation: “Whenever strength is only useful, and employed
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001146
+
+                    902          VL C      •    VO L. 46, N O. 3/4
+                    for our benefit or our pleasure, then it is never sublime.” That which acts
+                    “in conformity to our will” can never be the cause of a grand, terrifying
+                    conception.9 Technological systems possess tremendous power, but they
+                    are also objects of use.
+                            The technological sublime, the historian David Nye suggests, may be
+                    a distinctively American category. A sense of awe directed at American
+                    technological achievements, often experienced in crowds, has since the
+                    early national period, Nye contends, produced momentary bonds of
+                    democratic solidarity while consecrating technological objects with meta-
+                    physical significance.10
+                            Yet across the Atlantic in the early decades of the nineteenth cen-
+                    tury, British cities, too, were being transfigured by structures at once
+                    vast and unsettling—gas works, railway stations, tunnels, aqueducts, and
+                    factories. (Some elements of city planning that initially struck Victorian
+                    elites as sublime would later seem just ugly.11) Observing Birmingham
+                    in the 1820s, Thomas Carlyle wrote: “Torrents of thick smoke . . . are issu-
+                    ing from a thousand funnels . . . You hear the clank of innumerable
+                    steam-engines, the rumbling of cars and vans . . . I have looked into
+                    their iron works where 150,000 men are smelting the metal in a district
+                    a few miles to the north; . . . their tubs and vats, as large as country
+                    churches.”12 The figures Carlyle reports are large (“a thousand funnels
+                    . . . 150,000 men”) but never exact; of the steam-engines that clank
+                    and whine, he can say only that they are “innumerable.” His description
+                    achieves what Caroline Levine calls the “enormity effect,” a rhetorical
+                    strategy that draws on the tradition of the sublime “to train readers to
+                    extrapolate a vast world” beyond a text’s limited frame of reference.13
+                    Carlyle invites us to imagine technological and economic transforma-
+                    tions of dizzying scale, gesturing toward an uncountable magnitude by
+                    means of suggestive approximation.
+                            A similar fascination with the engineering feats accomplished daily
+                    by the railways was, Paul Fyfe observes, widespread among Victorian
+                    travelers. F. S. Williams, a railway booster and author of the popular rail-
+                    way history Our Iron Roads, recorded his awe at the “immense number of
+                    passengers and enormous bulk of goods . . . drawn by engines of the most
+                    complicated mechanism, held together with millions of rivets, each
+                    engine containing an intricate network of tubes, numerous cranks, and
+                    other delicate pieces of workmanship . . . In every separate item of all
+                    these innumerable parts lurk elements of danger, and the slightest frac-
+                    ture may produce disaster.”14 The railways’ mechanical components are
+                    (again) “innumerable”: they defy normal human comprehension and
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001146
+
+                                                                                                     T E C HN O LOGY                903
+              exact representation. Here we see how evidence of human ingenuity—
+              the carefully designed rivets and cranks and gears—can, when sustained
+              at scale, become overawing for any single person (excepting, perhaps, a
+              well-trained engineer). Ordinary Victorian travelers, anxious about boiler
+              explosions or mechanical failures, could only surrender themselves to
+              the intermingled feelings of admiration and dread constitutive of sub-
+              lime experience.
+                      These preliminary examples suggest that something akin to the tech-
+              nological sublime, no doubt distinct from the well-documented
+              American variant, was a feature of nineteenth-century British culture.
+              Cases where the technological sublime is conspicuously marginal, how-
+              ever, can be just as revealing. One might expect that the telegraph sys-
+              tem, with undersea cables stretching from Britain to India, would stir
+              feelings of awe and effacement among nineteenth-century observers.15
+              Yet, one of the most common metaphors used by Victorian commenta-
+              tors to describe the telegraph can be characterized as anti-sublime.
+              Victorian writers and technologists repeatedly likened the electric tele-
+              graph to the human nervous system. The networks of cables were the
+              nerves, carrying electric messages from one site to another. The tele-
+              graph office, where signals were received and transmitted, was the
+              brain.16 Victorian elites thereby assimilated a complex technological sys-
+              tem into a human frame of reference. Human power was not effaced by
+              the telegraph but amplified; the telegraph conducted “intelligence”
+              through circuits that mimicked and extended the workings of the
+              human body.
+                      The Victorian metaphor of the telegraph as human body is reveal-
+              ing, because representations of technology aimed at stirring a sense of
+              sublimity often do so by abandoning reference to the human body and
+              human labor. (Thus marketing materials for the nineteenth-century
+              American transcontinentals routinely omitted mention of workers and
+              machine operators, instead depicting the enormous locomotives as self-
+              propelled beings, steely gleams streaking west across the continent.17)
+              The technological sublime frequently accompanies human erasure.
+                      This pattern of human effacement in cultural responses to large tech-
+              nological systems—the steam engines too numerous to count; the rivets
+              and tubes too intricately organized for a single mind to comprehend—
+              suggests a lingering truth in Burke’s insight that use value, even when
+              joined to great power, strips an object of obscurity and terror. With the dele-
+              tion or minimization of human involvement, technological systems begin
+              to appear autonomous, untrammeled from considerations of use.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001146
+
+                    904          VL C      •    VO L. 46, N O. 3/4
+                             Yet the Victorian technological sublime (and anti-sublime) reveals
+                    something else, too, about the relation between complex technological
+                    systems and the human frame of reference. Strictly speaking, we as
+                    human beings, or at least our engineers, control the vast systems that
+                    shape our lives. But the more typical felt experience may be that those
+                    systems rule us instead.
+                                                                            NOTES
+                       1. See Elaine Freedgood, The Ideas in Things: Fugitive Meaning in the
+                            Victorian Novel (Chicago: University of Chicago Press, 2006).
+                       2. Michael Rubenstein, Bruce Robbins, and Sophia Beal,
+                            “Infrastructuralism: An Introduction,” Modern Fiction Studies 61,
+                            no. 4 (2015): 575–86; Caroline Levine, “Infrastructuralism, or the
+                            Tempo of Institutions,” in On Periodization: Selected Essays from the
+                            English Institute, ed. Virginia Jackson (ACLS Humanities E-Book,
+                            2010).
+                       3. Rubenstein, Robbins, and Beal, “Infrastructuralism,” 577.
+                       4. So far, the term has been lodged in the history of American technol-
+                            ogy as a way of describing American technophilia; see David Nye,
+                            American Technological Sublime (Cambridge: MIT Press, 1994). The
+                            intellectual historian Perry Miller coined the term in The Life of the
+                            Mind in America (New York: Harcourt, Brace, and World 1965).
+                       5. Edmund Burke, A Philosophical Enquiry into the Origin of our Ideas of the
+                            Sublime and Beautiful, ed. Adam Phillips (Oxford: Oxford University
+                            Press, 1990), 53, 71, 61, 77.
+                       6. Nye, American Technological Sublime, xi-xx.
+                       7. Burke, Philosophical Enquiry, 75.
+                       8. Burke, Philosophical Enquiry, 68–71.
+                       9. Burke, Philosophical Enquiry, 60–61.
+                    10. Nye, American Technological Sublime, xiv.
+                    11. Nicholas Taylor, “The Awful Sublimity of the Victorian City,” in The
+                            Victorian City: Images and Realities, Vol. 2, ed. H. J. Dyos and
+                            Michael Wolff (London: Routledge & Kegan Paul, 1973), 434.
+                    12. Quoted in Herbert Sussman, “Industrial,” in A New Companion to
+                            Victorian Literature and Culture, ed. Herbert F. Tucker (Oxford:
+                            Blackwell, 2014), 249.
+                    13. Caroline Levine, “The Enormity Effect: Realist Fiction, Literary
+                            Studies, and the Refusal to Count,” Genre 50, no. 1 (2017): 59–75.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001146
+
+                                                                              TE CHNOLO GY, TE LEOLOGY                              905
+              14. Quoted in Paul Fyfe, By Accident or Design: Writing the Victorian
+                     Metropolis (Oxford: Oxford University Press, 2015), 189–90.
+              15. Tom Standage, The Victorian Internet: The Remarkable Story of the
+                     Telegraph and the Nineteenth Century’s On-line Pioneers (New York:
+                     Walker and Company, 1998), 102–03.
+              16. Iwan Rhys Morus, “‘The Nervous System of Britain’: Space, Time,
+                     and the Electric Telegraph in the Victorian Age,” British Journal for
+                     the History of Science 33, no. 4 (2000): 455–75.
+              17. Richard White, Railroaded: The Transcontinentals and the Making of
+                     Modern America (New York: Norton, 2011), 225–28.
+              Teleology
+              DEVIN GRIFFITHS
+                      [It] would not, after all, be a bad sort of teleology to keep it in mind, as a
+                      heuristic fiction or Kantian ‘idea’, in the midst of our political action. . . .
+                      Teleology usually involves the assumption that there is some potential in
+                      the present which could result in a particular sort of future. But this need
+                      not mean that this potential lurks within the present like petals within a
+                      bud. It is present rather in the sense that I have a potential to travel up to
+                      Glasgow right now, which is hardly some kind of secret structure of my
+                      being. Teleology here is just a way of describing where I am in the light of
+                      where I could feasibly get to.
+                                                               —Terry Eagleton, The Illusions of Postmodernism1
+              F     EW words were as reviled in literary criticism and theory of the eight-
+                    ies, nineties, and early aughts as “teleology.” It seems strange when
+              you remember that teleology—derived from the Greek world t<U+03AD><U+03BB><U+03BF><U+03C2>,
+              “end” or “purpose”—simply means interpreting things in relation to
+              their possible goal or outcome. It’s hard to imagine reading a novel with-
+              out any consideration of its conclusion, or a sonnet without considering
+              what its volta seems to do. And, as Eagleton notes, you can’t interpret
+              (much less formulate) politics without addressing the question of pur-
+              pose, the ends desired as well as the means by which those ends might
+              be achieved. In our current moment, as we grapple with the problem
+              of climate change and collective action, as we struggle to figure out
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001146
+

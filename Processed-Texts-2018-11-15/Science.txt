@@ -1,0 +1,159 @@
+                                                                                                 S CA L E , S C I E N C E           851
+              12. Henry James, Preface to The Novels and Tales of Henry James: New York
+                     Edition, Vol. 11 (New York: Charles Scribner’s Sons, 1908), xviii, xix.
+              13. For other examples, see Morgan, “Critical Empathy: Vernon Lee’s
+                     Aesthetics and the Origins of Close Reading,” Victorian Studies 55,
+                     no. 1 (2012): 31–56. See also Natalia Cecire, “Ways of Not Reading
+                     Gertrude Stein.” ELH 82, no. 1 (2015): 281–315.
+              14. Natalie M. Houston, “Toward a Computational Analysis of Victorian
+                     Poetics,” Victorian Studies 56, no. 3 (2014): 498–510, 498.
+              15. Ryan Cordell, “Taken Possession Of: The Reprinting and
+                     Reauthorship of Hawthorne’s ‘Celestial Railroad’ in the Antebellum
+                     Religious Press,” Digital Humanities Quarterly 7, no. 1 (2013).
+              16. Michael Witmore, “Text: A Massively Addressable Object,” Wine Dark
+                     Sea (blog), December 31, 2010.
+              Science
+              MARTIN WILLIS
+              T      HE most interesting of recent developments in Victorian literary
+                     scholarship has been our obsession not with the Victorians but
+              with ourselves. We have become fascinated by invoking the Victorians
+              in order to consider our contemporary conditions. This self-
+              interrogation has been both welcomed and contested. For literature
+              and science scholars it has been puzzling, for Victorian literature and sci-
+              ence has a long tradition of scholarly critique that takes account of both
+              past and present. It has also been satisfying, since the turn towards our
+              own historical moment has seen the study of literature and science
+              take up a place at the very heart of Victorian literature and culture.
+              This interest in our present moment and its attachments to Victorian cul-
+              tures is important because it is making us think creatively about the
+              future praxis of Victorian scholarship. It is enabling us to consider new
+              ways of conceiving of the temporal gap between the Victorians and our-
+              selves and what knowledge crossing that gap might generate.
+                      This temporal turn is clear in the significant proportion of recent
+              Victorian research that has focussed, for example, on ecological
+              crises: from environmental violence and studies of the anthropocene
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001018
+
+                    852          VL C      •    VO L. 46, N O. 3/4
+                    through energy security to animal welfare.1 There is such impetus behind
+                    this work that its various specialisms often signal their intent to make
+                    interventions into debates about the value of the humanities by adding
+                    that term as their own suffix: environmental humanities and energy
+                    humanities have joined medical humanities and others as recognisable
+                    pairings.
+                            In Victorian literature and science scholarship the temporal turn has
+                    not been sudden but rather an evolution (no pun intended). Harriet
+                    Ritvo’s first book on Victorian animals, The Animal Estate, was published
+                    in 1989, and even before that, Gillian Beer’s foundational research on,
+                    yes, evolution, was suffused with questions about the two cultures of sci-
+                    ence and literature that spoke equally well to the present day.2 Victorian
+                    literature and science’s extended interrogation of the inchoate power of
+                    the sciences through the nineteenth century has always been refracted
+                    through the relationships of the disciplines in the late-twentieth and
+                    twenty-first century. This has given us a scholarship that is alert to differ-
+                    ent forms of knowledge-making and their historical situatedness. It is
+                    probably the case that Victorian literature and science scholars look to
+                    the nineteenth century because it was here that so many of the relations
+                    between the sciences and humanities emerged and were worked out. In
+                    thinking about the value of our subject in the present day, then, it is nat-
+                    ural to turn to those predecessors who might offer us ways of knowing
+                    where we are and what we might do about it.
+                            However, one of the problems with this and with the other recent
+                    work in our temporal turn has been its inherent teleology. Only the pre-
+                    sent gains from strategic attempts to consider the relations between the
+                    Victorians and ourselves. As scholars of Victorian literature and culture,
+                    we would surely wish our understanding of the Victorians also to be
+                    enhanced?
+                            In literature and science an important recalibration of methodolog-
+                    ical approach is underway, and since the work of its scholars has become
+                    so central to Victorian literature and culture it is worthy of wider account.
+                    Literature and science scholars are beginning to investigate anew some of
+                    the recursive relationships between the two disciplines and in turn how
+                    the past and the present might also be seen in similarly recurring and
+                    successive formations. Experiences of engagements with contemporary
+                    science have shown scholars of Victorian literature and science how valu-
+                    able it is to take present knowledge back into the past and apply it there.
+                    One recent example of this is the Constructing Scientific Communities
+                    project, one arm of which is using contemporary citizen science and its
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001018
+
+                                                                                                               SCIENCE              853
+              knowledge to reexamine histories of Victorian citizen science.3 There is a
+              great deal to be gained from what Edward Bellamy called, in another
+              context, looking backwards. Nor need thinking with present knowledge
+              disrupt current methods if undertaken sensitively. Rather it adds to the
+              kinds of questions that might be posed for, say, Victorian narratives
+              and opens possibilities that the historical record itself does not easily
+              reveal.
+                      Some of this work is formal, on the role of actively mobile analogies
+              moving both between the two disciplines of literature and science and
+              also across time.4 Other work is thinking through new forms of concilia-
+              tory practice where literary study and the sciences might work more
+              closely together in the present and the results of that be used also to
+              inform how we interrogate and come to understand the past.5 The
+              ScienceHumanities Initiative at my own institution, Cardiff University,
+              is a fine example of this.6 What all of this work has in common is its tem-
+              poral suppleness: the present and the Victorian past are both informed
+              by its research. The emerging methodologies in Victorian literature
+              and science might well offer fresh impetus to the temporal turn in liter-
+              ary studies. If we are to take this up, though, it requires the throwing off
+              of certain disciplinary constraints. To think of temporality as unfettered is
+              to accept movements that are, at least to literary scholars and historians,
+              undisciplined, and perhaps unpromisingly so. As literature and science
+              scholars would say, though, if we aim to understand our Victorian uni-
+              verse, and ourselves, we might want to accept a more unusual physics
+              where knowledge in and of the present might enact change upon knowl-
+              edge of the past.
+                                                                      NOTES
+              1. Good examples are Justine Pizzo, “Esther’s Ether: Atmospheric
+                   Character in Charles Dickens’s Bleak House,” Victorian Literature and
+                   Culture 42, no. 1 (2014): 81–98; and, Allen MacDuffie, Victorian
+                   Literature, Energy, and the Ecological Imagination (Cambridge:
+                   Cambridge University Press, 2014).
+              2. Harriet Ritvo, The Animal Estate: The English and Other Creatures in the
+                   Victorian Age (Cambridge: Harvard University Press, 1989); Gillian
+                   Beer, Darwin’s Plots: Evolutionary Narrative in Darwin, George Eliot and
+                   Nineteenth-Century Fiction (Cambridge: Cambridge University Press,
+                   1984).
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001018
+
+                    854          VL C      •    VO L. 46, N O. 3/4
+                    3. “Constructing                    Scientific        Communities,”                    https://conscicom.org.
+                          (accessed 2 May 2018).
+                    4. For example, the discussions and presentations of the AHRC-funded
+                          seminar on analogy led by Alice Jenkins in Cambridge in 2015 or
+                          Sally Shuttleworth’s recording of the movement of literary texts across
+                          works of psychology in The Mind of the Child: Child Development in
+                          Literature, Science and Medicine, 1840–1900 (Oxford: Oxford
+                          University Press, 2010).
+                    5. Jennifer Calkins’s article on reading Moby Dick in the light of current
+                          cetological research is an excellent example of such work: Jennifer
+                          Calkins, “How Is It Then with the Whale? Using Scientific Data to
+                          Explore Textual Embodiment,” Configurations 18, no. 1–2 (2010):
+                          31–47. See also John Holmes, “Consilience Rebalanced: Edward
+                          O. Wilson on Science, the Humanities and the Meaning of Human
+                          Existence,” Journal of Literature and Science 10, no. 1 (2017): 5–10. My
+                          own forthcoming article on nineteenth-century sleep offers a further
+                          new methodology: Martin Willis, “Sleeping Science Fictionally:
+                          Nineteenth-Century Utopian Fictions and Sleep Research,” Osiris 34,
+                          no. 1 (2019).
+                    6. James Castell, Keir Waddington, and Martin Willis, “Cardiff Science
+                          Humanities,” https://cardiffsciencehumanities.org (accessed 2 May
+                          2018).
+                    Science Fiction
+                    JOHN PLOTZ
+                    F      OUR decades ago, Darko Suvin floated a scholarly approach to sci-
+                           ence fiction that largely still prevails, emphasizing the genre’s reliance,
+                    stretching back beyond Jules Verne to Mary Shelley and beyond, on a
+                    technological “novum.”1 Suvin emphasized the capacity of science fiction
+                    to challenge readers’ conceptual norms by way of what (in a Shklovskyian
+                    vein) he called “cognitive estrangement.” Most critical debate in the inter-
+                    vening years has focused on his account of the “cognitive estrangement”
+                    itself: including Seo-Young Chu’s recent provocative notion that “science
+                    fiction is a representational technology powered by a combination of
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001018
+

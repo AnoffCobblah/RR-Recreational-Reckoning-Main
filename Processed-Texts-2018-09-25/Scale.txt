@@ -1,0 +1,163 @@
+                    848          VL C      •    VO L. 46, N O. 3/4
+                    Scale
+                    PAUL FYFE
+                             Her function was . . . to dole out stamps and postal-orders, weigh letters,
+                             answer stupid questions, give difficult change and, more than anything
+                             else, count words as numberless as the sands of the sea . . .
+                                                                                                —Henry James, In the Cage1
+                    H         ENRY James begins his 1898 novella In the Cage with an anonymous
+                               young woman who works in a London post office as a telegrapher.
+                    Victorianists have been drawn to the story for its fascinating lessons about
+                    telegraphic knowledge, gendered labor, surveillance, and the media
+                    ecology of the fin de siècle. Yet the story also offers a prescient glimpse
+                    of contemporary problems in humanities research: how to manage,
+                    read, and interpret texts at scale. The telegrapher’s actual postal scale
+                    is just part of her quantitative labor: she deals in the quanta and counting
+                    of stamps, change, questions, and words. She also experiences texts in
+                    excess of measure: words “numberless as the sands of the sea.” In the
+                    Cage not only thematizes the vast scale of textual proliferation which char-
+                    acterized the nineteenth century, it dramatizes the telegrapher’s search
+                    for meaning in the masses of words beyond counting. In the Cage is an
+                    early story of “distant reading,” a reckoning with how scale might require
+                    an unfamiliar form of hermeneutics. For Victorian studies, the problems
+                    of innumerable things and how to interpret them manifest doubly as a
+                    historical phenomenon and a contemporary methodological challenge.
+                            Victorian commentators perceived such a shift in the extraordinary
+                    expansion of printed materials which attended industrial printing pro-
+                    cesses, demographic changes in readership, efficient distribution net-
+                    works, and increasing literacy, among other factors. Perhaps every
+                    historical period claims to be overwhelmed with its own information,
+                    but in the nineteenth century, as Elizabeth Miller argues, the “nearly
+                    incalculable volume of new print material made for a qualitative, not
+                    just quantitative, shift in the identity of print as a medium.”2 Victorian
+                    commentators newly characterized the printed landscape as a mass phe-
+                    nomenon, amounting to what Linda K. Hughes calls “the first mass-
+                    media era.”3 Proliferation and politics mingle in these notions of the
+                    masses and how and whether they could be counted, or at what scales
+                    perceived. Benjamin Morgan suggests that scale structures perception
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001006
+
+                                                                                                                    S CA L E        849
+              and clears conceptual space for other cultural projects.4 With respect to
+              print, Miller argues that the efforts to convert “a massive, sublimely
+              ungraspable print culture into something more human-scaled” produce
+              other forms of knowledge work, including new genres of literary writing
+              and criticism.5
+                      Scale challenged not simply the mechanics but the interpretive coher-
+              ence of reading, the sense of how a textual medium even worked. Miller
+              points to the Victorian book review as a signature response. In considering
+              global and planetary scales, Morgan argues that decadent writers under-
+              took “acts of imagination that situate the totality of human life in relation
+              to the totality of natural systems,” all “in order to contemplate their shared
+              fate” and thus theorize about the anthropocene.6 Anna Henchman identi-
+              fies the novel as among several “large-scale systems” which variously tried to
+              measure sprawling complexity.7 Victorian astronomy, Henchman argues,
+              provided novelists a model for managing perspectives at various scales.
+              To these arguments, I would add the nascent interest in literary stylistics
+              as something to count, measure, and interpret—perhaps first articulated
+              in an 1887 article in Science magazine which charts comparative word
+              lengths in Charles Dickens’s Oliver Twist, William Makepeace Thackeray’s
+              Vanity Fair, and John Stuart Mill’s essays on political economy.8
+                      “Distant reading” is not solely the purview of computers, but of count-
+              ing. Ted Underwood traces its genealogy to mid-twentieth century experi-
+              ments in quantitative methods, but Victorian examples suggest an earlier
+              engagement with its methods and the interpretive problematics at its
+              core.9 In their pamphlet A Quantitative Literary History of 2,958
+              Nineteenth-Century British Novels written for the Stanford Literary Lab,
+              Ryan Heuser and Le-Khac Long put it this way: “The general methodolog-
+              ical problem of the digital humanities can be bluntly stated: How do we get
+              from numbers to meaning?”10 This question has roots in the questions
+              many Victorian writers were asking about how to swim in oceans of textual
+              information in multiply mediated forms.11 In his subsequent preface to In
+              the Cage, James describes his own interest in the telegraph office for its
+              cacophony, having “so much of London to give out, so much of its huge per-
+              petual story to tell.” As James explains, “So had grown up, for speculation . . .
+              the question of what it might ‘mean.’”12 In the Cage is among several
+              Victorian examples which explore “the question of what it might ‘mean’”
+              in terms of counting words, quantitative inference, and literary criticism.13
+                      The digital has reinvigorated our engagement with Victorian scale.
+              Natalie Houston describes the “large-scale digitization of nineteenth-century
+              books and periodicals” as producing “evidence at new scale,” including
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001006
+
+                    850          VL C      •    VO L. 46, N O. 3/4
+                    historical texts as well as their computational features.14 Importantly,
+                    Houston stresses that scale happens at various sizes, challenging the fallacy
+                    of “big data” with an emphasis on carefully curated data sets and interpretive
+                    dexterity. Digital methods must be scalable, too. For instance, Ryan Cordell
+                    coins the term “‘zoomable reading, in which one moves between levels of
+                    perspective.”15 Michael Witmore goes even further, arguing that approach-
+                    ing texts at variable scales has always been an interpretive possibility: the
+                    seeming novelty of large-scale digitized materials just reminds us of the “mas-
+                    sive addresseability” of text.16 As the Victorians apprehended an enormous
+                    increase in printed materials, they too struggled with the problems of scale,
+                    the question of what it might mean, and the critical opportunities of trying to
+                    find out in new ways.
+                                                                            NOTES
+                       1. Henry James, In the Cage, in Tales of Henry James, ed. Christof Wegelin
+                            and Henry B. Wonham, 2nd ed. (New York: W. W. Norton &
+                            Company, 2002).
+                       2. Elizabeth Carolyn Miller, “Reading in Review: The Victorian Book
+                            Review in the New Media Moment,” Victorian Periodicals Review 49,
+                            no. 4 (2016): 626–42, 626.
+                       3. Linda K. Hughes, “SIDEWAYS!: Navigating the Material(ity) of Print
+                            Culture,” Victorian Periodicals Review 47, no. 1 (2014): 1–30, 1.
+                       4. Benjamin Morgan, “Fin Du Globe: On Decadent Planets,” Victorian
+                            Studies 58, no. 4 (2016): 609–35, 613.
+                       5. Miller, “Reading in Review,” 628.
+                       6. Morgan, “Fin Du Globe,” 612.
+                       7. Anna Henchman, The Starry Sky Within: Astronomy and the Reach of the
+                            Mind in Victorian Literature (Oxford: Oxford University Press, 2014), 2.
+                       8. T. C. Mendenhall, “The Characteristic Curves of Composition,”
+                            Science 9, no. 214 (1887): 237–49.
+                       9. Ted Underwood, “A Genealogy of Distant Reading,” Digital
+                            Humanities Quarterly 11, no. 2 (2017): n. p.
+                    10. Ryan Heuser and Le-Khac Long, Quantitative Literary History of 2,958
+                            Nineteenth-Century British Novels: The Semantic Cohort Method, Pamphlets
+                            of the Stanford Literary Lab (Palo Alto: Stanford Literary Lab, May
+                            2012), 46.
+                    11. For a brilliant reading of the rhetoric of information “floods,” see
+                            Nathan K. Hensley, “Database and the Future Anterior: Reading
+                            The Mill on the Floss Backwards,” Genre 50, no. 1 (2017): 117–37.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001006
+
+                                                                                                 S CA L E , S C I E N C E           851
+              12. Henry James, Preface to The Novels and Tales of Henry James: New York
+                     Edition, Vol. 11 (New York: Charles Scribner’s Sons, 1908), xviii, xix.
+              13. For other examples, see Morgan, “Critical Empathy: Vernon Lee’s
+                     Aesthetics and the Origins of Close Reading,” Victorian Studies 55,
+                     no. 1 (2012): 31–56. See also Natalia Cecire, “Ways of Not Reading
+                     Gertrude Stein.” ELH 82, no. 1 (2015): 281–315.
+              14. Natalie M. Houston, “Toward a Computational Analysis of Victorian
+                     Poetics,” Victorian Studies 56, no. 3 (2014): 498–510, 498.
+              15. Ryan Cordell, “Taken Possession Of: The Reprinting and
+                     Reauthorship of Hawthorne’s ‘Celestial Railroad’ in the Antebellum
+                     Religious Press,” Digital Humanities Quarterly 7, no. 1 (2013).
+              16. Michael Witmore, “Text: A Massively Addressable Object,” Wine Dark
+                     Sea (blog), December 31, 2010.
+              Science
+              MARTIN WILLIS
+              T      HE most interesting of recent developments in Victorian literary
+                     scholarship has been our obsession not with the Victorians but
+              with ourselves. We have become fascinated by invoking the Victorians
+              in order to consider our contemporary conditions. This self-
+              interrogation has been both welcomed and contested. For literature
+              and science scholars it has been puzzling, for Victorian literature and sci-
+              ence has a long tradition of scholarly critique that takes account of both
+              past and present. It has also been satisfying, since the turn towards our
+              own historical moment has seen the study of literature and science
+              take up a place at the very heart of Victorian literature and culture.
+              This interest in our present moment and its attachments to Victorian cul-
+              tures is important because it is making us think creatively about the
+              future praxis of Victorian scholarship. It is enabling us to consider new
+              ways of conceiving of the temporal gap between the Victorians and our-
+              selves and what knowledge crossing that gap might generate.
+                      This temporal turn is clear in the significant proportion of recent
+              Victorian research that has focussed, for example, on ecological
+              crises: from environmental violence and studies of the anthropocene
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001006
+

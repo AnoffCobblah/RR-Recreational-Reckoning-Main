@@ -1,0 +1,200 @@
+                    812          VL C      •    VO L. 46, N O. 3/4
+                    have been criticized by humanists as well as statisticians, his work is a testa-
+                    ment to our tremendous appetite for progress narratives, one that certainly
+                    exceeds in quantity and differs in quality from the modest claims of
+                    Macaulay or Acton. As we strive to understand historical change that has
+                    a more ambivalent direction and as we fight for the future that we want,
+                    we need to acknowledge the way that the Victorian theorization of progress
+                    went hand-in-hand with its others—regress, cyclicality, stasis, and rupture.
+                                                                            NOTES
+                    1. Herbert Butterfield, The Whig Interpretation of History (London: G. Bell
+                          and Sons, 1963), 4; Michael Bentley, “Shape and Pattern in British
+                          Historical Writing, 1815–1945,” in The Oxford History of Historical
+                          Writing, 1800–1945, Vol. 4, ed. Stuart Macintyre, Juan Maiguashca,
+                          and Attila Pók (Oxford: Oxford University Press, 2011), 208.
+                    2. John Stuart Mill, A System of Logic, Ratiocinative and Inductive, Being a
+                          Connected View of the Principles of Evidence and the Methods of Scientific
+                          Investigation, in The Collected Works of John Stuart Mill, ed. J. M. Robson
+                          (Toronto: University of Toronto Press, 1963), 8: 938 [VI. xi. 3].
+                    3. Thomas Babington Macaulay, “History,” in Critical, Historical, and
+                          Miscellaneous Essays (New York: Hurd and Houghton, 1878), 1: 393.
+                    4. Macaulay, “History,” 416, 417.
+                    5. John Emerich Edward Dalberg-Acton, “The Study of History,” in
+                          Selected Writings of Lord Acton, ed. J. Rufus Fears (Indianapolis:
+                          Liberty Classics, 1985): 2: 517 (emphasis added).
+                    6. Dalberg-Acton, “Study,” 507.
+                    7. Dalberg-Acton, “Study,” 508–10.
+                    8. Steven Pinker, The Better Angels of Our Nature: Why Violence Has Declined
+                          (New York: Viking, 2011).
+                    Progress
+                    SUE ZEMKA
+                    A         belief in progress was so deeply embedded in nineteenth-century
+                             Britain that it was one of those beliefs for which there was no
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000918
+
+                                                                                                            P RO G R E SS           813
+              outside. Scientific knowledge was advancing; so, too, was technology, cap-
+              italism, and culture. Their development was part of the progress of his-
+              tory itself. Where Giambattista Vico’s influential model of history
+              traced the rise and fall of civilizations, Immanuel Kant’s 1784 Idea for a
+              Universal History from a Cosmopolitan View replaced the cycles of “man”
+              with his telos—a one-way street. The subsequent metanarratives of the
+              nineteenth century followed a similarly linear movement of accretion,
+              complexification, and sophistication. Auguste Comte imagined social
+              history moving towards perfection through the human application of sci-
+              ence; he called this Positivism. Charles Darwin theorized evolutionary
+              mechanisms that governed biological life independently of human con-
+              trol. Darwin tried to purge evolutionary theory of the theological and sec-
+              ular baggage of design and its goals, its language of improvement or
+              destiny, but social Darwinism put them right back in. The nineteenth-
+              century idea of history was unthinkable apart from the form of progress.
+                      Theodor Adorno identifies the “concept of total progress” with
+              bourgeois society.1 But its totality is misleading. Victorian progress was
+              never “total” in the sense of uncontested. Fears of regression or collapse
+              existed throughout the nineteenth century. John Ruskin was never one
+              to trust categorically in progress, which he equated with hubris, an invi-
+              tation to divine correction. Still, while the Jeremiahs of the nineteenth
+              century chastened their contemporaries’ overconfidence in the progres-
+              sive virtues of British industry, they did not ascribe to a belief that decays
+              or reversals in civilization were natural and inevitable. Instead, they
+              treated them as dangers that could be prevented by checks to selfish
+              social habits. Decay and reversal were thus folded into the Victorian ide-
+              ology of progress as critique. The gospel of progress drew strength from
+              its critics: the Jeremiad styles of Ruskin, Thomas Carlyle, and occasionally
+              Matthew Arnold were revered throughout the century. Thus, the religion
+              of progress was always beset by certain salubrious crises of faith, all
+              through the Palmerston years and the Great Exhibition, more audibly
+              so in the de-evolutionary fears and nihilist outcroppings of the fin de
+              siècle, and deafeningly so after the world wars of the twentieth century.
+              But modernity’s definition of itself as progressive was never completely
+              eradicated. Even after the holocaust, Adorno perceived that there was
+              enough life left in the old belief for him to feel the need to recuperate
+              it from its cloying and dangerous excesses, which he does by reconceiving
+              progress as a dialectics of resistance.2
+                      Historical and individual progress came together in the nineteenth
+              century to solidify the notion of a species destiny—Hegelian, Marxist,
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000918
+
+                    814          VL C      •    VO L. 46, N O. 3/4
+                    Utilitarian/Liberal, or eventually eugenicist. “Humanity,” in these philos-
+                    ophies, is a vehicle driven by one or another engine (biology, reason,
+                    love, spirit, God) towards one or another version of perfection (enlight-
+                    enment, freedom, justice, adaptability, or happiness). The sticking point
+                    in these philosophies—the place where thought did not map easily onto
+                    reality—was in the relationship of the parts to the whole of “humanity.”
+                    For John Stuart Mill, the role of the part was crucial. The impressive pace
+                    of improvement in Britain and Europe depended upon it, he believed,
+                    insofar as liberal society was healthy and robust in proportion to the free-
+                    dom it allotted to the individual. Hannah Arendt, writing from the per-
+                    spective of the post-war mid-twentieth century, believed that such
+                    Victorian salutations to individual liberty were little more that naïve ves-
+                    tiges of the intoxicating optimism of pre-revolutionary France. There was
+                    really a jaundiced secret at the heart of the Victorian belief in progress,
+                    Arendt suggested, and it was the recognition that “the endless progress
+                    of bourgeois society” required the accumulation of power by nations
+                    equipped to enforce economic laws on a global scale.3 And this accumu-
+                    lation of power—“imperialism” by name—depended on racism as its
+                    enabling ideology.4 In all its iterations, the metanarrative of human per-
+                    fectibility through progress was always uncertain as to what humanity was
+                    —where to draw boundaries around and within it, and what this meant
+                    for the ontological status of those cast by thought to the outside.
+                            There is no accident in the fact that the age dominated by concerns
+                    with the progress of humanity is also the age that we now identify with the
+                    ineluctable emergence of anthropogenic climate change. In retrospect,
+                    the blind spot in the nineteenth-century’s idealistic humanism is also
+                    its (and our) tragic undoing. For possibly the only thing that Victorian
+                    Britain believed to be unchanging was its climate. Amitav Ghosh calls it
+                    “the great derangement”—the assumption that “Nature is moderate
+                    and orderly,” and that the scaffolding of “the real” no less than literary
+                    realism was the reliable backdrop of a maritime climate, with the seasonal
+                    patterns, the plants and weather, which that climate produced.5 And so
+                    on for the different climates of the globe, each of them providing unique
+                    but consistent stages on which human beings acted out their dramas,
+                    confident that no matter the gravity of suffering they endured, the planet
+                    would, more or less, go on the same. If there was an outside to the
+                    Victorian belief in progress, a space free of the presumed laws of unidi-
+                    rectional change and development, it was (ironically and erroneously)
+                    the space of nonhuman natural environments, which were static in
+                    their seasonal predictability, practically (so it seemed) without end.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000918
+
+                                                                                                            P RO G R E SS           815
+                      Now that global environments are unmistakably changing, we are in
+              a position—albeit a shaky one—from which to view the concept of
+              human progress itself from the outside. More than the debacles of the
+              twentieth-century world wars, climate change frees us from the deeply
+              embedded premise that, whatever its ups and downs, and despite the set-
+              backs caused by our viciousness, human history nevertheless progresses.
+              Human survival, it is apparent, along with the progressive projects of
+              social justice and human self-understanding, are dependent on, entan-
+              gled with, the future of climates. To speak of the “ends of man” in the
+              twentieth-first century is to invoke a grimmer literalism than the enlight-
+              enment ever intended.
+                      The ideas of “progress” and “humanity” are tied together with the
+              rise of climate change in a knot of causal relations and influences that
+              we have only recently begun to unravel. Paul Crutzen and Eugene
+              Stoermer’s introduction of “the anthropocene” into geological modeling
+              inspired an increasing wave of work on environmental history and theory
+              in the humanistic disciplines, and more works are published (seemingly
+              exponentially) each year. In the moment of this rich critical activity, a few
+              needs and possibilities appear. Some needs: to continue rethinking
+              “humanity” and “subjectivity” in terms of intersectionality, an alternative
+              to the past pitfalls of bounded and stable models of selves and groups;
+              and the need to interject eco-justice into these conversations as a com-
+              mon denominator of concern, albeit with differing levels of responsibil-
+              ity. Some possibilities: to rethink progress, a temporal form, as space, the
+              simultaneous coexistence of arenas of injustice and hatred with local
+              practices of justice and care; relatedly, to recuperate mourning as
+              empowerment, “shared vulnerability” as strength, as in Judith Butler’s
+              thinking, but now in environmental no less than global politics.6
+                                                                      NOTES
+              1. Theodor Adorno, “Progress,” in Can One Live After Auschwitz?, ed. Roll
+                   Tiedemann, trans. Henry Pickford (Stanford: Stanford University
+                   Press, 2003), 143.
+              2. Adorno, “Progress,” 144–45.
+              3. Hannah Arendt, The Origins of Totalitarianism (1951; New York:
+                   Harcourt, Brace, Jovanovich, 1968), 143–44.
+              4. Arendt, The Origins, 158.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000918
+
+                    816          VL C      •    VO L. 46, N O. 3/4
+                    5. Amitav Ghosh, The Great Derangement: Climate Change and the
+                          Unthinkable (Chicago: University of Chicago Press, 2016), 22.
+                    6. Judith Butler, Precarious Life: The Powers of Mourning and Politics
+                          (New York: Verso, 2004), 49.
+                    Queer
+                    ELLEN CROWELL
+                         N 1891, Punch inaugurated “Queer Queries,” a faux-advice column
+                    I     where imaginary readers aired grievances and sought solutions. In
+                    April 1891, “Urgent”—a starving vicar in a stingy parish—seeks counsel
+                    on whether to pawn his “lectern and ancient carved pulpit” for food,
+                    while “Perplexed”—whose property boundary has been breached by an
+                    invasive “aroma of questionable herrings and very pronounced had-
+                    docks” from the fish shop next door—asks whether to demand full
+                    meals as compensation.1 Alongside these “Queer Queries” sits a poem
+                    entitled “Coming Dress,” which dismisses as mere “queer robes” the sar-
+                    torial future advocated by feminist reformers: “[S]hall we welcome with
+                    delight / queer robes that make a girl a fright? / Pooh-pooh! We’re sim-
+                    ply imperturbable. / The Reign of Fashion’s undisturbable.”2 Vicars, aro-
+                    mas, and clothing here share queer pride of place; queer is that which
+                    disturbs or perturbs; even (or especially) if their rumblings can be easily
+                    contained by the boundaries of conventional humor and fashion. In
+                    other words, in 1891 “queer” was punchy.
+                            It is, of course, punchy again—perhaps even punch drunk. A Gale
+                    Primary Sources term search suggests that “queer” hit a popular high-
+                    water mark in the mid-1890s—a height it did not reach again until the
+                    early 1990s. The pivot year was 1898, after which “queer” fell off precip-
+                    itously and—after a small resurgence in the 1920s—kept falling. The fate
+                    of “Queer Queries” speaks to this pinch point: inaugurated in 1891, by
+                    1898 Punch had discontinued the feature entirely. When “queer” did
+                    return to fin-de-siècle popularity levels in 1991, it did so only to blow
+                    right through and keep rising, up through our present moment.
+                    Registering both the pain and shame of a homophobic past and the
+                    world-making energies of political, critical and aesthetic activism, the
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000918
+

@@ -1,0 +1,202 @@
+                    668          VL C      •    VO L. 46, N O. 3/4
+                    3. Jason Rudy, Imagined Homelands: British Poetry in the Colonies
+                          (Baltimore: Johns Hopkins University Press, 2017).
+                    4. Priya Joshi, In Another Country: Colonialism, Culture and the Novel in India
+                          (New York: Columbia University Press, 2002). See also Sukanya
+                          Banerjee, Becoming Imperial Subjects: Indians in the Late-Victorian
+                          Empire (Durham: Duke University Press, 2010).
+                    5. Chadwick Allen, Trans-Indigenous: Methodologies for Global Native Literary
+                          Studies (Minneapolis: University of Minnesota Press, 2012), xx.
+                    6. Allen, Trans-Idigenous, xix.
+                    7. Jane Stafford, Colonial Literature and the Native Author: Indigeneity and
+                          Empire (Basingstoke: Palgrave Macmillan, 2016). See also Coll
+                          Thrush, Indigenous London: Native Travelers at the Heart of Empire
+                          (New Haven: Yale University Press, 2016).
+                    8. Vine Deloria, Jr., We Talk, You Listen: New Tribes, New Turf (Lincoln:
+                          University of Nebraska Press, 1970).
+                    Empire
+                    WILL GLOVINSKY
+                    E       MPIRE, like Flaubert’s ideal author, has a way of seeming everywhere
+                            present yet scarcely visible in much Victorian literature. While review
+                    sections of the field’s journals attest to robust interest in nineteenth-
+                    century imperialism and settler colonialism, racial and “free trade” ideol-
+                    ogies, cosmopolitanisms and oceanic rims, the significance of empire for
+                    our reading of Victorian literature has remained more equivocal. Often
+                    immured within a sub-canon of important but fairly familiar works,
+                    empire—and especially its relation to literary forms and themes—can
+                    seem to be a subject more easily discussed at a dedicated conference
+                    panel than in an undergraduate survey hoping to demonstrate what is
+                    particularly valuable or interesting about nineteenth-century literature,
+                    and in particular the novel. Critics may agree that an empire based on
+                    a massive, coerced drug trade, indigenous genocide, and the unfree
+                    labor of millions was a key socioeconomic factor in nineteenth-century
+                    British culture, but it can be difficult at times to see how this history fig-
+                    ures in the novel canon’s conservative but resilient core of metropolitan,
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:11, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000529
+
+                                                                                                                 EMPIRE             669
+              mid-century, more-or-less realist fiction. What, really, is the empire to
+              Dorothea Brooke? Why parse indirect rule when there’s free indirect
+              style?
+                      It’s worth reflecting how much this state of affairs tells us about our
+              own practices of canon formation, based as they are on aesthetic
+              criteria of contemporary pleasurableness, density of meaning, and con-
+              testability of interpretation, as well as academics’ generic preferences
+              for realism over romance or “serious” over juvenile fiction. If literary
+              critics hardly need reminding that such tastes classify the classifiers, the
+              excising of colonial themes and preferences out of the canon—the
+              neglect of nautical romancers like Frederick Marryat, or G. W. M.
+              Reynolds, who outsold Dickens in India—should cause us to ask why so
+              many authors who wrote about or were widely read in the colonies
+              have been less congenial to academics.1
+                      But a second and arguably more critically tractable force behind
+              empire’s apparently equivocal relation to nineteenth-century novels
+              may lie in the very methodologies and metaphors we use to apprehend
+              the content of imperialism. In the early 1990s, for instance, several highly
+              influential works construed empire in primarily spatial terms, as the
+              properly geographic extension of political and economic power.
+              Edward Said understandably premised his arguments in Culture and
+              Imperialism on the paramount role of space—“the actual geographic pos-
+              session of land”—in theorizing empire, and on the corresponding obser-
+              vation that this imperial space is “only marginally visible” in most
+              nineteenth-century fiction.2 It thus fell to the critic, Said wrote, “to
+              draw out, extend, give emphasis and voice to what is silent or marginally
+              present” in the novel.3 And, in a slightly earlier essay on modernist aes-
+              thetics, Fredric Jameson so raised the spatial stakes of criticism as to
+              make empire synonymous with an ungraspable geopolitical totality. For
+              Jameson, “colonialism means that a significant structural segment of
+              the economic system is now located elsewhere, beyond the metropolis.”4
+              Critics of imperial literature should then read style (instanced by the
+              Great Northern Road’s sublime “infinity” in Howards End) as the textual
+              “marker and substitute” of the global “unrepresentable totality.”5
+                      Following Said and Jameson, a body of remarkable scholarship has
+              retraced empire’s previously neglected incursions into the canonical
+              British novel in subplots of imperial travel, in the figure of the colonial
+              émigré or returnee, and in the networks of colonial labor, commodities,
+              and capital that underpin so-called domestic comfort. Understanding
+              when and how the Victorian novel made imperial space visible through
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:11, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000529
+
+                    670          VL C      •    VO L. 46, N O. 3/4
+                    such geopolitical systems remains a vital critical project, not least because
+                    of recent work investigating how imperial “development” devastated and
+                    transformed colonial environments. But redoubled attention to textual
+                    glimpses of geopolitical totality can also militate against readings of the
+                    novel as a whole in itself. As James Buzard has pointed out, “Not merely
+                    hypersensitive scrutiny of the novel’s peripheries . . . but detailed formal
+                    analysis of its central structures and language remains indispensable to a
+                    globally conscious novel criticism.”6
+                            It is perhaps no coincidence, then, that two important recent books
+                    offer thought-provoking models for construing the immanence of
+                    empire in the Victorian novel’s “central structures.” Nathan Hensley’s
+                    engrossing Forms of Empire investigates how Victorian writers used the
+                    resources of plot, narration, meter, and genre to not merely register
+                    but also think through the juridical problems of liberal sovereignty and
+                    imperial violence.7 In The Victorian Geopolitical Aesthetic, meanwhile,
+                    Lauren Goodlad persuasively reveals the imperial-capitalist worldedness
+                    of seemingly domestic fiction by tracing tropes of collapsed “heirloom”
+                    sovereignty from Trollope’s Barsetshire to the adultery narratives of
+                    Flaubert and Eliot.8
+                            Goodlad and Hensley’s innovative approaches should prompt us to
+                    develop others. What if we envisioned the nineteenth-century novel’s
+                    engagement with empire not only as the quest for a totalized global sys-
+                    tem but also as a more limited yet still socially significant “structure of
+                    feeling”? How might we map the intimacies, affiliations, prejudices,
+                    and conceptual problems that made empire however real and urgent it
+                    was for the vast majority of Victorians whose work or travel never carried
+                    them to overseas colonies? Such an approach may sound overmodest or
+                    even quietist, yet dwelling on the nineteenth-century novel’s relative
+                    reluctance to provide the totalized global view that twenty-first century
+                    critics desire may in fact edge us closer to understanding what the art
+                    we study and teach has to tell us about its imperial world. Even when
+                    they neglect colonial space and its constitutive violence, canonical
+                    Victorian novels may provide uniquely generative literary evidence of
+                    imperialism as an affective turbulence, a question of fraught intimacy,
+                    or a structure of self-alienation coiled within the conceit of omniscient
+                    impersonality. Such avenues of inquiry can connect themes of empire
+                    to those aspects of nineteenth-century British fiction that are most gener-
+                    ically distinctive: to narrative form, the unspooling of characters’ psychol-
+                    ogies, to casuistry and ethical commitment.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:11, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000529
+
+                                                                                                                 EMPIRE             671
+                      The reasons to renew our focus on empire and affect might include
+              insights from the critically undervalued patterns of biography. Most reg-
+              ulars of the nineteenth-century novel syllabus did not spend much time
+              in Britain’s empire, yet nearly all had close family members who did:
+              Austen had two brothers in the navy; Gaskell’s went missing in India;
+              Dickens packed off two sons to India and another two to Australia;
+              Trollope sent his eldest to New South Wales to raise sheep; Eliot helped
+              establish G. H. Lewes’s sons in Natal. Reckoning with Victorian litera-
+              ture’s failures and successes in writing the global entails understanding
+              how empire for these novelists (as for millions of their contemporaries)
+              was a family affair, its affective range spanning distant intimacy, the vicar-
+              ious careerism of hopeful middle-class parents, the gamble (or 5% guar-
+              antee) of colonial investments, the bigoted anxiety over mixed-race
+              marriages. As work by Leela Gandhi, Tanya Agathocleous, Nancy
+              Henry, and Deirdre David demonstrates, thinking about affect, disaffec-
+              tion, domesticity, and gender in relation to empire can illuminate
+              nineteenth-century literature and culture while also helping us to per-
+              ceive the lived structures of imperial experience and colonial resistance.9
+              If these forms of actually existing imperial consciousness fail to reassem-
+              ble the British world-system’s economic totality or make invisible global
+              space visible, they can return us to what makes the Victorian novel beat
+              by showing how, in the nineteenth century, the personal was already
+              geopolitical.
+                                                                      NOTES
+              1. Priya Joshi, In Another Country: Colonialism, Culture, and the English Novel
+                   in India (New York: Columbia University Press, 2002), 35.
+              2. Edward W. Said, Culture and Imperialism (New York: Vintage, 1994), 78,
+                   63.
+              3. Said, Culture, 66.
+              4. Fredric Jameson, “Modernism and Imperialism,” in The Modernist
+                   Papers (London: Verso, 2007), 157.
+              5. Said, Culture, 163.
+              6. James Buzard, Disorienting Fiction: The Autoethnographic Work of
+                   Nineteenth-Century British Novels (Princeton: Princeton University
+                   Press, 2009), 42.
+              7. Nathan K. Hensley, Forms of Empire: The Poetics of Victorian Sovereignty
+                   (Oxford: Oxford University Press, 2016).
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:11, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000529
+
+                    672          VL C      •    VO L. 46, N O. 3/4
+                    8. Lauren M. E. Goodlad, The Victorian Geopolitical Aesthetic: Realism,
+                          Sovereignty, and Transnational Experience (Oxford: Oxford University
+                          Press, 2015).
+                    9. Leela Gandhi, Affective Communities: Anticolonial Thought, Fin-De-Siècle
+                          Radicalism, and the Politics of Friendship (Durham: Duke University
+                          Press, 2006); Tanya Agathocleous, “‘The Coming Clash of East and
+                          West’: Syncretism, Cosmopolitanism, and Disaffection in the
+                          Colonial Public Sphere,” Textual Practice 31, no. 4 (2017): 661–85;
+                          Nancy Henry, George Eliot and the British Empire (Cambridge:
+                          Cambridge University Press, 2006); and Deirdre David, Rule
+                          Britannia: Women, Empire, and Victorian Writing (Ithaca: Cornell
+                          University Press, 1995).
+                    Enclosure
+                    ZACH FRUIT
+                    F      ROM the right angle, land enclosure takes on the aspect of the root
+                           of capitalist accumulation. Marx, while suspicious of origin stories,
+                    famously identifies land enclosure, and the nascent statist tactics of “con-
+                    quest, enslavement, robbery, murder, in short, force” that accompany
+                    it, as the “original sin” of “so-called primitive accumulation.”1 Many his-
+                    torians have identified British land enclosure as a crucial aspect of
+                    the eighteenth-century rise of industrial capitalism, while differently the-
+                    orizing the relationship between the productive dynamics of English agri-
+                    culture and the multinational circulation of capital.2 J. M. Neeson has
+                    given the most textured account of the enclosure of the commons as a
+                    decentralized process of expropriation that occasioned a complex array
+                    of resistance, ambivalence, and compromise.3 The agricultural “improve-
+                    ments” that accompanied enclosure also seem to be imbricated in the
+                    enforced migration of agricultural laborers into urban centers and the
+                    increasing rate of mechanization that led to the industrial revolution.4
+                    Perhaps undertheorized, however, are the visual and aesthetic effects
+                    of enclosure, and the innovative literary methodologies that metabolized
+                    and disrupted these material transformations. Approaching enclosure as
+                    an aesthetic phenomenon rather than an economic process allows for a
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:11, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000529
+

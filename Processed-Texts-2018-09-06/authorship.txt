@@ -1,0 +1,161 @@
+                    580          VL C      •    VO L. 46, N O. 3/4
+                    2. For a powerful criticism of this figuration of the author, see Nancy
+                          Armstrong and Leonard Tennenhouse, “The Mind of Milton,” ch. 1
+                          of The Imaginary Puritan: Literature, Intellectual Labor, and the Origins
+                          of Personal Life (Berkeley: University of California Press, 1992), 27–46.
+                    3. For the classic New Critical statement, see Frank H. Ellis, “Gray’s
+                          Elegy: The Biographical Problem in Literary Criticism,” PMLA 66,
+                          no. 6 (1951): 971–1008.
+                    4. Amanda Anderson, “The Temptations of Aggrandized Agency:
+                          Feminist Histories and the Horizon of Modernity,” Victorian Studies
+                          43, no. 1 (2000): 43–65.
+                    5. Henry James, Preface to The Tragic Muse (New York: Charles
+                          Scribner’s Sons, 1922), x.
+                    Authorship
+                    ANDREA SELLERI
+                    L       ET us imagine that a diverse group of scholars of English literature
+                            were asked to provide a one-minute explanation of why authorship
+                    is a worthwhile subject for academic enquiry. Prima facie, the facts of
+                    the matter seem straightforward: a person conceives a series of ideas,
+                    puts them in writing, and publishes them; if enough people are prepared
+                    to pay to read the results, the author gets a share of the profit; if the writ-
+                    ing brings about a crime or misdemeanour (e.g. slander or plagiarism),
+                    the author is responsible in the eyes of the law.1 But in contrast to this
+                    straightforwardness on paper, literary scholars continue to produce an
+                    enormous quantity of research dealing with “authorship.” Nor is this usu-
+                    ally a matter of determining who wrote some unsigned piece (the most
+                    intuitive interpretation of the term). Articles are written, lectures given,
+                    bids for research grants tremulously penned to study a concept that to
+                    the layperson may not appear to need such an expense of intellectual
+                    application. So, why is authorship interesting?
+                            I suspect that the immediate mental associations prompted by this
+                    bald request would be strikingly different for different literary scholars,
+                    depending on the prevalent directions that inquiry has taken in their sub-
+                    field. Those of a philosophical bent, for example, would likely cast their
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:39:44, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000293
+
+                                                                                                      A U T H O R S HI P            581
+              minds back to that episode of the “theory wars” that concerned the theo-
+              retical and ideological viability of the notion of the author, and which
+              resulted in a steady stream of scholarship from Barthes’s and Foucault’s
+              famous essays well into the 1990s.2 Scholars of medieval and early modern
+              literature, where questions of textual reproduction and distribution have
+              dominated the field, would likely think of social or technological history.3
+              The default direction for scholars of the eighteenth century would proba-
+              bly be the history of development of copyright law.4 Romanticists’ most
+              likely first port of call would be intellectual history, following from
+              M. H. Abrams’s foundational study of Romantic poetic theory.5 To read a
+              broad-range book like Andrew Bennett’s The Author, which lithely spans
+              the period from antiquity to the present, is to become keenly aware of
+              the differences in approach between different communities of scholars.6
+              This methodological heterogeneity raises several questions: is authorship
+              primarily interesting as a theoretical concept? As a historical notion? If
+              so, which history—material, social, intellectual? If the answer is “all of
+              the above,” what is the relationship between these approaches?
+                      I will come back to this point on heterogeneity in literary studies
+              shortly. For now, one disappointing feature of Bennett’s otherwise excel-
+              lent introduction—that he makes no reference to Victorian writers—
+              leads me to the matter of the significance of authorship for Victorian stud-
+              ies. From histories of criticism, introductions and readers one may well be
+              led to conclude that between “The Romantic Author” and “Formalism” (to
+              follow Bennett’s headings) nothing much happened; or, less bluntly put,
+              that the Victorian period was a relatively uneventful continuation and con-
+              solidation of the Romantic ways of thinking about authorship that were
+              later challenged by Modernist criticism.7 And yet, in the Project Muse data-
+              base, if we restrict the results to studies in Victorian literature published
+              over the past ten years, the keyword “authorship” yields 532 results between
+              books, articles and reviews; and this is far from a complete overview of the
+              field (Cambridge University Press and Oxford University Press publications,
+              for example, are excluded from the search results). Authorship is obviously
+              an important keyword for many scholars of Victorian literature. The ques-
+              tion, then, arises of what we are writing about.
+                      While I cannot claim to have read all these works, I have frequented
+              the scholarship on authorship in the Victorian period and the periods
+              before and after it extensively enough, and I want to propose a general-
+              ization: that the foremost peculiarity of Victorian studies’ otherwise var-
+              ied approaches to authorship is a tendency to work quite closely within
+              the paradigm of historical materialism. What this means in practice is
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:39:44, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000293
+
+                    582          VL C      •    VO L. 46, N O. 3/4
+                    that most of us are less interested in the author and authorship as inter-
+                    pretive concepts that inflect our apprehension of literary works (as is the
+                    case for many scholars of Romanticism and Modernism) than in the eco-
+                    nomic, social and professional aspects of authorship in the dictionary
+                    sense—what Richard Salmon, in a notable study in this vein, calls the
+                    “Victorian literary profession.”8 Since the turn of the century, many
+                    research outputs on Victorian authorship have been published, dealing
+                    with such matters as patent law,9 the Victorian publishing industry,10
+                    the economics of authors’ readings from their works,11 the material dif-
+                    ficulties that some writers, especially women, had in getting published.12
+                    If we cast our minds back to the spectrum of approaches I outlined
+                    above, these studies are representative of the field in that they share a
+                    concern with material and social history, rather than intellectual history
+                    or the theory of interpretation.13
+                             Of course, I don’t think there is anything intrinsically wrong
+                    with this tendency—a common one in Victorian studies, whatever the
+                    topic—or that adopting one approach rather than another necessarily
+                    results in a better or worse book or article. I do want to argue, however,
+                    that we could do more to integrate scholarship on this topic in Victorian
+                    studies with the concerns shared by scholars dealing with the periods on
+                    either side of ours. Certain questions in literary history that extend
+                    beyond our allotted chronological boundaries would be the better for
+                    such an integration. For instance, what happened to the dominant
+                    Romantic theories of authorship in the Victorian period? Is it possible
+                    to inscribe the Modernist ideal of impersonality in a longer intellectual
+                    line that goes back to the literary culture of nineteenth-century Britain
+                    (and not only to French writers such as Flaubert and the Goncourts)?
+                    These are some of the questions I have broached in my own work, and
+                    the historical-materialistic approach alone will not answer them.
+                    Answering them requires an engagement with other approaches, such
+                    as the history of ideas and the theory of criticism. The result will be a
+                    more abstract kind of history, but a legitimate one nonetheless, and
+                    one that could prompt a fruitful interaction with colleagues outside
+                    Victorian studies.
+                                                                            NOTES
+                       1. For the U. K. law see the Copyright, Designs and Patents Act 1988
+                            (c. 48), Part 1, Ch. 1, §9.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:39:44, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000293
+
+                                                                                                      A U T H O R S HI P            583
+                2. Both here and in the other notes, I only give a few representative
+                     examples. Roland Barthes, “La mort de l’auteur,” Manteia 5
+                     (1968): 12–17; Michel Foucault: “Qu’est-ce qu’un auteur?” Bulletin
+                     de la Societé Française de Philosophie 63 (1969): 73–104. For two influen-
+                     tial articles in the analytic tradition, see Peter Lamarque, “The Death
+                     of the Author: An Analytical Autopsy,” British Journal of Aesthetics 30,
+                     no. 4 (1990): 319–31; Paisley Livingston, “Intentionalism in
+                     Aesthetics,” New Literary History 29, no. 4 (1998): 831–46.
+                3. Alexandra Gillespie, Print Culture and the Medieval Author: Chaucer,
+                     Lydgate and Their Books, 1473–1557 (Oxford: Oxford University
+                     Press, 2006).
+                4. Mark Rose, “The Public Sphere and the Emergence of Copyright:
+                     Areopagitica, the Stationers’ Company, and the Statute of Anne,” in
+                     Privilege and Property. Essays on the History of Copyright, ed. Ronan
+                     Deazley, Martin Kretschmer and Lionel Bently (Cambridge: Open
+                     Book Publishers, 2010).
+                5. Meyer Howard Abrams, The Mirror and the Lamp: Romantic Theory and
+                     the Critical Tradition (Oxford: Oxford University Press, 1953).
+                6. Andrew Bennett, The Author (London: Routledge, 2005).
+                7. E.g., Seán Burke, ed., Authorship: From Plato to Postmodern. A Reader
+                     (Edinburgh: Edinburgh University Press, 1995).
+                8. Richard Salmon, The Formation of the Victorian Literary Profession
+                     (Cambridge: Cambridge University Press, 2013).
+                9. Clare Pettitt, Patent Inventions: Intellectual Property and the Victorian
+                     Novel (Oxford: Oxford University Press, 2004).
+              10. Lillian Nayder, Unequal Partners: Charles Dickens, Wilkie Collins and
+                     Victorian Authorship (Ithaca: Cornell University Press, 2002).
+              11. Amanda Adams, Performing Authorship in the Nineteenth-Century
+                     Transatlantic Lecture Tour (Farnham: Ashgate, 2004).
+              12. Amanda Peterson, Becoming a Woman of Letters: Myths of Authorship and
+                     Facts of the Victorian Market (Princeton: Princeton University Press,
+                     2009).
+              13. A notable exception is Suzy Anger, Victorian Interpretation (Ithaca:
+                     Cornell University Press, 2005). There have also been a number of
+                     shorter studies in this vein.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:39:44, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000293
+

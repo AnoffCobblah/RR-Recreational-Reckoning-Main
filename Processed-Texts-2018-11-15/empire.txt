@@ -1,0 +1,159 @@
+                                                                                          E M OTI O N S , EM P I R E                665
+              I gratefully acknowledge the support of the Australian Research Council
+              (Project CE110001011) and the Centre of Excellence for the History of
+              Emotions.
+              Empire
+              RYAN D. FONG
+              S     INCE the rise of postcolonial theory and criticism in the 1980s, it has
+                     become commonplace within Victorian studies to understand empire
+              as a necessary category of analysis. In drawing on the pathbreaking
+              analyses of critics like Edward Said and Gayatri Spivak, our field has
+              long recognized how imperialism and colonialism functioned as crucial
+              backdrops to the literary and cultural output of nineteenth-century
+              Britain. At the same time, much of the current scholarship on empire
+              and Victorian literature has still, in practice, tended to replicate imperial
+              priorities and the spatial logic of settler colonialism. Frequently in this
+              work, Britain remains the assumed center, as texts published within or
+              about the metropole occupy an assumed-privileged status. Often building
+              upon Said’s influential method of “contrapuntal reading,” these analyses
+              construct important arguments about empire that nonetheless remain
+              grounded in a relatively limited range of sources. Thus, in Elaine
+              Freedgood’s The Ideas in Things, for instance, empire reveals itself in
+              the imperial things that appear in Brontë and Dickens.1 Or in Nathan
+              Hensley’s Forms of Empire, he shows us how several British texts encode
+              the foundational terms of sovereignty and violence within their aesthetic
+              structures.2 Moreover, even when scholars have looked further afield and
+              beyond the British Isles themselves, such as in Hensley’s chapter on
+              Haggard or in Jason Rudy’s wide-ranging Imagined Homelands, white emi-
+              grant or colonial writers frequently remain at the forefront, which leaves
+              many issues and subjects in the margins even as they undertake the
+              important work of recuperating authors and texts from understudied
+              archives.3
+                      Each of these books makes necessary interventions in our field, and
+              their incisive and imaginative analyses have enriched our discussions of
+              empire enormously. Nevertheless, their contributions mainly lie in how
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:06, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000517
+
+                    666          VL C      •    VO L. 46, N O. 3/4
+                    they construct a more robust account of imperial and settler colonial ide-
+                    ologies, in ways that keep our critical attentions firmly centered on those
+                    who were engaged or complicit in the project of global expansion. While
+                    this is not to say that these accounts are monolithic or simplistic—far
+                    from it—they illustrate the prevailing limits that frequently frame our
+                    objects of study when it comes to addressing the British empire, in
+                    ways that continue to overlook the cultural output of those who were
+                    occupied and colonized. Certainly there are exceptions to this rule—
+                    with the work of Priya Joshi and Sukanya Banerjee offering two salient
+                    and influential cases in point, in their penetrating analyses of nineteenth-
+                    century Indian sources—but their exceptional status usefully illustrates
+                    how Victorian studies still operates within a paradigm of empire that
+                    might be postcolonial in a temporal sense, but not yet decolonized.4
+                            I draw this language of decolonization from Indigenous studies, a
+                    field whose contributions offer a compelling counter to this paradigm
+                    and challenges its fundamental assumptions. In offering an approach
+                    that, according to Chadwick Allen, explicitly centers “Indigenous con-
+                    cerns and perspectives within academic research” and “localiz[es]
+                    Indigenous theories and analytic methodologies,” it provides an emphat-
+                    ically international and, in fact, antinational framework that dismantles
+                    the binary of center and periphery itself.5 To do so, it “locates itself firmly
+                    in the specificity of the Indigenous local while remaining always cogni-
+                    zant of the complexity of the relevant Indigenous global,” by bringing
+                    together the literary and cultural productions of peoples in the
+                    Americas, Australia, and Africa, to name just a few, and articulating
+                    how they operate both within and outside colonial structures and episte-
+                    mologies.6 Furthermore, rather than seeking to gather these materials
+                    under a single sign—in contrast to the much-critiqued category of
+                    “world literature,” with its tendency to flatten difference—Indigenous
+                    studies instead emphasizes theories and methods that think across
+                    time, space, place, and language and that incorporate a full awareness
+                    of the problematic limits that such comparisons create.
+                            Incorporating these approaches within Victorian studies would allow
+                    us to undertake the vital work of questioning the primacy of the British
+                    canon and the often-unspoken assumption that it provides the most com-
+                    pelling accounts of British imperialism. By forcing us to examine a much
+                    wider corpus of writers and thinkers who actively engaged and resisted
+                    colonial norms, as the recent work of Jane Stafford and Coll Thrush
+                    has already begun to illustrate, Indigenous Studies would transform
+                    how we conceptualize our archives and how we approach them.7 It
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:06, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000517
+
+                                                                                                                 EMPIRE             667
+              would not only help us expand our discussions to include authors that
+              explicitly address or allude to nineteenth-century British and colonial
+              texts—such as Sol Plaatje, E. Pauline Johnson, and Toru Dutt—but
+              would also require that we interrogate and decolonize the boundaries
+              that would delimit this new set of texts, in considering works beyond
+              English and even beyond the medium of alphabetic print itself. Doing
+              so would recognize the full range of indigenous cultural productions
+              that took shape outside the literary, but within and alongside the context
+              of colonialism nonetheless, including in oral culture, the visual arts and
+              handicrafts, and various forms of dance and movement.
+                      Certainly, making these moves is not without difficulty. Our field is a
+              largely monolingual one, and the difficulties of working in multiple lan-
+              guages or with translations present their own obstacles. The same is true
+              in working across various forms of media and with modes of aesthetic
+              expression that are, by definition, ephemeral and therefore absent from
+              any written archive or present only in the highly mediated documents of
+              colonial agents or observers. In this light, to center indigeneity might
+              also require reconsidering the temporal boundaries of the Victorian as
+              it has been traditionally defined, in recognizing how various indigenous
+              communities define oral storytelling cultures as transtemporal in ways
+              that connect ongoing contemporary practices with those that occurred
+              in what we typically call the nineteenth century. In this sense, an account
+              of indigeneity in Victorian studies would not only push us to develop a
+              more diverse canon, but would also frame the contradictions and contin-
+              gencies that I just outlined as the most urgent focus of our analyses rather
+              than as their impediments. Thus, a move to indigeneity in Victorian stud-
+              ies would not be characterized by an effort to recover an authentic indig-
+              enous subject, but would follow the injunction of Standing Rock Sioux
+              theorist Vine Deloria, Jr. of “we talk, you listen,” in order to question
+              how the normative methods and materials in our field have created and
+              perpetuated forms of silence and how we must develop new approaches
+              that allow us to listen in different ways.8
+                                                                      NOTES
+              1. Elaine Freedgood, The Ideas in Things: Fugitive Meaning in the Victorian
+                   Novel (Chicago: University of Chicago Press, 2006).
+              2. Nathan Hensley, Forms of Empire: The Poetics of Victorian Sovereignty
+                   (Oxford: Oxford University Press, 2016).
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:06, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000517
+
+                    668          VL C      •    VO L. 46, N O. 3/4
+                    3. Jason Rudy, Imagined Homelands: British Poetry in the Colonies
+                          (Baltimore: Johns Hopkins University Press, 2017).
+                    4. Priya Joshi, In Another Country: Colonialism, Culture and the Novel in India
+                          (New York: Columbia University Press, 2002). See also Sukanya
+                          Banerjee, Becoming Imperial Subjects: Indians in the Late-Victorian
+                          Empire (Durham: Duke University Press, 2010).
+                    5. Chadwick Allen, Trans-Indigenous: Methodologies for Global Native Literary
+                          Studies (Minneapolis: University of Minnesota Press, 2012), xx.
+                    6. Allen, Trans-Idigenous, xix.
+                    7. Jane Stafford, Colonial Literature and the Native Author: Indigeneity and
+                          Empire (Basingstoke: Palgrave Macmillan, 2016). See also Coll
+                          Thrush, Indigenous London: Native Travelers at the Heart of Empire
+                          (New Haven: Yale University Press, 2016).
+                    8. Vine Deloria, Jr., We Talk, You Listen: New Tribes, New Turf (Lincoln:
+                          University of Nebraska Press, 1970).
+                    Empire
+                    WILL GLOVINSKY
+                    E       MPIRE, like Flaubert’s ideal author, has a way of seeming everywhere
+                            present yet scarcely visible in much Victorian literature. While review
+                    sections of the field’s journals attest to robust interest in nineteenth-
+                    century imperialism and settler colonialism, racial and “free trade” ideol-
+                    ogies, cosmopolitanisms and oceanic rims, the significance of empire for
+                    our reading of Victorian literature has remained more equivocal. Often
+                    immured within a sub-canon of important but fairly familiar works,
+                    empire—and especially its relation to literary forms and themes—can
+                    seem to be a subject more easily discussed at a dedicated conference
+                    panel than in an undergraduate survey hoping to demonstrate what is
+                    particularly valuable or interesting about nineteenth-century literature,
+                    and in particular the novel. Critics may agree that an empire based on
+                    a massive, coerced drug trade, indigenous genocide, and the unfree
+                    labor of millions was a key socioeconomic factor in nineteenth-century
+                    British culture, but it can be difficult at times to see how this history fig-
+                    ures in the novel canon’s conservative but resilient core of metropolitan,
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:06, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000517
+

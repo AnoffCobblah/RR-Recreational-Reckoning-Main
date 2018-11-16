@@ -1,0 +1,165 @@
+                    646          VL C      •    VO L. 46, N O. 3/4
+                    Description
+                    DAVID SWEENEY COOMBS
+                    T       HE thick description developed by Gilbert Ryle and Clifford Geertz
+                            that became the foundation of New Historicism was a method for
+                    weaving a complex web of intention and meaning around a small kernel
+                    of observation. More recently, literary critics have begun rejecting thick
+                    description in favor of thin description—a method that strips away the
+                    stuff of phenomenological fullness and interiority and defers interpretive
+                    plenitude in order to better reveal the kernel of observed reality under-
+                    neath. We might then speak of a New Description coming to displace the
+                    New Historicism. The proponents of the New Description seek to remake
+                    literary study on the model of the “exhaustive, fine-grained attention to
+                    phenomena” developed by the more stringently empirical branches of
+                    social science.1 Of course, fieldwork is rarely included in literary study.
+                    Working at a remove from observation proper, descriptive critics there-
+                    fore center their own fine-grained attention on descriptions in literary
+                    texts—most typically, novels—that display a similarly painstaking atten-
+                    tion to phenomena.2 For literary study now, description is thus both a
+                    method and an object.
+                            In key respects, the critical turn to the New Description is also a
+                    return to questions and methods that emerged during the nineteenth
+                    century. In the nineteenth century, as today, description was a transdisci-
+                    plinary method, crossing multiple domains from natural history to the
+                    novel. By aiming to bring reading as close as possible to observation,
+                    the New Description in fact reanimates Victorian debates about where
+                    to draw the boundary between verbal and empirical knowledge. The
+                    increasing uncertainty surrounding that distinction in the nineteenth
+                    century is signaled by the emergence (first appearing in John Grote’s
+                    1865 Exploratio Philosophica) of two new epistemological categories: knowl-
+                    edge by acquaintance, which we obtain through the direct presentation
+                    of a thing to our senses; and knowledge by description (also called
+                    “knowledge about”), which we obtain through a propositional account
+                    of a thing. While the difference between acquaintance and description
+                    seems fairly intuitive, these categories circulated widely in Victorian dis-
+                    cussions of empiricism precisely because of productive disagreements
+                    over whether they might distinguish not only between reading about
+                    something and sensuously experiencing it but also between the different
+                    parts of sense experience itself. William James’s Principles of Psychology
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:36, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000463
+
+                                                                                                     D E S C R I P T I ON           647
+              (1890) used description and acquaintance to distinguish between what
+              psychologists saw as the two elements of experience, sensation and per-
+              ception. The function of sensation, he writes, “is that of mere acquain-
+              tance with a fact. Perception’s function, on the other hand, is
+              knowledge about a fact.”3 Sensing a fact is becoming aware of simple qual-
+              ities, like heat, resistance, or pain; the fact of mere acquaintance is
+              stripped of all its relations, so utterly nude that it lacks a name (James
+              calls it a that). The descriptive knowledge instantiated in perception,
+              meanwhile, recognizes that fact’s relations to other facts that we have
+              already or might in future become acquainted with and so ties them
+              together into “the unity of a thing with a name.”4 The perceptible,
+              James suggests, includes elements of intentionality and reference that
+              reveal unexpected parallels between the direct observer and the descrip-
+              tive literary critic.
+                      While the New Description tends to be centered on novels, it thus
+              participates in a broader intellectual history that played out across a
+              range of Victorian institutions, observational and reading practices,
+              and literary genres. The modern museum, for instance, develops in
+              the nineteenth century as a space defined by the tension between
+              acquaintance and description. Ruth Bernard Yeazell has recently
+              shown how the picture titles now ubiquitous in galleries and museums
+              evolved from the descriptions in catalogs, ledgers, and prints that allowed
+              the gallery-going members of an emergent art-public to identify and
+              keep track of what they were seeing.5 Description thus served as an indis-
+              pensable aid to the democratization of art, but its supplemental necessity
+              to the museum’s exhibition of objects also occasioned intractable debates
+              about the nature of the instruction that museums are supposed to pro-
+              vide. So, whereas William Stanley Jevons argued in 1883 that “the pur-
+              pose of a true Museum is to enable the student to see the things and
+              realize sensually the qualities described in lessons or lectures . . . [that]
+              cannot be learnt by words” and proposed that displays should replace
+              “the senseless verbal teaching” predominant in schools, George Brown
+              Goode famously defined the museum only a few years later as “a collection
+              of instructive labels, each illustrated by a well-selected specimen” and proposed
+              that displays should be fitted out with descriptive labels, reference guides,
+              and experts trained to give fuller descriptive details to curious specta-
+              tors.6 The Victorian Aesthetic Movement, meanwhile, rejected the
+              descriptive mediation of experts in the service of its own democratizing
+              insistence on the primacy of direct sensuous encounters with art objects.
+              “Is the meaning of a work of art,” Vernon Lee scoffed with representative
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:36, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000463
+
+                    648          VL C      •    VO L. 46, N O. 3/4
+                    incredulity, “to depend on [the classical dictionaries of] Lempriere and
+                    Dr. William Smith?”7 At the same time, aestheticism itself specialized in
+                    descriptions. Those descriptions—perhaps best exemplified in Walter
+                    Pater’s famous description of the Mona Lisa as a kind of vampire—were
+                    often notoriously thick, so much so that Geertz holds up aestheticism as
+                    the fate of any thick describer who loses touch with the “hard surfaces of
+                    life.”8 But aestheticism included other descriptive models, such as the gal-
+                    lery diaries in which Lee and her lover, Clementina Anstruther-Thomson,
+                    recorded their physiological responses to art works. It was from these
+                    descriptions that Lee developed a quantitative, minimally interpretive
+                    method of literary criticism that one recent account identifies as the
+                    unacknowledged progenitor of distant reading.9
+                             Situating the New Description within this longer methodological his-
+                    tory, I suggest, can help us reframe our approach to literature and sci-
+                    ence. The groundbreaking work on Victorian literature and science by
+                    literary scholars such as George Levine and Gillian Beer tracked the cir-
+                    culation between writers and scientists of the ideas, tropes, and narratives
+                    that make up, as Beer puts it, “the patterns through which we apprehend
+                    experience and hence the patterns through which we condense experi-
+                    ence in the telling of it.”10 Experience, here, is categorically distinct
+                    from the language of its description—the patterns of narrative and dis-
+                    course through which it is apprehended and recounted. In contrast,
+                    the New Description, insofar as it conducts empirical analyses of textual
+                    descriptions, strives to make the language of description itself into the
+                    stuff of experience—an aim it shares with both aestheticism and
+                    Jamesian empiricism. For us now as well as for the Victorians, reading
+                    descriptively points towards a more robustly empirical account of how
+                    we make the world perceptually present in reading, and thus of how
+                    we make it real.
+                                                                            NOTES
+                       1. Heather Love, “Close Reading and Thin Description,” Public Culture
+                            25, no. 3 (2013): 401–34, 404. See also Sharon Marcus, Stephen
+                            Best, and Heather Love, “Building a Better Description,”
+                            Representations 135, no. 1 (2016): 1–21.
+                       2. Cannon Schmitt astutely signals this dynamic of descriptive redou-
+                            bling when he reframes what György Lukács characterizes as the nov-
+                            elist’s dilemma of whether to “Narrate or Describe” as a dilemma for
+                            the novel-reading critic in “Interpret or Describe?” See Cannon
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:36, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000463
+
+                                                                                   DESCRIPTION, DIALECT                             649
+                     Schmitt, “Interpret or Describe?” Representations 135, no. 1 (2016):
+                     102–18.
+                3.   William James, The Principles of Psychology, Vol. 2 (New York: Dover,
+                     1918), 2 (emphasis original).
+                4.   James, Principles, 78 (emphasis original).
+                5.   See Ruth Bernard Yeazell, Picture Titles: How and Why Western Paintings
+                     Acquired Their Names (Princeton: Princeton University Press, 2015),
+                     19–139.
+                6.   William Stanley Jevons, “The Use and Abuse of Museums,” in The
+                     Emergence of the Modern Museum: an Anthology of Nineteenth-Century
+                     Sources, ed. Jonah Siegel (Oxford: Oxford University Press, 2008),
+                     290; and George Brown Goode, “The Museums of the Future,”
+                     (Washington: Government Printing Office, 1891), 433 (emphasis
+                     original).
+                7.   Vernon Lee, Belcaro: Being Essays on Sundry Aesthetical Questions
+                     (London: T. Fisher Unwin, 1887), 58–59.
+                8.   Clifford Geertz, The Interpretation of Cultures (New York: Basic Books,
+                     1973), 30.
+                9.   See Benjamin Morgan, The Outward Mind: Materialist Aesthetics in
+                     Victorian Science and Literature (Chicago: University of Chicago Press,
+                     2017), 219–54.
+              10.    Gillian Beer, Darwin’s Plots: Evolutionary Narrative in Darwin, George
+                     Eliot, and Nineteenth-Century Fiction (Cambridge: Cambridge
+                     University Press, 2009), 6.
+              Dialect
+              TARYN HAKALA
+              A      T the weekly meeting of the Manchester Literary Club on December
+                      14, 1874, president George Milner read his essay “The Dialect of
+              Lancashire Considered as a Vehicle for Poetry.” In it, he argues that
+              the Lancashire dialect is not only more appropriate than but also supe-
+              rior to Standard English for use in poetry. In defending this position,
+              Milner cites Alfred Tennyson’s use of Anglo-Saxon diction and
+              Matthew Arnold’s assertion “about simplicity being the supreme style,”
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:36, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000463
+

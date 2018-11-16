@@ -1,0 +1,203 @@
+                                                                                      G E N E R AT I ON S , G E N R E               715
+                     Clarendon, 2000), 578. Needless to say, reliance on the surviving
+                     records of elite institutions will necessarily yield generations of elites.
+              13. These datasets include obituaries (see Munk’s Roll), collective biog-
+                     raphies (DNB and ODNB) and matriculation albums (see A Cambridge
+                     Alumni Database, http://venn.lib.cam.ac.uk/Documents/acad/2016/
+                     search-2016.html).
+              14. See Helen Kingstone, Victorian Narratives of the Recent Past: Memory,
+                     History, Fiction (Cham, Switzerland: Palgrave Macmillan, 2017).
+              15. This list also includes (among other) writers Charles Kingsley and
+                     A. H. Clough, artists William Powell Frith and Lowes Cato
+                     Dickinson (both of whom painted portraits of their coevals), the
+                     Quaker diarist Caroline Fox and cabinetmaker James Dickinson,
+                     who produced a memoir.
+              Genre
+              MELISSA VALISKA GREGORY
+              I   S genre a restrictive or productive mode of interpretation for Victorian
+                   literature? While twentieth-century theorists such as Benedetto Croce
+              and Jacques Derrida mistrusted genre as a conservative edict that policed
+              literature’s borders and denied its dynamism, literary scholars who take
+              up genre these days often contend that it is the prime source of a literary
+              text’s creative and social energy. Metaphors of activity and fluidity dom-
+              inate the current scholarly discourse, framing genre as a live action event,
+              a complex of shifting forces rather than an inert shape or static label. No
+              longer merely a means of taxonomic stabilization that consigns a text
+              once and for all to a proper grouping, genre is now what Carolyn
+              Williams calls a process of “dynamic formation” or what John Frow
+              describes as a “recurrent” performance.1 Classification remains central
+              in that genre still depends on the idea that texts can be meaningfully
+              organized and grouped according to their shared attributes, but scholars
+              have recast classification as generative and productive, illuminating the
+              ways genre allows for richer modes of both literary interpretation and cre-
+              ation. Today’s genre studies, in other words, view taxonomic groupings as
+              shaping and producing knowledge about literature rather than
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:43:35, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000645
+
+                    716          VL C      •    VO L. 46, N O. 3/4
+                    restricting it. This more expansive and subtle approach to genre invites
+                    new metaphors. “[T]hink of [genres] as swimming in a pool, a kind of
+                    generic wateriness,” suggests Wai Chee Dimock. “This medium not
+                    only allows for capillary action of various sorts, it also suggests that the
+                    concept of genre has meaning only in the plural, only when that pool
+                    is seen as occupied by more than one swimmer. . . . [G]enre is best
+                    seen not flatly, as the enactment of one set of legislative norms, but as
+                    an alternation between dimensions, mediated by vectors of up and
+                    down, front and back, in and out.”2 Dimock’s pool suggests that the con-
+                    tainment of the water within an elastic and semipermeable boundary
+                    actually creates the conditions for energetic exchanges and multidirec-
+                    tional movement. Genre operates here as a stimulating rather than
+                    repressive force.
+                            Such fluid models of genre, however, have not always captured the
+                    imagination of Victorianists, many of whom spent considerable energy
+                    toward the end of the twentieth century productively erasing the divisions
+                    between texts of all kinds. Already working in a field with a deep relation-
+                    ship to history, Victorian literature scholars often led the cultural studies
+                    trends of the 1990s, advancing provocative readings that prioritized dis-
+                    course across genres rather than examining how genre might create dis-
+                    course. Perhaps it’s not surprising, then, that—as Michael Prince
+                    observes—many of “the key players” who advanced genre studies over
+                    the years have been “scholars of the early modern period . . . deeply
+                    immersed in problems of representation in the late Renaissance through
+                    Romanticism,” not those of the Victorian.3 Indeed, a lingering skepticism
+                    of genre as rigid taxonomy continues to surface in work by Victorianists.
+                    Caroline Levine’s Forms: Whole, Rhythm, Hierarchy, Network, for example, is
+                    a neo-formalist study by a scholar grounded in Victorian literature that
+                    disavows the study of genre as less interesting than the study of form
+                    because “[g]enre involves acts of classifying texts”—a narrow interpreta-
+                    tion of genre coming from an award-winning book would seem not to
+                    bode well for the concept’s relevance to our field.4 Levine’s claim not-
+                    withstanding, the neo-formalist revival of the 2000s inspired many
+                    nuanced and intelligent explorations of individual genres from the
+                    Victorian period. Recent monographs, conferences, and special journal
+                    editions from the mid-2000s to the present day suggest we are now at a
+                    moment where genre, never completely eclipsed by other questions or
+                    methodologies but for a while on the wane, is waxing once again in
+                    the field of Victorian literature. At the same time, some of this more
+                    recent scholarship also suggests that it is possible to write about genres
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:43:35, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000645
+
+                                                                                                                   GENRE            717
+              effectively and still leave underlying heuristics implicit or unclear. Much
+              of the recent scholarship on Victorian genre, for example, lumps genre
+              and form together, treating them as interchangeable terms. Although
+              the two concepts obviously overlap and inform each other, there may
+              be considerable benefit to pulling them apart. Genre includes a histori-
+              cal component that form does not, and its capacity for illuminating the
+              active relationship between history and literature is potentially one of its
+              most valuable contributions to our field.
+                      I would argue that genre’s role within history is where Victorianists
+              have the greatest opportunity to advance genre studies. Marxist scholar-
+              ship, particularly by way of Fredric Jameson and, more recently, Franco
+              Moretti, has suggested that theories of historical ideology are incompat-
+              ible with traditional, transhistorical definitions of genres: Jameson’s
+              astute use of history as the only cultural framework for genre, for exam-
+              ple, effectively argues that aesthetic choices should be reconceived of as
+              historical practice, while Moretti’s use of software to achieve “distant
+              reading” aggregates data to highlight the rise and fall of genres as they
+              appear in print, revealing that the traditional critical practice of focusing
+              on individual authors may obscure our understanding of how genre func-
+              tioned for readers and book-buyers within history.5 But these approaches
+              exclude formal considerations from the study of genre altogether.
+              Jameson’s famous statement that genre criticism is “thoroughly discred-
+              ited by modern literary theory and practice” in many respects lays the
+              ground for Moretti’s decision to define genre through the publishing
+              industry and the book market (which is not how most genre theorists
+              have generally defined it), with both approaches rejecting the role
+              literary form may play in producing knowledge.6 Victorianists have an
+              opportunity to ensure that the break between historical and formal
+              considerations need not be final. Scholars who study Victorian literature
+              have already established a long tradition of thinking about the relationship
+              between literary texts and their historical context in ways that allow for
+              more of a balance between genre, history, and aesthetics than Marxist
+              approaches often do. With their deep knowledge of history, Victorianists
+              can show how genre alternates, as Dimock suggests, between multiple
+              dimensions, producing knowledge about both aesthetics and historical for-
+              mations simultaneously. Levine suggests that history stabilizes genre,
+              explaining that without historical interpretation, “One might not be able
+              to tell the difference between a traditional folktale and a story recently
+              composed for children or to recognize a satire from a distant historical
+              moment.”7 But genres aren’t historical artifacts to be dusted off and
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:43:35, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000645
+
+                    718          VL C      •    VO L. 46, N O. 3/4
+                    exhibited on permanent display, dutifully accompanied by curatorial notes
+                    about their original use (“This one is a children’s story”). Rather, as
+                    Michael Cohen argues in the recent introduction to the excellent special
+                    edition of Nineteenth-Century Literature on the ballad, genres are “historical
+                    agents.”8 They move through history as actors and operatives, performing
+                    in multiple registers and often pursuing multiple missions.
+                            For a brief example of the way a historical understanding of genre
+                    complicates our understanding of how a literary text might function,
+                    opening new questions rather than shutting down the conversation, con-
+                    sider the following untitled text about the loss of an infant:
+                             A baby’s cradle with no baby in it,
+                             A baby’s grave where autumn leaves drop sere;
+                             The sweet soul gathered home to Paradise,
+                             The body waiting here.
+                     Without knowing that Christina Rossetti wrote the above as a poem for
+                    Sing-Song, her 1872 volume of original verse for children, we do not auto-
+                    matically know what this text is, what social work it might do, or what aes-
+                    thetic effect it might be expected to have. Identifying the category to
+                    which it belongs—genre as an act of historical interpretation—gives us
+                    a starting point. But the knowledge that Rossetti’s work can be classified
+                    as Victorian children’s poetry hardly puts the matter of genre to rest.
+                    Rather, the question of genre proliferates in relation to this text, branch-
+                    ing off in a number of new directions. Like all children’s literature from
+                    this period, particularly that aimed at preliterate readers, Rossetti’s poem
+                    would most likely have been read aloud by an adult woman to a child,
+                    thus placing it into the category of live performance. Such a category
+                    invites a variety of questions about the means of public circulation for wom-
+                    en’s poetry, including how Rossetti may have discovered strategies for bypass-
+                    ing the all-male reading and reception that inaugurated her most famous
+                    earlier poem, “Goblin Market.” Moreover, this poem could just as easily be
+                    placed into the category of lament or elegy, but a close study of it in relation
+                    to other elegies from this period invites us to question some of our most basic
+                    assumptions about how and where the Victorians expressed mourning, par-
+                    ticularly for brief lives that have no obvious public value. And, since the vol-
+                    ume was released in December 1871, Sing-Song also belongs to the category
+                    of the Victorian illustrated Christmas gift book, a material genre with a host
+                    of social and economic implications related to gender and social class. The
+                    poem within its historical context, then, does not demonstrate or confirm
+                    one fixed genre so much as activate a series of overlapping identities,
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:43:35, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000645
+
+                                                                       G ENRE, GLOBAL CIRC ULATION                                  719
+              performing more than one genre at once and signifying a text’s ability to
+              move in multiple directions simultaneously. Attending more closely to any
+              one of the above generic categories would surely yield a rich series of claims
+              about the poem’s interpretation and use, both for Rossetti’s readers and
+              today’s, but my main point is to sketch the ways in which genre becomes
+              more dynamic as it functions within history, not less. Developing an increas-
+              ingly sophisticated sense of genre, including its relation to form, can allow
+              Victorianists to play to one of our chief strengths: our detailed and conscien-
+              tious sense of historical context.
+                                                                      NOTES
+              1. Carolyn Williams, “Genre Matters: Response,” Victorian Studies 48, no. 2
+                   (2006): 517–20, 295; John Frow, Genre (New York: Routledge, 2015), 15.
+              2. Wai Chee Dimock, “Genres as Fields of Knowledge,” PMLA 122, no. 5
+                   (2007): 1379–80.
+              3. Michael B. Prince, “Mauvais Genres,” New Literary History 34, no. 3
+                   (2003): 452–79, 454.
+              4. Caroline Levine, Forms: Whole, Rhythm, Hierarchy, Network (Princeton
+                   University Press, 2015), 13.
+              5. Fredric Jameson, The Political Unconscious: Narrative as a Socially Symbolic
+                   Act (Ithaca: Cornell University Press, 1981); Franco Moretti, Distant
+                   Reading (London: Verso, 2013).
+              6. Jameson, The Political Unconscious, 105.
+              7. Levine, 13.
+              8. Michael Cohen, “Getting Generic,” Nineteenth-Century Literature 71, no.
+                   1 (2016): 147–55, 155.
+              Global Circulation
+              REGENIA GAGNIER
+              I   N May 2017, I co-hosted a conference at the India Institute of Advanced
+                   Study, Shimla, with a call for papers that read “Scholar-participants are
+              expected to address and examine questions that . . . cut across at least two
+              linguistic cultures. Papers that are too narrowly monolingual in their
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:43:35, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000645
+

@@ -1,0 +1,204 @@
+                                                                                      O C E A NS , OR G AN I C I S M                791
+                9. Amy M. King, “Reorienting the Scientific Frontier: Victorian Tide
+                     Pools and Literary Realism,” Victorian Studies 47, no. 2 (2005): 153–
+                     63.
+              10. Jonathan Smith. Charles Darwin and Victorian Visual Culture
+                     (Cambridge: Cambridge University Press, 2009).
+              11. Ursula Kluwick and Virginia Richter, The Beach in Anglophone
+                     Literatures and Cultures (Burlington: Ashgate, 2015); Brad Beavan,
+                     Karl Bell, and Robert James, Port Towns and Urban Cultures:
+                     International Histories of the Waterfront (London: Palgrave Macmillan,
+                     2016).
+              12. Deborah Denenholz Morse and Martin Danahay, Victorian Animal
+                     Dreams: Representations of Animals in Victorian Literature and Culture
+                     (Burlington: Ashgate, 2007).
+              13. Richard Maxwell, “Unnumbered Polypi,” Victorian Poetry 47, no. 1
+                     (2009): 7–23. I cite Maxwell in my forthcoming essay “Tennyson’s
+                     ‘Kraken’ Under the Microscope and in the Aquarium,” in Will
+                     Abberley’s Underwater Worlds: Aquatic Visions in Art and Literature;
+                     Genie Babb, “Inventing the Bug-Eyed Monster: Devil-Fish and
+                     Giant Squid in H. G. Wells’s Early Fiction,” Wellsian: The Journal of
+                     the H. G. Wells Society 32 (2009): 17–35.
+              14. Kelly P. Bushnell, “Maritime Literature,” Oxford Bibliography of
+                     Victorian Literature (2016), doi:10.1093/OBO/9780199799558–0143.
+              15. I am especially grateful to Editor-in-Chief Juliet John, who invited me
+                     to write the entry and provided such constructive feedback.
+              16. Times, no. 29278, June 11, 1878, 8.
+              Organicism
+              JOHN KUCICH
+              O        RGANICISM pervades nearly every sphere of nineteenth-century lit-
+                       erature and culture. Most obviously, it infuses representations of
+              economic and social interdependence in Victorian novels—at local
+              and national levels, and also globally, as when Thomas Hardy invokes
+              “the great web of human doings . . . weaving in both hemispheres
+              from the White Sea to Cape Horn.”1 But Herbert Spencer also makes
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000852
+
+                    792          VL C      •    VO L. 46, N O. 3/4
+                    it the cornerstone of sociological theory in “The Social Organism”
+                    (1860). Like many social theorists, Spencer roots organicism in the “vital-
+                    ism” of early nineteenth-century biology, although its socio-biological
+                    ramifications later became a bone of contention in many disciplines,
+                    including in debates about liberal political theory between Spencer
+                    and Thomas Huxley.2 Organicism also animates John Ruskin’s naturalis-
+                    tic conception of Gothic architecture in the second volume of The Stones
+                    of Venice (1853), an inspiration to nineteenth-century writers and artists
+                    alike. It underpins political projects of vastly different kinds, from what
+                    E. P. Thompson calls the “feudal socialism” of Thomas Carlyle’s Past
+                    and Present (1843), to William Morris’s green utopia in News from
+                    Nowhere (1890), to imperial mythologies of colonial holism in the work
+                    of Joseph Conrad, Rudyard Kipling, and others.3 It underlies Victorian
+                    medievalism, in all its guises. Its centrality to romantic conceptions of lit-
+                    erary form carried over to later nineteenth-century debates about both
+                    poetry and fiction, with Henry James notably claiming that “a novel is
+                    a living thing, all one and continuous, like any other organism.”4
+                            It would be difficult to find any nineteenth-century cultural sphere
+                    in which organic thought did not play a major role. Yet recent critics
+                    have paid it scant attention, aside from casual scorn for the reactionary
+                    politics many assume are intrinsic to it. George Eliot’s organicism
+                    attracted major studies by Sally Shuttleworth and Suzanne Graver in
+                    the 1980s; more recently, Denise Gigante and Amanda Jo Goldstein
+                    have written sweeping studies of the scientific bases for romantic organic
+                    form; and a few scattered essays have touched on the subject.5 But for the
+                    most part critics turn a blind eye. Doubtless, such avoidance began with
+                    the withering ideological critiques of traditional “organic society” by
+                    Marxist critics of the 1970s: Raymond Williams, for example, called
+                    organicism a “lulling illusion,” and claimed that it sustained social
+                    thought “mainly of a conservative kind.”6 Powerful as this prejudice con-
+                    tinues to be, the absence of a distinct, coherent intellectual tradition of
+                    organic thought, as well as complex, often contrary uses of the term
+                    “organic” and ideas associated with it in nineteenth-century biology, soci-
+                    ology, political theory, art criticism, and literature, have been equally to
+                    blame. But precisely because organicism meant such different things to
+                    so many nineteenth-century thinkers, it tugged at cultural discourse
+                    with powerful (if murky) undertows and cross-currents. Such conditions
+                    can be a daunting but rewarding challenge for contemporary scholars.
+                            Though nineteenth-century organic thought remains to be compre-
+                    hensively mapped, there are several compelling reasons to give it a fresh
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000852
+
+                                                                                                       ORG AN I C I S M             793
+              look. Pace standard critical assumptions about organicism’s politics, for
+              example, at least one strand of organic thought left a distinctly progres-
+              sive legacy. The chief intellectual spokesman for the New Liberal welfare
+              reforms of the early twentieth century, Leonard Hobhouse, explicitly
+              invoked organicism as a rationale for state-sponsored unemployment
+              insurance, old-age pensions, progressive taxation, estate taxes, and public
+              ownership of resources and utilities: in Liberalism (1911), Hobhouse
+              claimed that “no one element of the social life stands separate from the
+              rest, any more than any one element of the animal body stands separate
+              from the rest. In this sense the life of society is rightly held to be organic.”7
+              Hobhouse spoke for an activist group of New Liberal intellectuals, many of
+              whom traced their collectivist social principles back to the late writings of
+              John Stuart Mill and to novelists such as Eliot and Charles Dickens. This
+              political genealogy needs considerable further exploration. So does
+              another, very different one: i.e., the state-centered solutions to social prob-
+              lems proposed during the “paternalist revival” of the 1830s—both by social
+              theorists and by the Condition of England novelists they inspired. In the
+              writings and speeches of Thomas Sadlier, David Robinson, and other pater-
+              nalists (who, according to Harold Perkin, anticipated Keynesian welfare
+              economics) and in novels by Frances Trollope, Charlotte Elizabeth
+              Tonna, and Charles Kingsley, organic social thought supported calls for
+              the regulation of factory conditions, child labor laws, sanitary improve-
+              ments, and other reforms that laid the foundations for a centralized welfare
+              bureaucracy.8
+                      A series of socially progressive elements were also routinely spliced
+              into conceptions of organic society by Victorian novelists, including ten-
+              dencies to relax class hierarchies, to expand social inclusiveness, to
+              accommodate social mobility and cross-class circulation, and to fuse lib-
+              eral individualism with service to the common good. Many novelists
+              also relocated moral authority from the top of the social scale, where it
+              had resided in pre-Victorian organic models, to previously marginalized
+              social actors (artisans, women, artist-figures, and middle-class professionals).
+                      Moreover, nineteenth-century organic thought privileged non-
+              teleological growth and development, drawing on both biological
+              vitalism and romantic theories of form; as a historiographical model,
+              organicism encouraged the rejection of static conceptions of social struc-
+              ture and process. The open-endedness of Eliot’s (in)famous meliorism is
+              curiously reflected, for example, by Mill’s optimism in On Liberty (1859)
+              that social progress, like individual development, resembles the ener-
+              getic, internally directed, unpredictable growth of biological organisms.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000852
+
+                    794          VL C      •    VO L. 46, N O. 3/4
+                    In fact, Victorian organic writing often included critiques of static con-
+                    ceptions of social order associated with traditional models of organic
+                    society. A notable example is the sharp contrast between a rigidly hierar-
+                    chical pre-Victorian organicism and a more elastic mid-Victorian version
+                    evolving out of it in Elizabeth Gaskell’s Cranford (1853). But a critique of
+                    static, traditional organic society, in the name of more dynamic models,
+                    can be found everywhere in Victorian fiction.
+                            Victorian writers often adopted formal techniques that broke the
+                    bounds of conventional literary form to express dynamically organic
+                    social ideals. First-person plural narration, a turn to the epic in poetry,
+                    time-traveling narratives, violations of poetic and narrative closure, and
+                    breaches of the boundaries between domestic and political plots are
+                    some of the many devices writers used to embody organic social models
+                    in innovative formal experiments. Some of these ventures self-consciously
+                    followed Samuel Taylor Coleridge’s celebration of literary forms that
+                    incorporate dissonant energies. Organic thought infused nineteenth-
+                    century culture in these and many other ways, which literary scholarship
+                    of the last fifty years has largely neglected or repressed. It’s time for a
+                    critical return to the topic.
+                                                                            NOTES
+                    1. Thomas Hardy, The Woodlanders (Harmondsworth: Penguin, 1981), 59.
+                    2. For an excellent summary, see James Elwick, “Herbert Spencer and the
+                          Disunity of the Social Organism,” History of Science 41, no. 1 (2003): 35–
+                          72.
+                    3. E. P. Thompson, William Morris: Romantic to Revolutionary (New York:
+                          Pantheon, 1955), 29.
+                    4. Henry James, Essays on Literature, American Writers, English Writers, ed.
+                          Leon Edel (New York: Library of America, 1984), 54.
+                    5. Suzanne Graver, George Eliot and Community (Berkeley: University of
+                          California Press, 1984); Sally Shuttleworth, George Eliot and
+                          Nineteenth-Century Science: The Make-Believe of a Beginning (Cambridge:
+                          Cambridge University Press, 1984); Denise Gigante, Life: Organic
+                          Form and Romanticism (New Haven: Yale University Press, 2009);
+                          Amanda Jo Goldstein, Sweet Science: Romantic Materialism and the New
+                          Logics of Life (Chicago: University of Chicago Press, 2017); recent
+                          short studies include Jacek Gutorow, “Toward the Incalculable:
+                          A Note on Henry James and Organic Form,” The Henry James Review
+                          35, no. 3 (2014): 285–94; and Devin Griffiths, “Deforming the
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000852
+
+                                                                          O R GAN I C I SM , P E R FO R M A N CE                    795
+                   Novel,” presented at the “Form and Reform” Conference, University
+                   of California, Santa Cruz, July 28, 2017.
+              6. Raymond Williams, The Country and the City (Oxford: Oxford
+                   University Press, 1973), 180; Keywords: A Vocabulary of Culture and
+                   Society (Oxford: Oxford University Press, 1976), 228.
+              7. Leonard T. Hobhouse, Liberalism and Other Writings (Cambridge:
+                   Cambridge University Press, 1994), 35.
+              8. See Harold Perkin, Origins of Modern English Society (London:
+                   Routledge & Kegan Paul, 1969), 244.
+              Performance
+              LAUREN ERIKS CLINE
+              W         HAT is Victorian about our world stage? While the criminalization
+                        of poverty, the corruption of bureaucracies, and the upward redis-
+              tribution of wealth has put many observers in mind of a Dickens novel,
+              we might also consider a less-studied Victorian object: the spectacle.
+              Take 2017. In the same year that 20th Century Fox released The Greatest
+              Showman, a movie dramatizing the life of nineteenth-century circus
+              impresario P. T. Barnum, political pundits also scrutinized the stunts of
+              a more contemporary media figure, whose “circus-like ‘style,’” seems
+              part of his “showman’s reality-TV approach to the presidency.”1 The dra-
+              matic genre of the day, according to this critic, is not a Jacobean tragedy
+              or even a pièce du théâtre de l’absurde, but a visually excessive, nineteenth-
+              century extravaganza. If there’s something showy about the state of play,
+              in other words, there’s also something Victorian about the methods of
+              performance. So, what can the Victorians—who lived through what
+              Tracy C. Davis and Peter Holland call “the performing century”—tell
+              us about how to bear witness to the Greatest Show on Earth?2
+                      For starters, nineteenth-century performance provides a privileged
+              site for analyzing the power of loosely scripted spectacles. Many theater
+              practitioners in Victorian London were at least as interested in exploring
+              the affordances of new stage technologies as they were in dramatizing a
+              particular literary text.3 A fascination with visually arresting pageantry or
+              exciting musical numbers was even more operative in the minor theaters,
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000852
+
