@@ -36,7 +36,7 @@ Having entered the parameters above, you can now run the actual script.  It will
 ```{r Association, eval=FALSE}
 if(file.exists(ProcessedDataLocation) == TRUE) {
   files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE) #creates vector of txt file names.
-  datacorpus <- Corpus(URISource(files), readerControl=list(reader = readPlain))
+  datacorpus <- VCorpus(URISource(files, encoding = "UTF-8", mode = "text"))
   data.tdm <- TermDocumentMatrix(datacorpus,control = list(removePunctuation = TRUE, stopwords = FALSE, tolower = TRUE, stemming = FALSE, 
                                                            removeNumbers = TRUE, bounds = list(global= c(1,Inf))))
   for(i in 1:length(assocterm)) {
