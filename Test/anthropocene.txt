@@ -1,0 +1,204 @@
+                                                                               A N I M A L , AN T H RO PO C E N E                   573
+                3. Charles Darwin, The Variation of Animals and Plants Under Domestication,
+                     2nd ed. (London: John Murray, 1875), 233, http://darwin-online.
+                     org.uk.
+                4. Darwin, Variation, 226.
+                5. Deidre Shauna Lynch, Loving Literature: A Cultural History (Chicago:
+                     University of Chicago Press, 2015), 8, 10.
+                6. Alex Woloch, The One Vs. the Many: Minor Characters and the Space of the
+                     Protagonist in the Novel (Princeton: Princeton University Press, 2003),
+                     24.
+                7. Emily Brontë, Wuthering Heights, ed. Ian Jack (Oxford: Oxford
+                     University Press, 1976), 5.
+                8. Brontë, Wuthering Heights, 135, 8.
+                9. Brontë, Wuthering Heights, 9.
+              10. This essay draws on arguments I make at greater length in the intro-
+                     duction to my book, Minor Creatures: Persons, Animals, and the Victorian
+                     Novel (Chicago: University of Chicago Press, 2018).
+              Anthropocene
+              JESSE OAK TAYLOR
+              T      O describe the Anthropocene is to deploy a Victorian lexicon. This is
+                     perhaps most obvious in relation to the epoch’s titular agent: the
+              Anthropos. No aspect of the Anthropocene debate has been more provoc-
+              ative, or controversial, than the effort to align the differential histories of
+              capitalism, empire, and industrial modernity with planetary time and the
+              evolutionary history of the human species. In attempting to date the
+              Anthropocene, stratigraphers are looking for the “signature” of human
+              action, the mark of a single species operating as an agent at the level
+              of planetary systems. In that endeavor, “human action” serves as a distin-
+              guishing marker from other forms of causality, whether atmospheric,
+              lithic, or biological. However, humanists and social scientists have been
+              quick to point out that human action is not uniform. There are vast dis-
+              parities between humans in terms of both ecological impacts and vulner-
+              ability to the Anthropocene’s manifold catastrophes, from rising sea
+              levels to antibiotic resistant diseases. Those most at risk from ecological
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:39:27, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800027X
+
+                    574          VL C      •    VO L. 46, N O. 3/4
+                    collapse are, consistently, those least responsible for it. Thus, while the
+                    Anthropocene has already been extremely generative for scholarship in
+                    the humanities (e.g., Chakrabarty, Menely and Taylor), other humanists
+                    remain skeptical and argue that the concept masks inequality and perpet-
+                    uates ecological injustice and have proposed terms like “Capitalocene”
+                    (Malm, Moore) or “Plantationocene” (Haraway, Tsing et al.) to foreground
+                    the new epoch’s inherently exploitative character.1 Dating geologic agency
+                    to the industrial shift from water power to coal in the 1830s, historian
+                    Andreas Malm describes this new force as “the very negation of universal
+                    species being,” in that the forces disrupting Earth systems are the same
+                    ones responsible for the divergence in human fortunes.2 However, from
+                    a stratigraphic perspective, distinguishing one species from others (or
+                    from non-biological forces operating within the hydrosphere, lithosphere,
+                    or atmosphere) operates as a specifying designation rather than a universal-
+                    izing one. Even if the “Anthropos” includes only a tiny subset of humanity,
+                    or arises through the exploitation (or even extermination) of some human
+                    groups by others, Anthropocene history is predicated upon the legibility of
+                    the human within the Earth’s archives, as one species among many pre-
+                    served in the fossil record.3 Thus, despite these trenchant critiques, the spe-
+                    cies designation is inherent in the Anthropocene concept, particularly as it
+                    appears in the stratigraphic debate over whether to designate it as a formal
+                    epoch of geologic time.
+                            In this regard, the Anthropocene debate revisits an earlier encounter
+                    with a similar set of questions, namely Victorian debates over evolution and
+                    the age of the earth, in which scientists, theologians, philosophers, writers,
+                    and artists grappled with the implications of rethinking the human in
+                    species terms. In this project, Victorian evolutionary theory’s misdeeds
+                    are every bit as vital as its insights for understanding the Anthropocene
+                    as an epoch fraught with inequity. The challenge (and opportunity) for
+                    Victorian studies in the Anthropocene, then, lies not simply in looking
+                    for nascent ecological insights in historical artifacts, but rather in taking
+                    seriously the prospect that the Victorian era aligns with the historical
+                    period during which the Anthropocene emerged. Whereas Paul Crutzen
+                    and Eugene Stoermer originally proposed dating the Anthropocene to
+                    the Industrial Revolution, a recent announcement by the Anthropocene
+                    Working Group proposes locating the Anthropocene’s lower boundary in
+                    the mid-twentieth century.4 That shift means the long nineteenth century,
+                    or the period between 1784 (the steam engine) and 1945 (the nuclear
+                    bomb), marks the boundary period between the Holocene and
+                    the Anthropocene, an intermediate space in which to trace the
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:39:27, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800027X
+
+                                                                                                A N T H RO POC E N E                575
+              Anthropocene’s emergence. While the question of dating the
+              Anthropocene customarily focuses on the question of origins, the
+              Victorian era offers a glimpse of the Anthropocene in medias res, from
+              the midst of still-unfolding, slow-motion catastrophe. If the Anthropocene
+              is “the very negation of universal species being” then the long nineteenth
+              century is precisely the geohistorical space within which that negation
+              took place. It is also the period in which many of the conceptual tools
+              and rubrics—from the stratigraphic method, to the greenhouse effect,
+              natural selection to anthropogenic extinction—were articulated. The
+              Anthropocene thus performs an uncanny inversion of many eighteenth-
+              and nineteenth-century debates and anxieties.5 A key question for
+              Victorian studies in the Anthropocene, then, is how to understand the align-
+              ment between these conceptual rubrics and epistemological frames and the
+              broader ecological impacts within which they occurred. After all, this is the
+              history that we must undo if we are to survive its aftermath.
+                      For Victorianists, the problem of the Anthropocene is not simply the
+              question of how (or indeed whether) a period anchored on the reign of a
+              single British monarch retains coherence in the face of planetary catastro-
+              phe on the one hand and deep time on the other. Instead, it arises from the
+              uncanniness whereby so many Victorian artifacts seem to speak to the
+              Anthropocene in ways that belie the historical remove that separates
+              them from our own moment. Put differently, the question is not so much
+              why the Victorians didn’t understand the Anthropocene, as tracing the
+              multitudinous ways in which they did, framing the Victorian era in terms
+              of what Christophe Bonneuil and Jean-Baptiste Fressoz call the “moderniz-
+              ing unconscious.”6 Perhaps these two issues are not so far removed after all.
+              Glimpsed from a distant future, in which all that remains of human society
+              is a compressed stratigraphic trace and radically different climate, the
+              Victorians become our contemporaries. Their words are still with us, just
+              as the carbon spewn from their chimneys lingers overhead. As readers, writ-
+              ers, and teachers we are the speakers for the dead, the living media through
+              which our Victorians interlocutors can speak to the shared predicament of
+              a depleted, overheated world.
+                                                                      NOTES
+              1. The Anthropocene conversation in the humanities was largely sparked
+                   by Dipesh Chakrabarty’s influential essay “The Climate of History: Four
+                   Theses,” Critical Inquiry 35, no. 2 (2009): 197–222. That essay is now part
+                   of a trilogy, as Chakrabarty has followed it with “Postcolonial Studies
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:39:27, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800027X
+
+                    576          VL C      •    VO L. 46, N O. 3/4
+                          and the Challenge of Climate Change,” New Literary History 43, no. 1
+                          (2012): 1–18; and “Climate and Capital: On Conjoined Histories,”
+                          Critical Inquiry 41, no. 1 (2014): 1–23. See also the range of perspectives
+                          included in Tobias Menely and Jesse Oak Taylor, eds., Anthropocene
+                          Reading: Literary History in Geologic Times (University Park: Penn State
+                          University Press, 2017). For critiques of the Anthropocene concept and
+                          alternate terms (Capitalocene, Plantationocene, etc.) see Donna
+                          J. Haraway, Staying with the Trouble: Making Kin in the Chthulucene
+                          (Durham: Duke University Press, 2016); Andreas Malm, Fossil Capital:
+                          The Rise of Steam Power and the Roots of Global Warming (New York: Verso,
+                          2016); Jason Moore, Capitalism in the Web of Life: Ecology and the
+                          Accumulation of Capital (New York: Verso, 2015); Rob Nixon, “The
+                          Anthropocene: The Promise and Pitfalls of an Epochal Idea,”
+                          EdgeEffects, University of Wisconsin Center for Culture, History and
+                          Environment (CHE), November 6, 2014, http://edgeeffects.net/anthro-
+                          pocene-promise-and-pitfalls/; Anna Lowenhaupt Tsing, et al. eds., Arts of
+                          Living on a Damaged Planet: Ghosts and Monsters of the Anthropocene
+                          (Minneapolis: University of Minnesota Press, 2017).
+                    2. Malm, Fossil Capital, 390–91.
+                    3. See Jeremy Davies, The Birth of the Anthropocene (Oakland: University of
+                          California Press, 2016), 83.
+                    4. Colin N. Waters, et al. “The Anthropocene is Functionally and
+                          Stratigraphically Distinct from the Holocene,” Science 351, no. 6269
+                          (2016): aad2622. Geographers Mark Maslin and Simon Lewis pro-
+                          posed an additional possibility, dating the Anthropocene’s emergence
+                          to European conquest of the Americas, and the decimation of 90 per-
+                          cent of the Indigenous inhabitants, some 50 million people. They
+                          argue that the cessation of agriculture and resultant reforestation
+                          across much of North and South America could represent a carbon
+                          sink responsible for a dip in atmospheric CO2 legible in ice core
+                          data, fixing the date at 1610. This dating aligns with the beginning of
+                          the capitalist “world system” and coincides with a reshuffling of the bio-
+                          sphere unseen since the breakup of Pangea (Simon L. Lewis and Mark
+                          A. Maslin, “Defining the Anthropocene,” Nature 519 [March 2015]:
+                          171–180). Even though this dating has been critiqued in the sciences
+                          and will not be formalized, it has been embraced by many humanists
+                          and remains useful in framing the Anthropocene in terms of the ecolog-
+                          ical globalization wrought by empire—a dynamic of obvious relevance
+                          in the Victorian era as globalization was both extended and accelerated
+                          by the turn to steam. See Dana Luciano, “The Inhuman
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:39:27, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800027X
+
+                                                                              ANTH RO POCENE, AUTH O R                              577
+                   Anthropocene,” Avidly, Los Angeles Review of Books, March 22, 2015,
+                   http://avidly.lareviewofbooks.org/2015/03/22/the-inhuman-anthro-
+                   pocene/; and Steve Mentz, “Enter the Anthropocene, Circa 1610,” in
+                   Anthropocene Reading, 43–58.
+              5. See Eric Gidal, Ossianic Unconformities: Bardic Poetry in the Industrial Age.
+                   (Charlottesville: University of Virginia Press, 2015); Noah Heringman,
+                   “Deep Time at the Dawn of the Anthropocene,” Representations 129
+                   (Winter 2015): 56–85.
+              6. Christophe Bonneuil and Jean-Baptiste Fessoz, The Shock of the
+                   Anthropocene: The Earth, History, and Us, trans. David Fernbach
+                   (New York: Verso, 2016), 199.
+              Author
+              ANDREW ELFENBEIN
+              I   N a typical literary critical essay, the author, rather than being a
+                   consistent concept, shifts rapidly among different, sometimes incom-
+              patible assumptions, evidence, and purposes: a biographical person, a
+              synonym for the narrator, an implied presence governing an entire
+              work, a metonym lending coherence to a career, an item in a list charac-
+              terizing a movement or a period, the receiver or producer of literary or
+              contextual influences. This mosaic is and is not productive. It enables a
+              shorthand that lets literary critics gloss over complex, messy questions to
+              zero in on textual analysis. Yet those messy questions never go away and
+              haunt the margins of analysis with unfinished business. Literary critics
+              have not ignored Foucault’s “What is an Author?” but they have skipped
+              its relevance to their own practice.1 The large question of “What is an
+              author?” has blocked the smaller but more pressing question, “What
+              should an author be in a work of literary criticism?”
+                      I list some familiar manifestations of the author found in much lit-
+              erary criticism. I developed this list by generating all the different ver-
+              sions of the author that appeared in a single paragraph in a
+              representative work of Victorian literary criticism; I am less interested
+              in criticizing this work than in describing figurations of the author
+              found throughout scholarship.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:39:27, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800027X
+
