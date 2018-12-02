@@ -1,0 +1,168 @@
+                    784          VL C      •    VO L. 46, N O. 3/4
+                    Neurology
+                    ANNE STILES
+                    T       ALKING about neurology during the Victorian era is tricky, in part
+                            because the word itself and the discipline it signifies were both in
+                    a state of transition. Coined by Thomas Willis in his 1664 treatise
+                    Cerebri Anatome, the term “neurology” was seldom used before the late
+                    nineteenth century, first appearing in the Lancet in 1859 and in the
+                    British Medical Journal in 1861.1 Neurology as an independent medical
+                    specialty, meanwhile, was not firmly established in Britain until after
+                    the First World War, as historian of science Stephen T. Casper explains.2
+                    Therefore, despite the watershed neurological developments occurring
+                    in Victorian Britain, such as physician David Ferrier’s groundbreaking
+                    maps of the cerebral cortex and the life-saving brain surgeries they
+                    made possible, it can be misleading to refer retroactively to a Victorian
+                    figure as a “neurologist” or to discuss the field of neurology as if it resem-
+                    bled the highly specialized medical discipline it has become today.3
+                            Instead, the study of the brain and nervous system during the early to
+                    mid-nineteenth century was the shared project of individuals in many
+                    emergent fields—including psychologists, philosophers, physicians, gen-
+                    tleman amateurs, and even literary critics, some of whom were deeply inter-
+                    ested in the latest physiological research. In this generalist intellectual
+                    climate, polymathic thinkers such as George Henry Lewes, E. S. Dallas,
+                    and Alexander Bain created a strain of novel theory that used physiological
+                    principles to explain the mental processes and affective experiences of
+                    readers, as Nicholas Dames demonstrates in The Physiology of the Novel
+                    (2007). These thinkers and others like them made similar observations
+                    about poems, whose metrical patterns imitate bodily rhythms and nerve
+                    impulses, as Jason Rudy writes in Electric Meters (2009).
+                            As the nineteenth century progressed, the mental sciences became
+                    the province of trained researchers and state-funded laboratories as
+                    opposed to gentlemen scholars like Bain and Lewes. Scientific writing,
+                    too, became more professionalized and less accessible to lay readers, hav-
+                    ing its own academic jargon and incorporating quantitative analyses, clin-
+                    ical research, and complex animal experiments. With the creation of
+                    specialized journals like Mind (1876–present) and Brain (1878–present),
+                    and the advent of professional societies like the Neurological Society of
+                    London (founded in 1886), the intellectual flexibility possible at mid-
+                    century gradually receded from view.4
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:09, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000839
+
+                                                                                                        N E U RO LOGY               785
+                      Tellingly, literary scholarship that engages with Victorian mental sci-
+              ences has tended to focus on mid-Victorian authors such as George Eliot,
+              Charlotte Brontë, Charles Dickens, and Wilkie Collins, who benefited
+              from the disciplinary openness of their era, as well as later authors like
+              Thomas Hardy who read widely in mid-century scientific literature.5
+              Criticism that engages with the more complex neurological ideas from
+              later in the century, such as cerebral localization and the neuron doc-
+              trine, is still comparatively rare. Nonetheless, some scientifically trained
+              literary authors—such as H. G. Wells, Sir Arthur Conan Doyle, Robert
+              Louis Stevenson, and Bram Stoker—could and did incorporate aspects
+              of late-Victorian neuroscience into their fiction, as Laura Otis, Elisha
+              Cohn, and I have argued in our respective works.6
+                      The development of neurology into a full-fledged medical specialty
+              continued apace into the twentieth century, resulting in specialized hos-
+              pital wards, research labs, increased funding, and professorships dedi-
+              cated to neurology. The culmination of this growth can be seen,
+              among other places, in the modern university, where disciplinary silos
+              prevail and meaningful interaction between sciences and humanities is
+              unusual. The mid-Victorian moment described above seems almost
+              utopic by comparison, in that scientists, philosophers, physicians, and lit-
+              erary scholars freely communicated across disciplinary boundaries
+              (which were, at that time, relatively permeable and still unfixed).
+                      The relatively new field of cognitive literary studies attempts to re-
+              create this bygone atmosphere of boundless interdisciplinarity and rela-
+              tive equality between the disciplines. This field, which dates from the
+              Presidentially proclaimed “Decade of the Brain” (the 1990s), turns to
+              twenty-first-century neurology, psychology, linguistics, computer science,
+              philosophy of mind, and anthropology to shed light on imaginative liter-
+              ature of past eras.7 One frequently stated goal of such work is to bring
+              neuroscientists and literary scholars in productive communication with
+              each other, whether that means merely reading each other’s works or
+              actively collaborating.8 While these are laudable endeavors, such interdis-
+              ciplinary exchanges are too often one-sided. Humanists invite medical
+              experts to our colloquia and conferences, but do they reciprocate?
+              And if so, on what terms? Frequently, literary scholars invited to events
+              in medicine and the life sciences are expected to use our expertise to
+              teach empathy to exhausted physicians—as if such a feeling could be
+              taught, or would necessarily be useful a clinical setting.9
+                      In their current forms, cognitive literary scholarship and its recent
+              offshoot, cognitive literary historicism, seem unlikely to change this
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:09, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000839
+
+                    786          VL C      •    VO L. 46, N O. 3/4
+                    depressing status quo, even if these fields enrich our understandings of
+                    individual literary works and genres.10 This is because—the occasional
+                    interdisciplinary collaboration notwithstanding—most cognitive literary
+                    scholars are based in literature departments and, quite appropriately, use
+                    the vocabulary and theoretical tools available within their field.11 Clear
+                    communication with neuroscientists and lay readers would require a process
+                    of translation in which we demystify our own disciplinary jargon and
+                    theoretical tools in addition to incorporating methods from the sciences.
+                    Neuroscientists themselves would also need greater incentives to meet us
+                    halfway. Given the vast disparity in research funding and job opportunities
+                    between our respective disciplines, neurologists may see little material ben-
+                    efit to collaborating with literary scholars. As humanists, then, we bear the
+                    burden of communicating what practical or existential value we might
+                    offer to our better-paid colleagues across campus. This unenviable task
+                    might start with a closer look at the mid-Victorian era, when far-reaching
+                    interdisciplinary collaboration was a reality, not a utopian ideal.
+                                                                            NOTES
+                       1. Stephen T. Casper, The Neurologists: A History of a Medical Specialty in
+                            Modern Britain, 1789–2000 (Manchester: Manchester University
+                            Press, 2015), 5.
+                       2. Casper, The Neurologists, 2, 6.
+                       3. For highly readable overviews of Victorian neuroscientific develop-
+                            ments, see Stanley Finger, Origins of Neuroscience: A History of
+                            Explorations into Brain Function (Oxford: Oxford University Press,
+                            1994), chaps. 2–4; Edwin Clarke and L. S. Jacyna, Nineteenth-Century
+                            Origins of Neuroscientific Concepts (Berkeley: University of California
+                            Press, 1987); and Frank Rose, A Short History of Neurology: The British
+                            Contribution, 1660–1910 (Oxford: Butterworth-Heinemann, 1999).
+                       4. Casper, The Neurologists, 36.
+                       5. See Sally Shuttleworth, Charlotte Brontë and Victorian Psychology
+                            (Cambridge: Cambridge University Press, 1996) and The Mind of
+                            the Child: Child Development in Literature, Science, and Medicine, 1840–
+                            1900 (Oxford: Oxford University Press, 2010); Jenny Bourne
+                            Taylor, In the Secret Theatre of Home: Wilkie Collins, Sensation Narrative,
+                            and Nineteenth-Century Psychology (New York: Routledge, 1988);
+                            Nicholas Dames, The Physiology of the Novel: Reading, Neural Science,
+                            and the Form of Victorian Fiction (Oxford: Oxford University Press,
+                            2007); Suzanne Keen, Thomas Hardy’s Brains: Psychology, Neurology,
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:09, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000839
+
+                                                                                                        N E U RO LOGY               787
+                     and Hardy’s Imagination (Columbus: Ohio State University Press,
+                     2014); Jill Matus, Shock, Memory, and the Unconscious in Victorian
+                     Fiction (Cambridge: Cambridge University Press, 2009); Jason Rudy,
+                     Electric Meters: Victorian Physiological Poetics (Athens: Ohio University
+                     Press, 2009); Rick Rylance, Victorian Psychology and British Culture,
+                     1850–1880 (Oxford: Oxford University Press, 2000).
+                6.   Laura Otis, “Howled out of the Country: Wilkie Collins and H.G.
+                     Wells Retry David Ferrier,” in Neurology and Literature, 1860–1920,
+                     ed. Anne Stiles (Basingstoke: Palgrave, 2007), 27–51; Elisha Cohn,
+                     “Oscar Wilde and the Brain Cell,” in Literature, Neurology, and
+                     Neuroscience: Historical and Literary Connections, ed. Anne Stiles,
+                     Stanley Finger, and François Boller (Amsterdam: Elsevier, 2013),
+                     19–39; Anne Stiles, Popular Fiction and Brain Science in the Late
+                     Nineteenth Century (Cambridge: Cambridge University Press, 2012).
+                7.   Alan Richardson, “Once Upon a Mind: Literary and Narrative
+                     Studies in the Age of Cognitive Science,” Modern Fiction Studies 61,
+                     no. 2 (2015): 359–369, 359.
+                8.   See, for instance, Alan Richardson, The Neural Sublime: Cognitive
+                     Theories and Romantic Texts (Baltimore: Johns Hopkins University
+                     Press, 2010), x; and Patrick Colm Hogan, “Literary Brains:
+                     Neuroscience, Criticism, and Theory,” Literature Compass 11, no. 4
+                     (2014): 293–304, 302.
+                9.   For different perspectives on this topic, see Paul Bloom, Against
+                     Empathy: The Case for Rational Compassion (New York: Ecco, 2016);
+                     Omar Sultan Haque and Adam Waitz. “Why Doctors Should be
+                     More Empathetic—But Not Too Much More,” Scientific American,
+                     April 26, 2011, https://www.scientificamerican.com/article/doctors-
+                     and-dehumanization-effect/.
+              10.    This includes Victorian novels. For a cognitive literary approach to
+                     Eliot, Dickens, and Austen, see Alan Palmer, Social Minds in the
+                     Novel (Columbus: Ohio State University Press, 2010). For cognitive
+                     historicist approaches to these authors and Hardy, see Young,
+                     Imagining Minds: The Neuro-Aesthetics of Austen, Eliot, and Hardy
+                     (Columbus: Ohio State University Press, 2010) and Keen, Thomas
+                     Hardy’s Brains.
+              11.    Hogan, “Literary Brains,” 302.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:09, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000839
+

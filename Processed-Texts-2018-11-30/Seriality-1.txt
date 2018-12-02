@@ -1,0 +1,165 @@
+                                                                                                            SERIALITY               873
+              Seriality
+              ROBYN WARHOL
+              I   MAGINE it is January 1847 and I am an avid, middle-class novel reader
+                   living in London. I have been following Charles Dickens’s huge best-
+              seller, Dombey and Son, a novel I have been buying in serial installments at
+              a railway bookseller’s stall just as soon as it comes out each month, since
+              October of 1846. Everybody is talking about Dombey; as many as 40,000
+              copies of each month’s part issue are sold, more than any of Dickens’s
+              earlier works. True, there are over three million people in London at
+              this time, but each of those 40,000 copies circulates through and far
+              beyond its purchaser: read aloud in parlors and pubs, passed down
+              from the parents to the children to the servants in a household, given
+              to friends or left behind in public places, each monthly pamphlet—
+              with the sea-green covers that signify Dickens’s brand—is well thumbed
+              before the next month’s installment comes out. Now, in January,
+              William M. Thackeray’s novel Vanity Fair begins appearing monthly in
+              those same booksellers’ stalls, its bright yellow covers contrasting with
+              the familiar green wrappers of Dombey. Like Dombey, it is set mainly in
+              London, on streets I know well. Only about 5,000 copies of Vanity Fair’s
+              installments are sold each month, but as a true fan of “modern novels”
+              interested in the rivalry between the two great authors, I buy each one
+              and read it every month alongside Dombey and Son.1 In March, I go to
+              see The String of Pearls, or the Fiend of Fleet Street at the Britannia Theatre
+              in London, excited to experience the melodrama version of a sensational
+              novel that has been coming out in serial part issues since November. The
+              gruesomeness of what we now know as the story of “Sweeney Todd, the
+              Demon Barber,” set in a London neighborhood near the station where
+              I buy my serials, resonates for me with the emotional violence Mr.
+              Dombey inflicts on his wife and daughter and the social violence
+              Becky Sharp both endures and perpetuates in Thackeray’s story. I con-
+              tinue reading Dickens and Thackeray through the winter, spring, and
+              summer, and then in October, a new bestseller hits the stands, this
+              time in triple-decker volume form. Critics are raving about Jane Eyre,
+              pseudonymously published by a previously unknown author, Charlotte
+              Brontë. In November I rush through the installments of my other two
+              novels to be able to dive into the storyworld of this phenomenally popu-
+              lar work, so expensive in hardcover that I must borrow it, one volume at a
+              time, from the circulating library where I pay for an annual membership.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001079
+
+                    874          VL C      •    VO L. 46, N O. 3/4
+                    Holding the stories of Dombey and Son and Vanity Fair in my mind as I read
+                    the first volume of Jane Eyre, I am struck by the variations on a theme rep-
+                    resented by the heroines of the three books: they are all motherless girls
+                    left to figure out how to navigate hostile surroundings on their own, they
+                    are all self-reliant and resourceful, and yet their ways of being in the
+                    world are completely different from one another. Their appearing all
+                    in one serial moment underlines the parallels between them. If, like
+                    twentieth-century critics of these novels, I had read them separately
+                    from start to finish, without experiencing their disparate themes and
+                    moods simultaneously, as it were, I would have a substantially different
+                    understanding of each heroine’s motives and reactions, as the critical his-
+                    tory of these three novels shows. (What literary scholar ever thought to
+                    compare Florence Dombey and Becky Sharp?)
+                            Victorian readers of new novels would follow multiple stories at the
+                    same time, just as modern audiences follow TV serials, turning their
+                    attention from one storyworld to the next while waiting for subsequent
+                    installments to appear, and holding many plots in their minds simultane-
+                    ously. Processing stories in this way has a significant bearing on how read-
+                    ers interpret, categorize, and evaluate them. Today, however, most
+                    people who read or study Victorian serial novels encounter them in vol-
+                    ume form, taking in one book from cover to cover before picking up
+                    another, even if they pay attention to the serial breaks. Some organiza-
+                    tions have recently initiated serial reading events featuring novels by
+                    Dickens and others, offering readers the opportunity to read installments
+                    of a Victorian novel in real time along with other readers, one installment
+                    per week or month, while blogs, tweets, and Facebook posts create a
+                    forum for discussing the text at the same monthly pace as the novel’s
+                    original readers would have followed.2 When serial reading projects
+                    offer online access to facsimiles of the original periodicals or
+                    part-issues—making possible what Linda K. Hughes has called “reading
+                    sideways” through the articles, stories, poems, and ads that appeared
+                    alongside the novel installments in the original publications—the experi-
+                    ence is an even richer approximation of what the original audience
+                    would have done.3
+                            What has been missing from current experiments in Victorian serial
+                    reading, however, is the opportunity to read parts of a novel concurrently
+                    with others that appeared in the same month and year, or what Helena
+                    Michie calls “reading synchronically.”4 To make this possible, I have built
+                    “Reading Like a Victorian,” a webtool that indexes and links installments
+                    of novels to others appearing in their same “serial moment,” available at
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001079
+
+                                                                                                            SERIALITY               875
+              victorianserialnovels.org. Based at first on J. Don Vann’s inventory of
+              serial installments and moving from there to our own research into pub-
+              lication dates and venues, Colleen Morrissey and I are attempting to give
+              present-day readers access to serial moments that span the whole
+              Victorian period.5
+                      We can read like Victorians by attending to installments of novels in
+              their serial moments, but it would be naïve to imagine we could read as
+              Victorians. Individual members of the original audience would have
+              picked up installments randomly, skipped portions they happened not
+              to buy, stopped reading a novel halfway through, or put off reading a
+              novel until it came out in volume form. And, too, their assumptions, pre-
+              occupations, prejudices, and priorities would have been different from
+              ours. Synchronic serial reading is not intended to be historical reenact-
+              ment, but an intervention in the twenty-first-century criticism of
+              nineteenth-century literature. If the longstanding interpretations, classifi-
+              cations, and reputations of canonical and noncanonical novels have
+              grown out of reading them in volume form, then breaking those novels
+              back down into their part-issue installments and reading them alongside
+              the other texts in their respective “stacks” can help us think about our
+              object of study not as a discrete novel-text read horizontally, as it were,
+              from beginning to end, but as a series of texts to be read vertically,
+              equally as connected to other novels in its serial moment as to its own
+              later installments. Reading in the serial moment can change our under-
+              standing of what the very form of “a Victorian novel” is.
+                                                                      NOTES
+              1. Robert L. Patten, “The Fight at the Top of the Tree: Vanity Fair vs.
+                   Dombey and Son,” Studies in English Literature, 1500–1900 10, no. 4
+                   (1970): 759–73. Patten has detailed the impact of serial publication
+                   on this rivalry.
+              2. Recent experiments in serial reading include a coordinated reading in
+                   2015 of Our Mutual Friend for “Dickens Day” at Birkbeck College and
+                   Susan Bernstein’s blog, “Serial Readers,” launched in 2008. See Ben
+                   Winyard, “The Our Mutual Friend Reading Project, ‘May We Meet
+                   Again’: Rereading the Dickensian Serial in the Digital Age.”
+                   Interdisciplinary Studies in the Long 19th Century, https://19.bbk.ac.uk/
+                   articles/10.16995/ntn.737.
+              3. Linda K. Hughes, “SIDEWAYS! Navigating the Material(ity) of Print
+                   Culture,” Victorian Periodical Review 47, no. 1 (2014): 1–30.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001079
+
+                    876          VL C      •    VO L. 46, N O. 3/4
+                    4. Helena Michie, “Victorian(ist) Sentences: Synchronic Temporalities,”
+                          in On Periodization: Selected Essays from the English Institute, ed. Virginia
+                          Jackson (2010), http://hdl.handle.net/2027/heb.90047.0001.001.
+                    5. J. Don Vann, Victorian Novels in Serial (New York: Modern Language
+                          Association, 1985).
+                    Settler Colonialism
+                    MELISSA FREE
+                    B       RITISH settler colonies, colonies of occupation, and plantation
+                             colonies were built on unequal relationships between colonizer and
+                    colonized, and entailed the correlative exploitation of distant land,
+                    labor, and other resources.1 While distinguishing between them is useful,
+                    the terms themselves are Eurocentric constructs, even as they denote mate-
+                    rial realities; the lines between them are not hard and fast; and no two col-
+                    onies were exactly alike. British residents of colonies of occupation (like
+                    India and Hong Kong) were temporary and largely male. These mer-
+                    chants, missionaries, soldiers, and administrators (who, particularly in
+                    the latter two cases, sometimes moved between colonies) formed a “thin
+                    white line” of control over indigenous populations.2 British residents of
+                    planation colonies (like those in the Caribbean) were only somewhat
+                    more permanent. These mostly upper-class plantation owners often spent
+                    months or even years in Britain, where their wives and children, if they
+                    had them, were as likely as not to reside. Because the Caribbean’s indigenous
+                    population had been all but destroyed through contact with earlier
+                    European settlers, the British generated a labor force by importing
+                    Africans as slaves and Indians as indentured servants. Though non-whites
+                    outnumbered whites significantly, resistance—to poor working conditions,
+                    slavery (pre-1833), and other forms of inequality—was met with brutal repri-
+                    sal. As in colonies of occupation, resources flowed out.
+                            Settler colonies (in the nineteenth century, primarily Canada,
+                    Australia, New Zealand, and South Africa) were distinct from colonies
+                    of occupation and plantation colonies in that large numbers of British
+                    men, women, and children emigrated to them with the intent to remain
+                    permanently. These several million Britons (more than 1.5 million
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001079
+

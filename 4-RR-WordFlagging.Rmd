@@ -96,11 +96,11 @@ if(file.exists(ProcessedDataLocation) == TRUE) {
 }else{print("No pre-processed data available. See 'Pre-Processing Texts' above")}
 ```
 
-## Sentence Level Word Flag Script
+## Slow, Thorough Sentence Level Word Flag Script
 
 Unlike the previous script, which immediately transforms the document into a list of words, this script preserves the sentences which the lemma match came from. For this reason, it is SIGNIFICANLY slower. However, often it is nice to have this data available for key words in context.
 
-```{r Word Flag, eval=FALSE}
+```{r Word Flag Sentence Slow, eval=FALSE}
 ###real script in progress below here
 if(file.exists(ProcessedDataLocation) == TRUE) {
   stemflagterm <- unique(wordStem(flagterm))
@@ -132,7 +132,9 @@ if(file.exists(ProcessedDataLocation) == TRUE) {
         l2token <- unlist(ltoken)
         #at some point, we're going to want the length of each sentence so we know how many words in the match occurred.
         TempLength <- length(l2token)
-        #finally, we stem the words in this lemmatized sentence so it's easier to match them.
+        #We're going to get an error later if it turns out that l2token is an empty character string. We can use TempLength to avoid that possibility, by only proceeding if the length of the character string is not 0.
+        if(TempLength != 0) {
+          #finally, we stem the words in this lemmatized sentence so it's easier to match them.
         steml2token <- wordStem(l2token)
         
         for (w in 1:length(l2token)) {
@@ -153,6 +155,7 @@ if(file.exists(ProcessedDataLocation) == TRUE) {
           #finally, we add to iterp, so the value is essentially going up by one for each lemma
           iterp <- iterp+1
           }
+        }
     }
     if(nrow(TempDocdf) != 0) {TempDocdf$Lemma_Length <- iterp
       TempDocdf$Lemma_Perc <- TempDocdf$Lemma / TempDocdf$Lemma_Length *100
@@ -160,8 +163,68 @@ if(file.exists(ProcessedDataLocation) == TRUE) {
   }
   SentenceWordFlagdf
 }else{print("No pre-processed data available. See 'Pre-Processing Texts' above")}
+```
 
+## Fast, Sentence Level Word Flag Script
+This script is a bit faster, because it doesn't attempt to keep track of the lemma %. Instead, it judges based on the sentences in which the match appears.
+
+```{r Word Flag Sentence Fast, eval=FALSE}
+
+###the above script worked well enough, but it is so fucking slow. So I'm testing to see if I can come up with a better version. And it works!!! It's also fairly quick. I'd say a bit quicker than the default lemma verson. 
+if(file.exists(ProcessedDataLocation) == TRUE) {
+  stemflagterm <- unique(stem_strings(flagterm))
+  files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE)
+  SentenceWordFlagdf <- data.frame(Text=character(), Searched_Term=character(), Sentence_No=integer(), Sentence=character(), Sentence_Total = integer(), Sentence_Perc = numeric())
+  
+  for (i in 1:length(files)) {
+    #first we print which file we are looking at, so we know how far in we are
+    print(paste0(i," out of ",length(files)," files"))
+    #for each document, we create a temporary data frame that we'll add to the final results
+    TempDocdf <- data.frame(Text=character(), Searched_Term=character(), Sentence_No=integer(), Sentence=character())
+        
+    #Basically, we want to search for every sentence in which the character string that matches the stemflagtermvector appears, and note where that occurs. This is a bit tricky, because we don't know how many times that term is going to appear.
+    fileName <- read_file(files[i])
     
+    #since tokenize_sentences function requires things to be encoded in UTF-8, need to remove some data.
+    #The Encoding function specifies that we want this in utf8
+    Encoding(fileName) <- "UTF-8"
+    #the incon function converts a character vector between encodings (the i is for internationalization)
+    fileName <- iconv(fileName, "UTF-8", "UTF-8",sub='')
+    #the stoken then splits it into sentences
+    stoken <- tokenize_sentences(fileName, lowercase = FALSE, strip_punct = FALSE, simplify = FALSE)
+    #lists are a bit annoying to work with, so we unlist that into a vector
+    s2token <- unlist(stoken)
+    #Now we're going to make a dataframe to keep track of the sentences
+    Sentencedf <- data.frame(Sentence = as.character())
+    Sentencedf <- data.frame(Sentence = as.character(s2token))
+    #We need a 3rd stoken value to take out the punctuation.
+    s3token <- tokenize_sentences(s2token, lowercase=TRUE, strip_punct=TRUE, simplify=FALSE)
+    Sentencedf$SentenceStripped <- as.character(s3token)
+    Sentencedf$StemSentence <- stem_strings(Sentencedf$SentenceStripped)
+    
+    for (q in 1:nrow(Sentencedf)) {
+       for (p in 1:length(stemflagterm)) {
+          
+        print(paste0(p," out of ",length(stemflagterm)," search terms. ",q," out of ",length(s2token)," sentences. ",i," out of ",length(files)," files")) 
+         
+        #Note that below, grepl can return TRUE, FALSE, or logical(0). So we only want the true ones.
+        templist <- strsplit(Sentencedf$StemSentence[q]," ")
+         if(any(templist[[1]] == stemflagterm[p])) {
+            tempdf <- data.frame(files[i],stemflagterm[p],q,Sentencedf$Sentence[q])
+              names(tempdf) <- c("Text","Searched_Term","Sentence_No","Sentence")
+              TempDocdf <- rbind(TempDocdf,tempdf)
+              }
+              
+            }
+          }
+    
+    if(nrow(TempDocdf) != 0) {TempDocdf$Sentence_Total <- nrow(Sentencedf)
+      TempDocdf$Sentence_Perc <- TempDocdf$Sentence_No / TempDocdf$Sentence_Total *100
+      SentenceWordFlagdf <- rbind(SentenceWordFlagdf,TempDocdf)}
+  }
+  SentenceWordFlagdf
+}else{print("No pre-processed data available. See 'Pre-Processing Texts' above")}
+
 ```
 
 There are a lot of things that you can do with these word flag data sets. Sometimes you want to know where a set of words occurs in just one text, sometimes you want to compare their use across a corpus. In addition, because it creates a data point for every reference to a word, this data can also be added up to determine a word's *frequency* in a text or corpus. Because there are often multiple uses for this data, it is helpful to be able to save it. You can save the Word Flag data set using the script below. It will create a new folder for the output as well.

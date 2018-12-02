@@ -1,0 +1,194 @@
+                    632          VL C      •    VO L. 46, N O. 3/4
+                    3. Sarah Stickney Ellis, The Women of England (1838), Indiana University
+                          Victorian Women Writers’ Project, https://webapp1.dlib.indiana.edu/
+                          vwwp/welcome.do;jsessionid=DE6159B41E8EC05F43256581BDC7745F,
+                          14.
+                    4. Paul Fussell, Class: A Guide through the American Status System (New York:
+                          Simon and Schuster, 1983), 24; Wahrman, Imagining the Middle Class, 16.
+                    5. Leonore Davidoff, The Best Circles: Women and Society in Victorian England
+                          (Totowa: Rowman and Littlefield, 1973), 45; quoted in Elizabeth
+                          Langland, Nobody’s Angels (Ithaca: Cornell University Press, 1995), 34.
+                    6. Carolyn Steedman, “True Romances,” in Raphael Samuel, Patriotism:
+                          The Making and Unmaking of British National Identity (London:
+                          Routledge, 1989), 30–31.
+                    7. A. A. Milne, When We Were Very Young (London: Methuen, 1924), 81.
+                          Milne was not a middle child, but he was the youngest of three.
+                    Data
+                    KAREN BOURRIER
+                    D        ATA was not a word that the Victorians used regularly. The British
+                             English corpus of the Google NGram viewer, which visualizes word fre-
+                    quency across the corpus of books scanned by Google as of 2012, shows a
+                    slow increase in the use of the word “data” in the nineteenth century,
+                    with a dramatic spike around 1990 (see fig. 1). The Oxford English
+                    Dictionary ties the rise of “data” specifically to the rise of computing and com-
+                    puters in the mid-twentieth century. Data is collective. Now typically used as
+                    a mass noun, data signifies related bits of information, usually numbers, con-
+                    sidered collectively. Informally, data means any sort of digital information.
+                            In this essay, I use digital humanities methods to collect data about the
+                    Victorian novel. Concentrating on Anthony Trollope’s third Chronicle of
+                    Barsetshire, Doctor Thorne, I examine what social media traces on
+                    Goodreads, a popular social cataloguing site where users review and recom-
+                    mend books to friends, can tell us about the way we read Victorian litera-
+                    ture now. In doing so, I hope to uncover information about a collective
+                    everyday Victorianism. While previous work in reader response theory suf-
+                    fered from the difficulty of obtaining data on how people read, for the first
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000438
+
+                                                                                                                      D ATA         633
+              Figure 1. Frequency of the word “data” in British English literature from 1800 to 2000. Graph created
+              using Google NGram viewer, Google Books Ngram Viewer: http://books.google.com/ngrams.
+              time, Goodreads offers us “a large-scale network of serious readers and their
+              readings with the attendant metadata” in James English’s words.1 Lisa
+              Nakamura remarks that “scholars looking to study reading culture ‘in
+              the wild’ will be rewarded by a close study of Goodreads.”2
+                      Doctor Thorne is an interesting case study at this cultural moment
+              because Julian Fellowes chose to dramatize Trollope’s novel in the wake
+              of his enormously popular period drama, Downton Abbey. Fellowes’s
+              announcement that he would adapt Doctor Thorne provoked an immediate
+              spike in tweets about Trollope in May 2015.3 However, it was not until
+              Doctor Thorne actually aired, in March 2016 on ITV in the U. K. and on
+              Amazon Prime in May 2016 in the U. S., that Goodreads saw an increased
+              number of users reviewing the novel.4 Eighty of the top 300 reviews of
+              Doctor Thorne appeared in 2016, as opposed to 23 to 25 reviews per year
+              each of the previous three years. Those who read Doctor Thorne generally
+              liked it, of 4,095 users who rated the novel, 76% gave it four or five stars
+              out of a possible five, while only 4% gave it two stars or less.5
+                      For a general audience, Trollope, with his focus on marriage and money
+              and his smooth prose style, seems to be a natural successor to Jane Austen,
+              who has been endlessly adapted in the past 25 years. Austen was by far the
+              author that reviewers most frequently compared Trollope to; she is men-
+              tioned 49 times in the top 300 reviews, followed by Charles Dickens at 26 men-
+              tions, and George Eliot at 9. Users also included Doctor Thorne on lists devoted
+              to “What to Read After You’ve Finished Jane Austen” and “More for the Jane
+              Austen Purist,” where they collaboratively ranked Trollope’s novel as 157 out
+              of 334 books and 47 out of 98 books respectively.6 As one reviewer put it:
+              “How am I almost 35 and just experienced the wry fun of a Trollope novel?
+              Seriously, next time you see a nerdy thirteen-year-old clutching Austen and
+              Dickens, be sure to put some Trollope in her hands as well.”7
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000438
+
+                    634          VL C      •    VO L. 46, N O. 3/4
+                            Despite the strong connection between Austen, Trollope, and adap-
+                    tation, it would be a mistake to presume that general readers are only in
+                    it for the costume drama. Although the 2016 miniseries seems to have
+                    prompted many to read the novel, this was not what they focused on
+                    in their reviews. Only forty-one, or 13.67%, of the top 300 written reviews
+                    mentioned the adaptation. By contrast, 151, or 50.33%, of reviewers
+                    expressed familiarity with Trollope’s oeuvre in general, either intimating
+                    (“I do really enjoy Trollope; there is something quite soothing and stim-
+                    ulating both in watching his novels march along to their ordered end-
+                    ing”) or directly stating that they had read or were at least familiar with
+                    some of Trollope’s other novels (“I’ve read 99 percent of the trollopes,
+                    even the obscure ones, and this one is my absolute favorite”).8
+                            Love (of Trollope, of his characters, or of the book in general) was
+                    the main theme that came up in written reviews. Yet, reviewers were actu-
+                    ally about as likely to mention Trollope’s style (which they compared to
+                    “butter” and “silk”) as love of his characters (the “marvellously irreverent”
+                    Miss Dunstable, mentioned 29 times, was universally liked).9 Delving
+                    deeper into Trollopian style, many readers found Trollope amusing,
+                    with 65 of 300 reviewers mentioning enjoying his humour. By contrast,
+                    the narrator alternately amused and infuriated readers. As one reader
+                    put it, “even with all his Victorian mansplaining, Trollope and I might
+                    be friends after all.”10 And of, course, many readers found Trollope
+                    dull, though not everyone thought this was a bad thing: “The plot is
+                    like taking a familiar train ride: one knows where one is going to wind
+                    up, and one knows where all the stops are going to be. The pleasure is
+                    in watching the scenery (i.e., the characters) go by.”11
+                            Some scholars have theorized that literature which enters the canon
+                    becomes depoliticized over time, appreciated for its aesthetic qualities
+                    rather than its political commentary.12 This is not so with Doctor Thorne,
+                    which many read as a form of social critique. Eighty-nine reviews men-
+                    tioned Trollope’s skewering of the British class system, money, and mar-
+                    riage; many of these readers wondered whether Mary’s inheritance
+                    undermined Trollope’s criticism of the class system, others were disturbed
+                    that Scatcherd’s downfall seemed to be a punishment for his social ascen-
+                    dancy. Fewer readers made a direct connection to the present day, but it
+                    seems that Trollope functioned equally well as an escape from and a cri-
+                    tique on the 2016 U. S. election. Readers commented that “it was the per-
+                    fect escape from post-inauguration depression.”13 One reviewer wrote that
+                    rereading the novel “provides great insight into the carnival of politics
+                    today”;14 another compared Sir Roger Scatcherd, “a boorish construction
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000438
+
+                                                                                                                      D ATA         635
+              tycoon who uses his new wealth to buy a seat in Parliament,”15 to Donald
+              Trump shortly after he announced his candidacy for president.
+                      Reading Trollope by the numbers, a mode the highly regimented
+              novelist surely would have appreciated, reveals an appreciation amongst
+              general readers of not only the marriage plot and his characters, but
+              also of his style and his social commentary. Numbers may be on the
+              upswing as evidence in literary studies; Andrew Goldstone and Ted
+              Underwood point out that after a century of decline in mentions of num-
+              ber words in scholarly articles, there appears to be an upturn in the use
+              of numbers.16 Social media data has the potential to transform the way
+              we read Victorian literature now, illuminating the way our objects of
+              study are read outside the classroom.
+                                                                      NOTES
+                1. James English, “Prestige, Pleasure, and the Data of Cultural
+                     Preference,” Western Humanities Review 70, no. 3 (2016): 119–39,
+                     137. English argues that Goodreads was a valuable purchase for
+                     Amazon, which acquired the company in 2013, because reviews of
+                     books on Amazon were scant and influenced fewer than 10% of read-
+                     ers on their next book purchase. See English, 131–33.
+                2. Lisa Nakamura, “‘Words with Friends’: Socially Networked Reading
+                     on Goodreads,” PMLA 128, no. 1 (2013): 238–43, 241.
+                3. Karen Bourrier, “Victorian Memes,” Victorian Studies 58, no. 2 (2016):
+                     272–82, 276.
+                4. Data on exactly how many Goodreads users read Doctor Thorne in 2016
+                     would be preferable here and is in theory collected by Goodreads.
+                     However, this data is not available to the general public through the
+                     API at this time. In this article, I work with the top 300 (of a possible
+                     381) written reviews on Doctor Thorne, available to the public and col-
+                     lected on 27 October 2017. Goodreads allows users to add books, which
+                     can result in several different editions in the database (though the
+                     general policy is for all editions, including translations, e-books and
+                     audiobooks, to have one entry). Here, I consider the most popular edi-
+                     tion, which had 4,095 ratings as opposed to the next most popular at
+                     37, as of 27 November 2017. Using the software NVivo, I coded the top
+                     300 reviews by hand for mentions of familiarity with the author, social
+                     critique, love (of the author and of characters), medium of consump-
+                     tion, and writing style. I used NVivo’s automated word frequency
+                     search in these reviews to determine the other authors that reviewers
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000438
+
+                    636          VL C      •    VO L. 46, N O. 3/4
+                            compared Trollope to, and mentions of particular characters. I am
+                            grateful to Paul Pival, special and numeric data services specialist in
+                            Libraries and Cultural Resources at the University of Calgary, who
+                            scraped the reviews and introduced me to NVivo.
+                       5.   Goodreads, November 27, 2017, https://www.goodreads.com/book/
+                            show/29151142-doctor-thorne?from_search=true.
+                       6.   “Doctor Thorne > Lists,” Goodreads, November 27, 2017, https://www.
+                            goodreads.com/list/book/29151142.
+                       7.   Cassandra, “Review of Doctor Thorne,” Goodreads, November 10, 2013;
+                            and Kelly, “Review of Doctor Thorne,” Goodreads, Decmber 3, 2016.
+                       8.   Cynthia, “Review of Doctor Thorne,” Goodreads, February 25, 2008.
+                       9.   Douglas Dalrymple, “Review of Doctor Thorne,” Goodreads, May 21, 2015;
+                            Carol Apple, “Review of Doctor Thorne,” Goodreads, February 26, 2015;
+                            Margaret, “Review of Doctor Thorne,” Goodreads, October 26, 2010.
+                    10.     Christen, “Review of Doctor Thorne,” Goodreads, July 19, 2016.
+                    11.     Spiros, “Review of Doctor Thorne,” Goodreads, July 5, 2009.
+                    12.     For a summary of this position, see Deidre Lynch, Loving Literature: A
+                            Cultural History (Chicago: University of Chicago Press, 2015), 28.
+                    13.     Meg, “Review of Doctor Thorne,” Goodreads, February 7, 2017.
+                    14.     Margaret O’Connor-Hurst, “Review of Doctor Thorne,” Goodreads,
+                            December 29, 2015.
+                    15.     Sharon, “Review of Doctor Thorne,” Goodreads, July 2, 2015.
+                    16.     Andrew Goldstone and Ted Underwood, “The Quiet Transformations
+                            of Literary Studies: What Thirteen Thousand Scholars Could Tell Us,”
+                            New Literary History 45, no. 3 (2014): 359–361.
+                    Decadence
+                    KRISTIN MAHONEY
+                             Though our thoughts turn ever Doomwards,
+                             Though our sun is well-nigh set,
+                             Though our Century totters tombwards,
+                             We may laugh a little yet.
+                                                       —John Davidson, A Full and True Account of the Wonderful
+                                                                                                      Mission of Earl Lavender1
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000438
+

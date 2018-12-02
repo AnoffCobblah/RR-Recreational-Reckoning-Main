@@ -1,0 +1,158 @@
+                                                                                                   E NV I RO NM E N T               681
+              15. Bruno Latour, We Have Never Been Modern, trans. Catherine Porter
+                     (Cambridge: Harvard University Press, 1993), 10.
+              16. Charles Dickens, Our Mutual Friend (New York: Penguin, 1998),
+                     683–84.
+              Environment
+              ALLEN MACDUFFIE
+              T      HE story of the coinage and popularization of the word environment
+                     in its modern sense runs through some of the towering intellectual
+              figures of the Victorian period—Thomas Carlyle, Harriet Martineau, G.
+              H. Lewes, and Herbert Spencer—and their continental influences,
+              Johann Wolfgang von Goethe and Auguste Comte. In some ways, it is a
+              story that bears directly upon the wholesale rethinking of the conven-
+              tional divide between nature and culture that went on in many disci-
+              plines over the course of the century, a conceptual shift that has roots
+              in German and British Romantic thought, and finds scientific theoriza-
+              tion in the work of Charles Darwin. But it’s also a story about the compli-
+              cations and difficulties involved in reimagining the relationship between
+              these two crucial categories, and the way racial, imperial, and economic
+              ideologies blunted or even subverted the new conceptual possibilities for
+              ecological thinking that the term environment both reflected and helped
+              generate.
+                      It seems fitting that the word “environment” would first appear in its
+              modern guise in 1828, at the dawn of the period that would produce the
+              factory town and the railroad, the Coal Question and the Great Guano
+              Rush, Tess of the d’Urbervilles and Wuthering Heights, and, for many contem-
+              porary critics, the first observable signs of the Anthropocene. Carlyle first
+              uses it in his essay Goethe to translate the master’s original German
+              Umgebung and to signify not merely surroundings or context (as it had
+              been commonly used before) but rather the vital, ongoing influence of
+              those surroundings upon a person or thing.1 As Ralph Jessop argues,
+              this coinage arises from the “counter-Enlightenment” stance Carlyle
+              took against the forces of mechanization and mechanical thinking: envi-
+              ronment is an attempt to convey something of the holistic, “dialogical
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:29, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000554
+
+                    682          VL C      •    VO L. 46, N O. 3/4
+                    [and] open-textured” set of influences—physical, social, intellectual,
+                    spiritual—at work upon someone.2 We can thus see in it the stirrings
+                    of an interdependent, “green” sensibility, though always filtered through
+                    Carlyle’s peculiar metaphysical division of “substance” from “semblance”
+                    and his quasi-reactionary politics.
+                            Despite the usefulness of the word—its flexibility, its capaciousness, its
+                    ability to suggest the porous and shifting boundaries of self—Carlyle
+                    employed it relatively sparingly in his writing, and the term did not
+                    catch on. For its popularization, we have Herbert Spencer to thank. As his-
+                    torian of science Trevor Pearce argues, Spencer was introduced to the
+                    term via Comte’s Cours de Philosophie Positive as translated by Harriet
+                    Martineau, who herself may have been drawing on Carlyle.3 Spencer’s
+                    switch from the word circumstances to environment, and his reliance on
+                    the latter in his popular Principles of Psychology, Pearce argues, initiated a
+                    crucial shift: “The successive transitions from individuated particular fac-
+                    tors (e.g., ‘climate’), to a general plural term (e.g., ‘circumstances’), to
+                    a general singular term (e.g., ‘environment’), correspond to a progressive
+                    concealment of the different elements that make up the world outside the
+                    organism and the relations between these elements . . . [T]he singular
+                    term ‘environment,’ like ‘organism,’ is an important heuristic for biologists,
+                    insofar as it gives them a way to talk about general causes without exploring
+                    the details of micro-level complexity (the term ‘natural selection’ is a par-
+                    allel case). Hence, the word ‘environment’ does metaphysical work.”4
+                            One of the ironies of the term, then, is that it was precisely in its
+                    abstraction from the material details of actually existing environments
+                    that it became most useful to thinking ecologically about those environ-
+                    ments. Although binaries like organism/environment can themselves be
+                    problematic, as Timothy Morton has argued, they were conceptually pro-
+                    ductive for the nascent science of ecology, and Spencer’s work had a tre-
+                    mendous influence upon many significant early twentieth-century thinkers
+                    in this field, including Frederic Clements and Victor Shelford.5 From here
+                    we are but a short distance to the next, encompassing level of abstraction,
+                    “the environment,” which the Oxford English Dictionary dates to 1948, and
+                    which signifies something like “the natural world” but always with the
+                    added implied possibility of human activity and disruption.
+                            Spencer’s “environment” included not only physical and biological
+                    factors, but social and political ones as well; as he makes clear in essays
+                    like “The Social Organism” and throughout Principles of Psychology, his
+                    aim was to break down the distinctions between the human and the
+                    “natural” world. As recent ecological criticism and philosophy has
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:29, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000554
+
+                                                                                                   E NV I RO NM E N T               683
+              shown, questioning the conceptual divide between nature and culture is
+              necessary, because (among other things) it helps make clear the extent
+              to which a civilization’s cultural forms and practices depend entirely
+              upon natural resources, processes, and conditions, and gives the lie to
+              mystifying fantasies of human transcendence of the material world. But
+              although Spencer is second perhaps only to Darwin among nineteenth-
+              century thinkers who helped undermine this binary, it’s also true that the
+              encompassing abstraction “environment” allowed him to reinforce other
+              kinds of problematic distinctions. The natural world and human civiliza-
+              tion may both be considered “environments,” but in Spencer’s system the
+              latter is at a further stage of evolutionary “complexity,” and thus it func-
+              tions as a stimulus to even more profound kinds of intellectual, moral,
+              and social growth.6 And civilization, as Raymond Williams has shown,
+              had not yet been relativized by the widespread adoption of its plural
+              form: for Spencer, it means Western civilization.7 Thus, such develop-
+              mentalist arguments reflect the way the concept “environment” was
+              inflected by assumptions of racial and cultural superiority; indeed, as
+              George Stocking notes, to be an “environmentalist” in Victorian anthro-
+              pological circles was to believe in the profound shaping power of external
+              forces upon human characteristics and capacities and, more often than
+              not, to uphold the ascendancy of European culture on such grounds.8
+                      Moreover, the complete continuity of nature and civilization also
+              makes Spencer—at least in his early writings—famously wary of any “arti-
+              ficial” human intervention in economic and social processes. It is thus a
+              rather bleak irony that this important “environmental” writer was also
+              England’s most well-known advocate for laissez-faire capitalism, an
+              approach to markets, natural resources, and social relations that had,
+              and continues to have, environmentally catastrophic consequences.
+                                                                      NOTES
+              1. Leo Spitzer, “Milieu and Ambience: An Essay in Historical Semantics,”
+                   Philosophy and Phenomenological Research 3, no. 2 (1942): 169–218, 204;
+                   Lowell Frye, “History as Biography, Biography as History,” in Thomas
+                   Carlyle Resartus: Reappraising Carlyle’s Contribution to the Philosophy,
+                   History, Political Theory and Cultural Criticism, ed. Paul Kerry and
+                   Marylu Hill (Madison: Farleigh Dickinson University Press, 2010):
+                   133–147, 144.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:29, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000554
+
+                    684          VL C      •    VO L. 46, N O. 3/4
+                    2. Ralph Jessop, “Coinage of the Term Environment: A Word Without
+                          Authority and Carlyle’s Displacement of the Mechanical Metaphor,”
+                          Literature Compass 9/11 (2012): 708–20, 713.
+                    3. Trevor Pearce, “From ‘Circumstances’ to ‘Environment’: Herbert
+                          Spencer and the Origins of The Idea of Organism-environment
+                          Interaction,” Studies in History and Philosophy of Biological and
+                          Biomedical Sciences 41 (2010): 241–52, 247–48.
+                    4. Eliot, Middlemarch, 249.
+                    5. Donald Worster, Nature’s Economy: A History of Ecological Ideas
+                          (Cambridge: Cambridge University Press, 1977), 214–15.
+                    6. Herbert Spencer, “Progress: Its Law and Cause,” in Essays, Scientific,
+                          Political, and Speculative (New York: D. Appleton, 1916), 51.
+                    7. Raymond Williams, Keywords: A Vocabulary of Culture and Society
+                          (New York: Oxford University Press, 1983), 58–59.
+                    8. George Stocking, Race, Culture, and Evolution: Essays in the History of
+                          Anthropology (New York: Free Press, 1968), 48, 64.
+                    Ethics
+                    DUC DAU
+                    T       HE late 1980s witnessed the ethical turn in literature, with notable
+                            scholars being J. Hillis Miller, Wayne Booth, and Martha
+                    Nussbaum.1 Recent studies of Victorian narrative have explored ethics
+                    as a relation between self and other through a lens of sociality and open-
+                    ness to otherness. In this essay, I would like to focus on studies on the
+                    ethics of care, sympathy, hospitality, and empathy before turning to
+                    underexplored areas of research.
+                            In the past few years, scholars have turned their attention to the
+                    analysis of ethics and the marriage plot, with the coming together of
+                    wife and husband “marking a larger reconciliation between individual
+                    and society.”2 Talia Schaffer’s study, Romance’s Rival: Familiar Marriage
+                    in Victorian Fiction, explores, among other things, the marriage of a phys-
+                    ically disabled person through the theory of ethics of care, which asserts
+                    that human relations should be understood as interdependent
+                    exchanges of caregiving and care-receiving. By drawing attention to a
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:29, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000554
+
