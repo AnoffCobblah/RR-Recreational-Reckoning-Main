@@ -20,31 +20,36 @@ knitr::opts_chunk$set(echo = TRUE)
 
 In what I call *word flagging*, I note where a certain word (or words) appear in a text (or texts), and visualizing those appearances. For instance, this technique could tell you visually whether Esther is mentioned more by name in the beginning or at the end of *Bleak House*. Or it could show where the words "North" and "South" appear in Gaskell's *North and South*, which might be useful in studying how the narrative makes use of those spaces.
 
-As usual, the first step is again to create a list of words you are interested in locating.
+As usual, the first step is again to create a list of words you are interested in locating. **Note that the object "flagterms" must be a vector of single word character strings.
 
-```{r flagterm, eval=FALSE}
-  flagterm <- c("up", "down", "strange", "charm", "top", "bottom")
+```{r flagterms, eval=FALSE}
+  flagterms <- c("up", "down", "strange", "charm", "top", "bottom")
 ```
 
-Please note that this script also requires the existence of Processed Texts.
+Please note that this script also requires the existence of Processed Texts.Once you have processed texts uploaded to a folder, you can specify that these are the files you want to look at using the input below.
+
+```{r files, eval=FALSE}
+files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE)
+```
+
 
 ## Quick Word Flag Script
 
-Flagging where these terms occur within the text means that, unlike other types of analyses, this script cannot treat the text as a "bag of words": we need to create a matrix (labelled data) which maintains information not only on whether or not the terms are in the text, but also where they appear.
+Flagging where these terms occur within the text means that, unlike other types of analyses, this script cannot treat the text as a "bag of words": we need to create a matrix (labelled data) which maintains information not only on whether or not the terms are in the text, but also where they appear. 
 
 ```{r Word Flag, eval=FALSE}
+
 if(file.exists(ProcessedDataLocation) == TRUE) {
-  stemflagterm <- unique(wordStem(flagterm))
-  files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE)
-  lemma <- list()
+  stemflagterms <- unique(wordStem(flagterms))
+    lemma <- list()
   lemma_perc <- list()
   data <- matrix(,ncol=7,nrow=1)
     colnames(data) <- c("Text","Text_ID", "Searched_Term","Searched_Term_ID","Lemma","Lemma_Length","Lemma_Perc")
-  for (p in 1:length(stemflagterm)) {
+  for (p in 1:length(stemflagterms)) {
         iterp <- 1
         tempdata <- matrix(,ncol=7,nrow=1) #this matrix is supposed to get wiped every loop.
-        searchedterm <- stemflagterm[p]
-    #Basically, we want to search for every place in the tems that matches the stemflagtermvector, and note where that occurs. This is a bit tricky, because we don't know how many times that term is going to appear.  That's where the iterp value comes in: for each loop which finds a match, "iterp"" increases by one and allows the value to be added to the list "lemma".
+        searchedterm <- stemflagterms[p]
+    #Basically, we want to search for every place in the tems that matches the stemflagtermsvector, and note where that occurs. This is a bit tricky, because we don't know how many times that term is going to appear.  That's where the iterp value comes in: for each loop which finds a match, "iterp"" increases by one and allows the value to be added to the list "lemma".
     for (i in 1:length(files)) {
       print(files[i])
       fileName <- read_file(files[i])
@@ -66,7 +71,7 @@ if(file.exists(ProcessedDataLocation) == TRUE) {
           lemma_perc[[k]] <- (lemma[[k]] / length(ltoken)) *100
         }
       }
-      #This can get a bit messed up if we don't add in some NA values for files which have no references to the stemflagterm vector, so we add them here.
+      #This can get a bit messed up if we don't add in some NA values for files which have no references to the stemflagterms vector, so we add them here.
         lemma <- unlist(lemma)
           #there used to be an unnecessary step here where I added in some NAs.  But I might be wrong about it...
         lemma_perc <- unlist(lemma_perc)
@@ -103,9 +108,8 @@ Unlike the previous script, which immediately transforms the document into a lis
 ```{r Word Flag Sentence Slow, eval=FALSE}
 ###real script in progress below here
 if(file.exists(ProcessedDataLocation) == TRUE) {
-  stemflagterm <- unique(wordStem(flagterm))
-  files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE)
-  SentenceWordFlagdf <- data.frame(Text=character(), Searched_Term=character(), Lemma=integer(), Sentence=character(), Lemma_Length = integer(), Lemma_Perc = numeric())
+  stemflagterms <- unique(wordStem(flagterms))
+    SentenceWordFlagdf <- data.frame(Text=character(), Searched_Term=character(), Lemma=integer(), Sentence=character(), Lemma_Length = integer(), Lemma_Perc = numeric())
   
   for (i in 1:length(files)) {
     #first we print which file we are looking at, so we know how far in we are
@@ -113,7 +117,7 @@ if(file.exists(ProcessedDataLocation) == TRUE) {
     #for each document, we create a temporary data frame that we'll add to the final results
     TempDocdf <- data.frame(Text=character(), Searched_Term=character(), Lemma=integer(), Sentence=character())
         
-    #Basically, we want to search for every place in the tems that matches the stemflagtermvector, and note where that occurs. This is a bit tricky, because we don't know how many times that term is going to appear.  That's where the iterp value comes in: for each loop which finds a match, "iterp"" increases by one and allows the value to be added to the list "lemma".
+    #Basically, we want to search for every place in the tems that matches the stemflagtermsvector, and note where that occurs. This is a bit tricky, because we don't know how many times that term is going to appear.  That's where the iterp value comes in: for each loop which finds a match, "iterp"" increases by one and allows the value to be added to the list "lemma".
     iterp <- 1
     
     fileName <- read_file(files[i])
@@ -140,10 +144,10 @@ if(file.exists(ProcessedDataLocation) == TRUE) {
         for (w in 1:length(l2token)) {
           
           #now that we're finally at the word level we can see if this word in this sentence matches any of our stemmed search terms
-          for (p in 1:length(stemflagterm)) {
-            print(paste0(p," out of ",length(stemflagterm)," search terms. ",q," out of ",length(s2token)," sentences. ",i," out of ",length(files)," files"))
+          for (p in 1:length(stemflagterms)) {
+            print(paste0(p," out of ",length(stemflagterms)," search terms. ",q," out of ",length(s2token)," sentences. ",i," out of ",length(files)," files"))
             #we'll want to match the lemma to the terms in the list one at a time, so we create a searchedterm object in a loop
-            searchedterm <- stemflagterm[p]
+            searchedterm <- stemflagterms[p]
             
             if(steml2token[w] == searchedterm) {
               tempdf <- data.frame(files[i],searchedterm,iterp,s2token[q])
@@ -166,64 +170,11 @@ if(file.exists(ProcessedDataLocation) == TRUE) {
 ```
 
 ## Fast, Sentence Level Word Flag Script
-This script is a bit faster, because it doesn't attempt to keep track of the lemma %. Instead, it judges based on the sentences in which the match appears.
+This function, "WordFlagSentences" is a bit faster, because it doesn't attempt to keep track of the lemma %. Instead, it judges based on the sentences in which the match appears.
 
 ```{r Word Flag Sentence Fast, eval=FALSE}
-
-###the above script worked well enough, but it is so fucking slow. So I'm testing to see if I can come up with a better version. And it works!!! It's also fairly quick. I'd say a bit quicker than the default lemma verson. 
-if(file.exists(ProcessedDataLocation) == TRUE) {
-  stemflagterm <- unique(stem_strings(flagterm))
-  files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE)
-  SentenceWordFlagdf <- data.frame(Text=character(), Searched_Term=character(), Sentence_No=integer(), Sentence=character(), Sentence_Total = integer(), Sentence_Perc = numeric())
-  
-  for (i in 1:length(files)) {
-    #first we print which file we are looking at, so we know how far in we are
-    print(paste0(i," out of ",length(files)," files"))
-    #for each document, we create a temporary data frame that we'll add to the final results
-    TempDocdf <- data.frame(Text=character(), Searched_Term=character(), Sentence_No=integer(), Sentence=character())
-        
-    #Basically, we want to search for every sentence in which the character string that matches the stemflagtermvector appears, and note where that occurs. This is a bit tricky, because we don't know how many times that term is going to appear.
-    fileName <- read_file(files[i])
-    
-    #since tokenize_sentences function requires things to be encoded in UTF-8, need to remove some data.
-    #The Encoding function specifies that we want this in utf8
-    Encoding(fileName) <- "UTF-8"
-    #the incon function converts a character vector between encodings (the i is for internationalization)
-    fileName <- iconv(fileName, "UTF-8", "UTF-8",sub='')
-    #the stoken then splits it into sentences
-    stoken <- tokenize_sentences(fileName, lowercase = FALSE, strip_punct = FALSE, simplify = FALSE)
-    #lists are a bit annoying to work with, so we unlist that into a vector
-    s2token <- unlist(stoken)
-    #Now we're going to make a dataframe to keep track of the sentences
-    Sentencedf <- data.frame(Sentence = as.character())
-    Sentencedf <- data.frame(Sentence = as.character(s2token))
-    #We need a 3rd stoken value to take out the punctuation.
-    s3token <- tokenize_sentences(s2token, lowercase=TRUE, strip_punct=TRUE, simplify=FALSE)
-    Sentencedf$SentenceStripped <- as.character(s3token)
-    Sentencedf$StemSentence <- stem_strings(Sentencedf$SentenceStripped)
-    
-    for (q in 1:nrow(Sentencedf)) {
-       for (p in 1:length(stemflagterm)) {
-          
-        print(paste0(p," out of ",length(stemflagterm)," search terms. ",q," out of ",length(s2token)," sentences. ",i," out of ",length(files)," files")) 
-         
-        #Note that below, grepl can return TRUE, FALSE, or logical(0). So we only want the true ones.
-        templist <- strsplit(Sentencedf$StemSentence[q]," ")
-         if(any(templist[[1]] == stemflagterm[p])) {
-            tempdf <- data.frame(files[i],stemflagterm[p],q,Sentencedf$Sentence[q])
-              names(tempdf) <- c("Text","Searched_Term","Sentence_No","Sentence")
-              TempDocdf <- rbind(TempDocdf,tempdf)
-              }
-              
-            }
-          }
-    
-    if(nrow(TempDocdf) != 0) {TempDocdf$Sentence_Total <- nrow(Sentencedf)
-      TempDocdf$Sentence_Perc <- TempDocdf$Sentence_No / TempDocdf$Sentence_Total *100
-      SentenceWordFlagdf <- rbind(SentenceWordFlagdf,TempDocdf)}
-  }
-  SentenceWordFlagdf
-}else{print("No pre-processed data available. See 'Pre-Processing Texts' above")}
+WordFlagSentences(files = files,flagterms = flagterms)
+SentenceWordFlagdf
 
 ```
 
@@ -294,9 +245,9 @@ Again if you want to save this output, it can be done with ggsave function.
 For more than 10 searchedterms or texts, multiple plots are the best way of going about this:
 
 ```{r Scatterplot Multi Text, eval=FALSE}
-  for(i in 1:length(flagterm)) {
-    temptitle <- paste0("Appearances of '",flagterm[i],"' within Texts")
-    tempdatadf <- subset(WordFlagdf,WordFlagdf$Searched_Term == flagterm[i])
+  for(i in 1:length(flagterms)) {
+    temptitle <- paste0("Appearances of '",flagterms[i],"' within Texts")
+    tempdatadf <- subset(WordFlagdf,WordFlagdf$Searched_Term == flagterms[i])
     p <- ggplot(tempdatadf, aes(y = as.factor(Text), x = as.numeric(as.character(Lemma_Perc))))
     pg <- geom_point(size=1,pch = 16)
     pl <- p + pg + labs(x = "% of Text (by word)", y = "Text", title = temptitle)
@@ -306,9 +257,9 @@ For more than 10 searchedterms or texts, multiple plots are the best way of goin
 
 However, if this method isn't working, one can simply subset further. For example, if I decide that I am only interested in Middlemarch and Daniel Deronda, I could subset the data in the following way:
 ```{r Scatterplot Multi Text subset, eval=FALSE}
-  for(i in 1:length(flagterm)) {
-    temptitle <- paste0("Appearances of '",flagterm[i],"' within Texts")
-    tempdatadf <- WordFlagdf[grep(flagterm[i],WordFlagdf$Searched_Term),]
+  for(i in 1:length(flagterms)) {
+    temptitle <- paste0("Appearances of '",flagterms[i],"' within Texts")
+    tempdatadf <- WordFlagdf[grep(flagterms[i],WordFlagdf$Searched_Term),]
     p <- ggplot(subset(tempdatadf,tempdatadf$Text %in% c("1863_Middlemarch","1876_Daniel-Deronda")), aes(y = as.factor(Text), x = as.numeric(as.character(Lemma_Perc))))
     pg <- geom_point(size=1,pch = 16)
     pl <- p + pg + labs(x = "% of Text (by word)", y = "Text", title = temptitle)
