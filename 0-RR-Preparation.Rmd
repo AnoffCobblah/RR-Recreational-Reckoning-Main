@@ -131,6 +131,7 @@ For clarity, I have written out parts of this methodology as function which can 
 
 ```{r Functions, eval=FALSE}
 source(paste0(getwd(),"/","WordFlagSentences.R"))
+source(paste0(getwd(),"/","WordFlagLemmas.R"))
 ```
 
 *********************************************************************************************************************************************
