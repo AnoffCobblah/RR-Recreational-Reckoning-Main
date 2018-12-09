@@ -20,6 +20,123 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Associations are a rather simple way of finding out the correlation between two words in your corpus, by using the tm package to create a term document matrix. 
 
+It's worth explaining how this function works in depth, as the tm package surprisingly doesn't make this material easily available. The findAssocs() function makes use of the standard cor() funtion in the stats package of R, which calculates the covariance of two numeric vectors divided by both the standard deviations. What does this mean? To work that out, we're going to have to take a look at some statistics.
+
+##Pearson Coefficents
+In statistics, correlation coefficients are used to measure how strong a relationship between two variables is. There are several types of correlation coefficients, but the most commonly used in linear regression is a Pearson Correlation (Note: Linear regression is a linear approach to modelling the relationship between a dependent variable and an independent variable.) In its simplest form, the Pearson Correlation asks, can I draw a line graph to represent the data?
+
+A correlation coefficient is going to be a number between -1 and 1, where 1 indicates a strong positive relationship between two variables, -1 indicates a negative relationship, and 0 indicates no relationship at all. The absolute value of this coefficient gives the strength of the relationship. For example, a coefficent of 0.8 indicates a stronger relationship between these two variables than a coefficient of 0.6.
+
+The formula for a Pearson coefficient looks like this:
+$$r=\frac{n(\sum xy) - (\sum x)(\sum y)}{\sqrt{[n(\sum x^2) - (\sum x)^2] [n(\sum y^2 - (\sum y)^2)]}}$$
+Suppose we want to know whether Glucose Level is associated with age. We might have the following data:
+
+```{r Glucose Data}
+Glucosedf <- data.frame(Subject = as.numeric(c(1,2,3,4,5,6)), Age = as.numeric(c(43,21,25,42,57,59)),Glucose_Level = as.numeric(c(99,65,79,75,87,81)))
+
+Glucosedf
+```
+
+To manually calculate the Pearson coefficient for the x variable Age and the y variable Glucose_Level, we would want to know what $x^2$, $y^2$, and xy are.
+
+```{r Glucose Data Pearson Pt 1}
+Glucosedf$xy <- (Glucosedf$Age)*(Glucosedf$Glucose_Level)
+Glucosedf$x2 <- (Glucosedf$Age)^2
+Glucosedf$y2 <- (Glucosedf$Glucose_Level) ^2
+
+Glucosedf
+  
+```
+
+So to find the Pearson coefficient, we'd sum up those new rows and plug them into the equation.
+
+```{r Glucose Data Pearson Pt 2}
+sumx <- sum(Glucosedf$Age)
+sumy <- sum(Glucosedf$Glucose_Level)
+sumxy <- sum(Glucosedf$xy)
+sumx2 <- sum(Glucosedf$x2)
+sumy2 <- sum(Glucosedf$y2)
+n <- length(Glucosedf$Subject)
+
+r <- ((n*sumxy) - (sumx * sumy)) / sqrt(((n*sumx2)-(sumx^2))*((n*sumy2)-(sumy^2)))
+r
+
+```
+
+This is a moderate positive correlation.
+
+This process is done more simply by the cor() function in R. Technically cor() can also output Spearman and Kendall correlation formulas. However, the default is to use Pearson correlation. Using the cor() function on the data above, we get the same result
+
+```{r cor test}
+cor(Glucosedf$Age,Glucosedf$Glucose_Level)
+```
+
+
+Note: my understanding of Pearson coefficients comes in large part from these two sources:
+https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/correlation-coefficient-formula/
+http://www.sthda.com/english/wiki/correlation-test-between-two-variables-in-r
+
+##Correlation Coefficients in the tm package
+How does all this apply when we are looking not at numbers, but at words in a text? The key here is that the tm package basically turns the text into a matrix with 1s and 0s indicating whether or not a given word occurs in a given text. For example, we might look at the following test case. A Document Term Matrix for the following character strings looks like this.
+
+```{r tm test 1}
+data <-  c("", "word1", "word1 word2","word1 word2 word3","word1 word2 word3 word4","word1 word2 word3 word4 word5")
+dtm <- DocumentTermMatrix(VCorpus(VectorSource(data)))
+as.matrix(dtm)
+```
+
+The Term Document Matrix looks like this.
+```{r tm test 2}
+data <-  c("", "word1", "word1 word2","word1 word2 word3","word1 word2 word3 word4","word1 word2 word3 word4 word5")
+tdm <- TermDocumentMatrix(VCorpus(VectorSource(data)))
+as.matrix(tdm)
+```
+
+Two different ways of looking at the same data. But both take a series of words and turn them into a matrix composed of differnet variables.
+
+The function findAssocs() will tell you the ways in which variables are correlated with a specific word of interest. For instance, we can tell it to look at a certain Document Term Matrix or Term Document Matrix and output the correlation between the other variables and "word 1." To do so, we will also need to tell the function what the lowest correlation we are interested in. We'll set the minimum correlation to 0 here, so that we see all outputs. Note that the output is the same whether the matrix is arranged as a tdm or a dtm.
+
+```{r tm test 2}
+findAssocs(dtm,"word1",0)
+findAssocs(tdm,"word1",0)
+```
+
+Now, here's the key bit. These outputs come from the cor() function. 
+
+```{r tm test 3}
+cor(as.matrix(dtm)[,"word1"], as.matrix(dtm)[,"word2"])
+cor(as.matrix(dtm)[,"word1"], as.matrix(dtm)[,"word3"])
+```
+
+**So when findAssocs() outputs a value like 0.63, it is NOT saying that 63% of the texts that mention "word1" also mention "word2". It is saying that the Pearson Correlation between "word1" and "word2" in this dataset is 0.63. That is, these words are moderately associated with one another. A coefficient of above 0.7 is generally considered a strong relationship.**
+
+**Based on this understanding, we should be wary of making too much of this function. A Pearson correlation is really only useful if one assumes some sort of linerar relationship exists. For example, if one assumes that there is a linear relationship between "word1" and "word2": for instance, that if "word1" is referenced once, "word2" will be referenced 3 time; if "word1" is referenced twice, "word2" will be referenced rougly 6 times, etc. It is far from obvious that such a linear relationship exists in the English language.**
+
+Note: my understanding of the findAssocs() function is indebted to this stackoverflow posting: https://stackoverflow.com/questions/14267199/math-of-tmfindassocs-how-does-this-function-work.
+
+##Testing findAssocs()
+
+We can test whether findAssocs() is good at suggesting terms which MIGHT be related to one another. I've googled "Five Most Famous Scientists" and "Five Most Famous Artists" and copied the first sentence of their wikipedia entry.
+
+```{r findAssocs test data}
+data <-  c("Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics", "Sir Isaac Newton FRS PRS was an English mathematician, physicist, astronomer, theologian, and author who is widely recognised as one of the most influential scientists of all time, and a key figure in the scientific revolution", "Galileo Galilei was an Italian astronomer, physicist and engineer, sometimes described as a polymath. Galileo has been called the father of observational astronomy, the father of modern physics, the father of the scientific method, and the father of modern science","Marie Skłodowska Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity","Charles Robert Darwin, FRS FRGS FLS FZS was an English naturalist, geologist and biologist, best known for his contributions to the science of evolution","Pablo Ruiz Picasso was a Spanish painter, sculptor, printmaker, ceramicist, stage designer, poet and playwright who spent most of his adult life in France","Vincent Willem van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art","Leonardo di ser Piero da Vinci, more commonly Leonardo da Vinci or simply Leonardo, was an Italian polymath of the Renaissance whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography","Michelangelo di Lodovico Buonarroti Simoni or more commonly known by his first name Michelangelo was an Italian sculptor, painter, architect and poet of the High Renaissance born in the Republic of Florence, who exerted an unparalleled influence on the development of Western art","Andy Warhol was an American artist, director and producer who was a leading figure in the visual art movement known as pop art")
+
+dtm <- DocumentTermMatrix(VCorpus(VectorSource(data)),control = list(removePunctuation = TRUE, stopwords = FALSE, tolower = TRUE, stemming = FALSE, removeNumbers = TRUE, bounds = list(global= c(1,Inf))))
+
+findAssocs(dtm,"science",0.6)
+findAssocs(dtm,"scientists",0.6)
+findAssocs(dtm,"art",0.6)
+findAssocs(dtm,"artist",0.6)
+```
+
+In this small dataset, we do find that the findAssocs() function can be used to determine terms which are likely to be positively associated with one another. We find science associated with astronomy and art associated with the visual and "artist". But we see the limitations as well. "Scientists" is perfectly correlated with "theologian" because the one text that references "scientists", Newton's entry, also mentions "theologian." In contrast, "scientific" is less positively correlated with "scientists" because it is also referenced in Galileo's entry: an entry which doesn't reference "scientists". 
+
+**The lesson in this is that the findAssocs() function is likely only accurate when one is using a large number of documents and carefully considered multiple words of interest.**
+
+
+
+
+##Application
 Before running the code below, you must determine a term or set of terms you want to find correlations for.  Enter these terms in the vector "assocterm" below. **NOTE THAT IF YOU PLAN ON STEMMING THE WORDS IN YOUR CORPUS, YOUR LIST OF TERMS SHOULD BE LEMMATIZED: "work", not "working." If "stemming = TRUE" in your Associations function below, "working" will not appear in the document term matrix, and will return NA.**
 ```{r assocterm, eval=FALSE}
   assocterm <- c("up", "down", "strange", "charm", "top", "bottom")
@@ -28,7 +145,7 @@ Before running the code below, you must determine a term or set of terms you wan
 We must then determine a lower limit for the correlation.  "correlation" is a measure of co-occurrence.  For example, "correlation <- 0.5" will return all terms which co-occur in at least 50% of the texts. **However, it does not include a measure of how close the terms occur to one another within the text.**
 
 ```{r correlation, eval=FALSE}
-  correlation <- 0.8
+  correlation <- 0.1
 ```
 
 Having entered the parameters above, you can now run the actual script.  It will return a summary of the top 3 words for each "assocterm."  **Note that removePunctuation, stopwords, tolower, stemming, removeNumbers, and bounds can all be changed if you want punctuation, articles like "the", numbers, etc. to be included.**  Please note that both require the existence of Processed Data using the "Pre-Processing Data" step above. Also note that as written, this will only output the twenty highest associations. This can be changed below as well.
