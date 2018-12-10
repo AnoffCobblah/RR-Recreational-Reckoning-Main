@@ -1,0 +1,203 @@
+                    854          VL C      •    VO L. 46, N O. 3/4
+                    3. “Constructing                    Scientific        Communities,”                    https://conscicom.org.
+                          (accessed 2 May 2018).
+                    4. For example, the discussions and presentations of the AHRC-funded
+                          seminar on analogy led by Alice Jenkins in Cambridge in 2015 or
+                          Sally Shuttleworth’s recording of the movement of literary texts across
+                          works of psychology in The Mind of the Child: Child Development in
+                          Literature, Science and Medicine, 1840–1900 (Oxford: Oxford
+                          University Press, 2010).
+                    5. Jennifer Calkins’s article on reading Moby Dick in the light of current
+                          cetological research is an excellent example of such work: Jennifer
+                          Calkins, “How Is It Then with the Whale? Using Scientific Data to
+                          Explore Textual Embodiment,” Configurations 18, no. 1–2 (2010):
+                          31–47. See also John Holmes, “Consilience Rebalanced: Edward
+                          O. Wilson on Science, the Humanities and the Meaning of Human
+                          Existence,” Journal of Literature and Science 10, no. 1 (2017): 5–10. My
+                          own forthcoming article on nineteenth-century sleep offers a further
+                          new methodology: Martin Willis, “Sleeping Science Fictionally:
+                          Nineteenth-Century Utopian Fictions and Sleep Research,” Osiris 34,
+                          no. 1 (2019).
+                    6. James Castell, Keir Waddington, and Martin Willis, “Cardiff Science
+                          Humanities,” https://cardiffsciencehumanities.org (accessed 2 May
+                          2018).
+                    Science Fiction
+                    JOHN PLOTZ
+                    F      OUR decades ago, Darko Suvin floated a scholarly approach to sci-
+                           ence fiction that largely still prevails, emphasizing the genre’s reliance,
+                    stretching back beyond Jules Verne to Mary Shelley and beyond, on a
+                    technological “novum.”1 Suvin emphasized the capacity of science fiction
+                    to challenge readers’ conceptual norms by way of what (in a Shklovskyian
+                    vein) he called “cognitive estrangement.” Most critical debate in the inter-
+                    vening years has focused on his account of the “cognitive estrangement”
+                    itself: including Seo-Young Chu’s recent provocative notion that “science
+                    fiction is a representational technology powered by a combination of
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800102X
+
+                                                                                              S C I E N C E FI C T I ON             855
+              lyrical and narrative forces that enable science fiction to generate mimetic
+              accounts of cognitively estranging referents.”2
+                      However, recent taxonomic work points to ways that the genre’s self-
+              definitions and constituent elements have varied enormously over the
+              past century—and helpfully highlights some of the problems entailed
+              in Suvin’s reliance on an explicitly or implicitly technological “novum”
+              as the launching point for that estrangement.3 Fredric Jameson’s decep-
+              tively simple account of temporality in SF has implications that highlight
+              the formal congruity, and the intertextual inheritance, that aligns science
+              fiction with the various realist prose genres that it follows. Jameson even
+              finds a compelling way to bridge the space between the Romantic-era
+              historical novel and the “children of Wells” (that is, the early twentieth-
+              century upsurge in technology-based “hard” science fiction that
+              culminated in the largely American Golden Age of Asimov, Heinlein,
+              and Clarke). Jameson astutely argues that “the late nineteenth-century
+              invention of SF correlates to Walter Scott’s invention of the modern histor-
+              ical novel in Waverley (1814), marking the emergence of a second—
+              industrial—stage of historical consciousness after that first dawning sense
+              of the historicity of society so rudely awakened by the French
+              Revolution.”4 In other words, what Scott did for “historical time,” science
+              fiction did not only for the geological deep time of Lyell and Darwin
+              (for those who doubt, Elie Berthet’s 1876 Parisian caveman romance,
+              Romans Pré-Historiques, is worth a gander) but also, by the early twentieth
+              century, the cosmic vastness of Einsteinian time.
+                      Jameson and Roger Luckhurst’s work may be the spark for a needed
+              paradigm shift. The birth of both science fiction and prose fantasy as new
+              (or newly refashioned) genres in Britain in the 1890s—along with the vir-
+              tually simultaneous rise of a new sort of Lovecraftian horror writing—
+              should prompt some reflection on the speculative genres’ Darwinian
+              rather than Einsteinian roots: that is, the debt that fantasy and SF authors
+              owe to the fin de siècle’s vastly expanded conception of the interpenetra-
+              tion of the human and nonhuman realms. In the late nineteenth cen-
+              tury, evolutionary theory and the emergent “epistemic virtue” of
+              objectivity come to shape not only the deterministic logic of naturalism,
+              but also the otherworldly permutations of fantasy and science fiction,
+              which register a scalar shift in humanity’s relationship to a more expan-
+              sive space and time—and to human interiors suddenly accessible in a
+              range of new ways.5
+                      Science fiction (initially styled “scientific romance” at the time of
+              Verne and Wells, later “scientifiction” by the trendsetting American
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800102X
+
+                    856          VL C      •    VO L. 46, N O. 3/4
+                    periodicals edited by Hugo Gernsback and turned into “science fiction”
+                    proper by successors like John W. Campbell) explores the nonhuman
+                    within human existence—it is a crucial bellwether of changing human
+                    relations to the object as well as the animal world. Like naturalism, fan-
+                    tasy and Lovecraft-era horror, science fiction offered one way to make
+                    sense of the chasm between events—nonhuman in origin, scale and dura-
+                    tion—and human experience—i.e., meaning-making distinctively shaped
+                    by individual subjectivity. These post-Darwinian experiments are unified
+                    by their focus on the cognitive “contact zone” where nonhuman forces
+                    impinge on the limits of human reason or imagination. With their
+                    advent, a vernacular thing theory unfolded—the legacy of which persists
+                    even into the present day, subtly shaping various forms of “posthuman-
+                    ism” and “object-oriented ontology.”6
+                            Taken together, recent accounts of the rise of fantasy as a modern
+                    prose genre, of the early days of science fiction, and of naturalism’s affec-
+                    tive innovations and explicit inversion of Idealism suggest that each genre
+                    was grappling with the resistance of a nonhuman universe to prior
+                    anthropocentric mandates and ontological presumptions.7 The science
+                    fiction of H. G. Wells (“Realist of the Fantastic” was Conrad’s apt title
+                    for him) and his successors worldwide (but especially in Great Britain
+                    and the US) is a complex and subtly varied response to the uncomfort-
+                    able late nineteenth-century realization that man can no longer be the
+                    proper measure, nor perhaps even the proper study, of mankind.
+                    Registering the immensity of alien space and time even within the puta-
+                    tively knowable human realm, sublimates or sublimely displaces ordinary
+                    human agency within a vaster cosmos.8 Simultaneously, the new/old
+                    genre of prose fantasy (sparked by the strange world-making late
+                    romances of William Morris, and then theorized by J. R. R. Tolkien as
+                    “subcreation” or the making of “secondary worlds”) offers the marvelous
+                    as an exemplary subset of human life, life as it might be lived without the
+                    impedances of material actuality.9 Naturalism, fantasy, and science fiction
+                    seem intuitively to be wildly disparate from one another—yet the fin de
+                    siècle efflorescence of enchanted and speculative tales is fueled by the
+                    same concerns about the insistent actuality of the material world as is
+                    disenchanted and determinist naturalism.
+                                                                            NOTES
+                    1. Darko Suvin, “On the Poetics of the Science Fiction Genre,” College
+                          English 34, no. 3 (1972): 372–82.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800102X
+
+                                                                                              S C I E N C E FI C T I ON             857
+              2. Seo-Young Chu, Do Metaphors Dream of Literal Sleep?: A Science-Fictional
+                   Theory of Representation (Cambridge: Harvard University Press, 2010).
+              3. Cf. Roger Luckhurst, Science Fiction (Cambridge: Polity, 2005) and
+                   John Rieder, Science Fiction and the Mass Cultural Genre System
+                   (Middletown: Wesleyan University Press, 2017).
+              4. Fredric Jameson, “In Hyperspace,” London Review of Books, 37, no. 17
+                   (2015): 17–22.
+              5. The term “epistemic virtue” comes from Lorraine Daston and Peter
+                   Galison, Objectivity (New York: Zone Books, 2007).
+              6. See Graham Harman, “The Well-Wrought Broken Hammer:
+                   Object-Oriented Literary Criticism,” New Literary History 43, no. 2
+                   (2012): 183–203; Eugene Thacker, In the Dust of This Planet (Ropley:
+                   Zero, 2011); Matthew A. Taylor, Universes Without Us (Minneapolis:
+                   University of Minnesota Press, 2013).
+              7. On fantasy as a modern prose genre, see Michael Saler, As If: Modern
+                   Enchantment and the Literary Prehistory of Virtual Reality (New York:
+                   Oxford University Press, 2012), and Jamie Williamson, The Evolution
+                   of Modern Fantasy: From Antiquarianism to the Ballantine Adult Fantasy
+                   Series (New York: Palgrave Macmillan, 2015). On the early days of sci-
+                   ence fiction, see David Wittenberg, Time Travel: the Popular Philosophy of
+                   Narrative (New York: Fordham University Press, 2013), as well as
+                   Luckhurst and Rieder. On naturalism’s innovations, see Fredric
+                   Jameson, The Antinomies of Realism (London: Verso, 2013), and Toril
+                   Moi, Henrik Ibsen and the Birth of Modernism: Art, Theater, Philosophy
+                   (Oxford: Oxford University Press, 2006).
+              8. Matthew Beaumont’s effort to link the rise of speculative, scientific,
+                   and utopic fictions to the way that at the fin de siècle time itself
+                   seems to be “off course, beside itself” sells short the complex appa-
+                   ratus that both science fiction and fantasy offer for managing
+                   human temporality within a temporally and spatially vast cosmos.
+                   In fact, early twentieth-century speculative fiction of Wells and his
+                   ilk may be linked to the experimental, off-kilter realism of late
+                   George Eliot and Henry James. Wells’s half-departures from the
+                   actual suggest a new way of understanding modernism’s debt to
+                   that fin de siècle moment, when speculative fiction of various
+                   kinds flourished not in distinction from realism but alongside it,
+                   borrowing its form and its tropes. Matthew Beaumont, The Spectre
+                   of Utopia: Utopian and Science Fictions at the Fin de Siècle (Bern:
+                   Peter Lang, 2012).
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800102X
+
+                    858          VL C      •    VO L. 46, N O. 3/4
+                    9. J. R. R. Tolkien, “On Fairy-Stories,” Tree and Leaf (Boston: Houghton
+                          Mifflin, 1964), 3–84; Mark J. P Wolf, Building Imaginary Worlds: The
+                          Theory and History of Subcreation (New York: Routledge, 2012).
+                    Sensation Fiction
+                    MARLENE TROMP
+                    I    N spite of our recognition of the blurriness of generic boundaries, we
+                          tend to reassert them where sensation fiction is concerned. There is
+                    value in understanding sensation in new ways—and potential political
+                    consequences when we do not. This is especially significant now that
+                    our critical study of sensation fiction has matured to the point that it is
+                    possible to offer reviews of the critical field, like those by Anne-Marie
+                    Beller and Mark Knight.1 Even the most important work in the field
+                    on sensation has often reinforced the binary between sensation and real-
+                    ism.2 The boldest moves have been made by scholars like Richard
+                    Nemesvari, who argues that Hardy understands and deploys melodrama
+                    and sensation in order to offer cultural and ideological critiques.3 While
+                    challenging our sense of the genre’s impact and engagement with realist
+                    fiction, it distinguishes sensation as a distinct mode. Emily Steinlight
+                    offers a similar analysis of Eliot’s fiction and realist fiction more broadly
+                    (as I did in The Private Rod).4
+                            In spite of the careful way in which critics seek to navigate the com-
+                    plex terrains of generic meaning, even these studies have persisted in
+                    treating sensation fiction as an excessive hyper-genre of the “not
+                    real”—a bit of flash and dazzle that emerged (or could be consciously
+                    deployed) in relation to or in realist fiction for effect. This seems striking
+                    given the fact that we have learned to explore real cultural phenomena
+                    like marital violence, the body, property law, and science in new ways
+                    from sensation fiction. While sensation often supplies the leverage to
+                    read against the grain, we often (perhaps unconsciously) return it to
+                    its generic box when we have completed the task.
+                            One of the early critical treatments of sensation sought to blur the
+                    borders between genres. In his 1982 essay on sensation fiction, Patrick
+                    Brantlinger makes a Derridean argument that it is “impossible not to
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:56, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S106015031800102X
+

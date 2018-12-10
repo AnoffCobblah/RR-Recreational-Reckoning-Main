@@ -1,0 +1,204 @@
+                                                                              TE CHNOLO GY, TE LEOLOGY                              905
+              14. Quoted in Paul Fyfe, By Accident or Design: Writing the Victorian
+                     Metropolis (Oxford: Oxford University Press, 2015), 189–90.
+              15. Tom Standage, The Victorian Internet: The Remarkable Story of the
+                     Telegraph and the Nineteenth Century’s On-line Pioneers (New York:
+                     Walker and Company, 1998), 102–03.
+              16. Iwan Rhys Morus, “‘The Nervous System of Britain’: Space, Time,
+                     and the Electric Telegraph in the Victorian Age,” British Journal for
+                     the History of Science 33, no. 4 (2000): 455–75.
+              17. Richard White, Railroaded: The Transcontinentals and the Making of
+                     Modern America (New York: Norton, 2011), 225–28.
+              Teleology
+              DEVIN GRIFFITHS
+                      [It] would not, after all, be a bad sort of teleology to keep it in mind, as a
+                      heuristic fiction or Kantian ‘idea’, in the midst of our political action. . . .
+                      Teleology usually involves the assumption that there is some potential in
+                      the present which could result in a particular sort of future. But this need
+                      not mean that this potential lurks within the present like petals within a
+                      bud. It is present rather in the sense that I have a potential to travel up to
+                      Glasgow right now, which is hardly some kind of secret structure of my
+                      being. Teleology here is just a way of describing where I am in the light of
+                      where I could feasibly get to.
+                                                               —Terry Eagleton, The Illusions of Postmodernism1
+              F     EW words were as reviled in literary criticism and theory of the eight-
+                    ies, nineties, and early aughts as “teleology.” It seems strange when
+              you remember that teleology—derived from the Greek world t<U+03AD><U+03BB><U+03BF><U+03C2>,
+              “end” or “purpose”—simply means interpreting things in relation to
+              their possible goal or outcome. It’s hard to imagine reading a novel with-
+              out any consideration of its conclusion, or a sonnet without considering
+              what its volta seems to do. And, as Eagleton notes, you can’t interpret
+              (much less formulate) politics without addressing the question of pur-
+              pose, the ends desired as well as the means by which those ends might
+              be achieved. In our current moment, as we grapple with the problem
+              of climate change and collective action, as we struggle to figure out
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001158
+
+                    906          VL C      •    VO L. 46, N O. 3/4
+                    what world we are heading toward, the question of ends has never felt
+                    more important.
+                            Eagleton is uncannily sensitive here to the importance of teleology in
+                    the history of thinking about living systems. Teleological thought was espe-
+                    cially important in the long nineteenth century, when generations of writ-
+                    ers, scientists, and thinkers struggled to explain just how things like “petals”
+                    form out of things like “buds.” Immanuel Kant—writing with an eye
+                    toward contemporary science—was enormously important in making pur-
+                    pose a central question for natural philosophy and aesthetics. Natural pur-
+                    poses, he argued, were impossible to discern, given the uncertainty of
+                    natural knowledge, and our uncertainty in a divine author. Yet organisms
+                    are defined by the integration of their organic parts—both the way that dif-
+                    ferent organs fulfill different functions, and the mutual interdependence
+                    of organs and the body. This meant, according to Kant, that the study of
+                    living systems required a presumption that specific parts of those systems
+                    achieve ends that help the whole. This “purposiveness” governs the study
+                    of organic bodies, in Kant’s account, but it also governs works of art, inso-
+                    far as they achieve an analogous integration of elements in a larger effect.
+                    Extended to the analysis of how societies develop and operate (as G. W. F.
+                    Hegel and Karl Marx were quick to do), purposive analysis became a dom-
+                    inant mode for thinking about natural, artistic, and social collectives. It was
+                    also central to the vocabulary of Victorian criticism, which emphasized the
+                    fitness of plot and the aptness of character (putting the “good” in Jesse
+                    Rosenthal’s recent study, Good Form).2
+                            Kant’s purposive philosophy drew on the long-standing concerns of
+                    natural theology, which studied the place of godly design in nature. The
+                    nineteenth century, however, witnessed a crisis in the notion of natural
+                    design, as materialists like Thomas Henry Huxley worked to expunge
+                    questions of purpose from the study of nature. Later histories of the
+                    period have generally endorsed Huxley’s argument for how Charles
+                    Darwin explained away natural purposes, as figured by adaptations, by
+                    describing them as the fruit of chance events. But Darwin’s theory of nat-
+                    ural selection in fact required thinking about purpose: in order to imagine
+                    the natural history of a given adaptation, one had to guess what that
+                    adaptation does, and then explain how that purpose might have devel-
+                    oped through gradual changes in specific behaviors or structures.
+                            Even as it sidelined divine intervention and design, natural selection
+                    required positing what selection selects for—whether the fleetness of the
+                    wolf (which helps capture its prey) or the sweetness of the flower’s nectar
+                    (which lures pollinating insects), to take two of the earliest examples
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001158
+
+                                                                                                         TE LEO LOGY                907
+              given in The Origin of Species. Abandoning the conceit of a divine hand at
+              the wheel, and with it, confidence in teleological certainty, only exacer-
+              bated the problem of explaining how things came to do what they do.
+                      Natural selection fused the question of ends to the methods of nat-
+              ural history, and with it, formulated a softer, more flexible notion of pur-
+              pose for the study of social and natural systems. This does not mean that
+              the program of natural selection was ill-conceived, or hobbled by a cryp-
+              tic metaphysical commitment. A soft teleology is central to any study of
+              natural or social systems in time. All studies of structure, whether morpho-
+              logical or social, raise the problem of purpose; all inquiries into form imply
+              questions of function; all questions of transformation foster the study of new
+              possibilities. Teleology, understood in Eagleton’s terms as the question of
+              “potential in the present” as well as in the past, allows us to imagine
+              change and study its ends.
+                      Adapted as an open hermeneutic, teleology is about exploring pos-
+              sible ends, not faith in a singular outcome. To stress the importance of
+              purposive thinking to current scholarship, I might point to the impor-
+              tance of “affordance” in Caroline Levine’s formalism, or to the role of
+              “anticipation” in Paul Saint-Amour’s recent recounting of trauma theory,
+              or to the growing importance of utopia and science fiction as genres of
+              climate politics.3 Instead, however, I’d like point to teleology’s signifi-
+              cance to the various arguments over reading practices—suspicious vs.
+              reparative, depth vs. surface—that have ranged across the critical litera-
+              ture of the last two decades. These discussions place extraordinary
+              emphasis on the ethical potential of literary analysis, and in doing so,
+              examine the purpose of literature and criticism.
+                      This turn toward purpose has an inherently teleological flavor
+              about it. Beyond its unforgettable reference to Carly Simon, the founda-
+              tional discussion for this line of thinking—Eve Sedgwick’s 1997 essay,
+              “Paranoid Reading and Reparative Reading; or, You’re So Paranoid,
+              You Probably Think This Introduction Is about You”—engrained the
+              problem of purpose into the reparative turn. It begins with a discussion
+              between Sedgwick and the sociologist Cindy Patton about the conspiracy
+              theories that swirled around the AIDS epidemic. Asked whether she
+              believed rumors that the disease was a government-engineered plot to
+              attack black and gay communities, Patton said it was pointless to study
+              the question, as it could only confirm assumptions about the structural
+              violence of the modern state. As Patton put it, “What would we know
+              then that we don’t already know?”4 This marked a hard teleological
+              claim about the purpose of the government, and of AIDS, but also of
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001158
+
+                    908          VL C      •    VO L. 46, N O. 3/4
+                    knowledge. For Sedgwick, this conversation was a revelation: “I suppose
+                    this ought to seem quite an unremarkable epiphany: that knowledge
+                    does rather than simply is.”5 Sedgwick’s reorientation enlarges the ques-
+                    tion of matters of fact to include matters of concern. In asking not simply
+                    whether X is true but also what X would do, Sedgwick exhumed a shared
+                    interest in purpose and a consensus belief in the social ends of facts. All
+                    research is pursued in the belief that the answer will serve a larger end,
+                    and often with an answer in mind. Guesses about both outcome and pur-
+                    pose are conditions of investigation.
+                            In revisiting this moment, I seek to extend its reparative impulse while
+                    elucidating the problematic way it handles purpose. Guesses—whether
+                    about politics or about what research will find—shouldn’t determine
+                    (even if they often influence) the occasion and outcome of the research
+                    itself. To conflate a guess about purpose with certain knowledge is to
+                    erase the distinction between soft and hard teleology, between the study
+                    of possibilities and the assumption of a singular end. Patton’s answer
+                    implied the impossibility of proving the negative: that the government
+                    did not engineer the AIDS epidemic, or that this would matter. But I’m
+                    assuming that it does matter whether the US government engineered
+                    H. I. V. Even as Sedgwick sides against unqualified suspicion, she gives qual-
+                    ified endorsement to a suspicious politics that resonates with today’s mani-
+                    acally suspicious “post-truth” public sphere. Formally, though to radically
+                    different ends, the American right today echoes this skepticism of basic
+                    research, with one important difference (among many) being their suspi-
+                    cion that this research (say, into climate science) will contradict, rather
+                    than confirm, their politics. My key point is that we require a critical but pro-
+                    ductive relation to teleology. Rita Felski suggests suspicious reading and
+                    detective fiction have one real distinction, that in the former, there’s no
+                    real mystery:6 we already know who done it. The paranoid style lives on,
+                    and it knows both too much and not enough about outcomes.
+                            If the hermeneutics of suspicion operates within a relatively closed tel-
+                    eology (the end is presumed), then reparative readings work to open tele-
+                    ology, emphasizing the productive possibilities of the critical encounter.
+                    All research—not just research in the suspicious mode—is teleological: ori-
+                    ented toward ends and purposes. This is one legacy of the nineteenth cen-
+                    tury, with its wide-reaching effort to explain social and natural
+                    entanglement in the absence of design. Our guesses about purpose and
+                    outcome are essential as we try to figure out how we got here, what’s
+                    going on, and where this planet might be headed. It wouldn’t be so bad
+                    to keep in mind that we are always reading with something in mind. Teleology
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001158
+
+                                                                             TELEOLOGY, TEMPORALITY                                 909
+              does not mean we’re caught in a trap; it just means we can’t help thinking
+              about the future. Carly Simon still puts it best: We can never know about the
+              days to come, but we think about them anyway.
+                                                                      NOTES
+              1. Terry Eagleton, The Illusions of Postmodernism (Oxford: Blackwell
+                   Publishers, 1996), 108.
+              2. Jesse Rosenthal, Good Form: The Ethical Experience of the Victorian Novel
+                   (Princeton: Princeton University Press, 2017).
+              3. Caroline Levine, Forms: Whole, Rhythm, Hierarchy, Network (Princeton:
+                   Princeton University Press, 2015); Paul K. Saint-Amour, Tense Future:
+                   Modernism, Total War, Encyclopedic Form (Oxford: Oxford University
+                   Press, 2015). Fredric Jameson has famously argued that we are unable
+                   to imagine a better world, and that science fiction confronts the
+                   impossibility of imagining the future in Archaeologies of the Future: The
+                   Desire Called Utopia and Other Science Fictions (New York: Verso, 2005).
+                   To this, Kim Stanley Robinson responds, “We can imagine utopia;
+                   it’s easy as pie”—it’s imagining how to get there that’s the dilemma
+                   —but “we have come to a moment of utopia or catastrophe; there is
+                   no middle ground. . . . utopia is no longer a nice idea but, rather, a
+                   survival necessity” (“Remarks on Utopia in the Age of Climate
+                   Change,” Utopian Studies 27, no. 1 [2016]: 7, 10).
+              4. Eve Kosofsky Sedgwick, “Paranoid Reading and Reparative Reading,
+                   Or, You’re So Paranoid, You Probably Think This Introduction Is
+                   about You,” in Novel Gazing: Queer Readings in Fiction (Durham: Duke
+                   University Press, 1997), 4.
+              5. Sedgwick, “Paranoid Reading,” 4.
+              6. Rita Felski, “Suspicious Minds,” Poetics Today 32, no. 2 (2011): 215–34, 225.
+              Temporality
+              JACOB JEWUSIAK
+                        HEN Gerard Manley Hopkins reflects on the “grandeur of God,”
+              W         he claims that it “will flame out, like shining from shook foil”
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:49:55, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318001158
+

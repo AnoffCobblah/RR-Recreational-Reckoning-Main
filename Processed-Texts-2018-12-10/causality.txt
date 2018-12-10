@@ -1,0 +1,206 @@
+                    604          VL C      •    VO L. 46, N O. 3/4
+                    2. Caroline Levine, “From Nation to Network,” Victorian Studies 55, no. 4
+                          (2013): 647–66, 647.
+                    3. Faith Smith, Creole Recitations: John Jacob Thomas and Colonial Formation
+                          in the Late Nineteenth-Century Caribbean (Charlottesville: University of
+                          Virginia Press, 2002). Faith Smith’s book was reviewed/discussed by
+                          Leah Rosenberg, Rhonda Cobham, Ifeoma Kiddoe Nwankwo, with a
+                          response by Smith. See “Book Discussion: Faith Smith, Creole
+                          Recitations,” Small Axe 15, no. 2 (2011): 164–208.
+                    4. Evelyn O’Callaghan, Women Writing the West Indies, 1804–1939: “A Hot
+                          Place, Belonging to Us” (London: Routledge, 2004); Raphael P. Dalleo,
+                          Caribbean Literature and the Public Sphere: From the Plantation to the
+                          Postcolonial (Charlottesville: University of Virginia Press, 2011).
+                    5. Gauri Viswanathan, Masks of Conquest: Literary Study and British Rule in
+                          India (New York: Columbia University Press, 1989); Gauri Viswanathan,
+                          Outside the Fold: Conversion, Modernity, and Belief (Princeton: Princeton
+                          University Press, 1998); Ian Baucom, Specters of the Atlantic: Finance
+                          Capital, Slavery, and the Philosophy of History (Durham: Duke University
+                          Press, 2005); Edward W. Said, Culture and Imperialism (New York: Knopf,
+                          1993).
+                    6. Nathan K. Hensley, Forms of Empire: The Poetics of Victorian Sovereignty
+                          (Oxford: Oxford University Press, 2016); see also Tim Watson,
+                          Caribbean Culture and British Fiction in the Atlantic World, 1780–1870
+                          (Cambridge: Cambridge University Press, 2008), 104–86.
+                    7. Christopher Taylor, Empire of Neglect: The West Indies in the Wake of
+                          British Liberalism (Durham: Duke University Press, 2018).
+                    8. Tinaye Mapako, “Gladstone’s Legacy Is Murky: My University
+                          Shouldn’t Glorify It,” in The Guardian, November 24, 2017, https://
+                          www.theguardian.com/education/2017/nov/24/gladstones-legacy-is-
+                          murky-my-university-shouldnt-glorify-it.
+                    Causality
+                    TINA YOUNG CHOI AND EDWARD JONES-IMHOTEP
+                    I    N the days following the 1865 derailment at Staplehurst, The Times
+                          offered an unsparing analysis of the factors leading to the accident:
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:40:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000360
+
+                                                                                                           CAUS ALI TY              605
+              “If the plate layer were accurate, and if the trains were punctual, and if
+              the work were successful, and if the signals were properly placed, and
+              if the day were not too bright nor yet too foggy, and if the engine driver
+              were always looking out, and if the breaks [sic] were patent, the train
+              might be safe; but a failure in one of these elements might render all
+              the rest abortive.” This enumeration of the multiple, interdependent
+              conditions and circumstances underlying railway safety was as much a sar-
+              castic indictment of “modern railway management” as a recognition of
+              the difficulty of assigning a single cause within what the article terms
+              such a “complex system.”1
+                      Literary critics have often associated the representation of com-
+              plex causality with twentieth-century narrative. Brian Richardson, for
+              example, investigating what he calls “one of the most neglected and
+              undertheorized topics of narrative theory and criticism,” situates his
+              study of causality in the twentieth century, when “the first major cracks
+              in the mechanistic causal models so diligently constructed” in earlier
+              periods appeared.2 So, too, while recognizing that Modernism’s
+              “increasing specificity, multiplicity, complexity, probability, and uncer-
+              tainty of causal knowledge” has nineteenth-century origins, Stephen
+              Kern nonetheless locates a critical “historical pivot” in causal under-
+              standing only at the century’s end.3 Still, critics like Gillian Beer
+              and George Levine have uncovered how fully Victorian writers—
+              Darwin, Dickens, Eliot, among others—acknowledged the role of
+              chance and how they moved beyond the teleologies, both theological
+              and scientific, that had governed earlier narratives.4 A key figure in
+              both critics’ accounts, Darwin expanded the period’s understanding
+              of causality not only by envisioning its secular modes of action but
+              also by extending its temporal scope. The vision he offers in his best-
+              known work (which in fact traces not origins but causes) reads like an
+              inversion of the Times article, the latter’s dismay replaced by wonder.
+              But in both lies a recognition that long, complex causalities might
+              become legible in singularity: “we regard every production of nature
+              as one which has had a history; . . . we contemplate every complex
+              structure and instinct . . . exactly in the same way as when we look
+              at any great mechanical invention as the summing up of the labour,
+              the experience, the reason, and even the blunders of numerous
+              workmen.”5
+                      What would it mean to look upon the productions of the world, as
+              these two writers do, as systems, as summings-up of multiple, intertwined
+              causes? An appreciation for complex causality took shape, we suggest,
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:40:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000360
+
+                    606          VL C      •    VO L. 46, N O. 3/4
+                    across Victorian scientific, technological, and literary discourse, which
+                    investigated the decidedly non-mechanistic ways in which causes oper-
+                    ated: the incremental, slow causalities of early-Victorian geology and nat-
+                    ural history; the distributed, often latent causalities cited in technological
+                    failure; the distant causalities traced by epidemiological writing; the over-
+                    determined causalities of accidents. Narrative could reveal what was
+                    invisible—causalities otherwise hidden by time and distance—but it
+                    also had the power to constitute relationships, to conjure through causal
+                    explanation an intricate and “complex system.”
+                            With a range and complexity often exceeding what the report,
+                    history, or novel typically allowed, causal explanation also came to test
+                    the very limits of narrative. The size and length of works like Lyell’s
+                    Principles of Geology and Dickens’s Bleak House, their incremental publica-
+                    tion and the reader’s incremental progress, all attest to the challenge of
+                    representing slow causalities. Lyell dramatizes the gradual, otherwise
+                    invisible geological processes on the page, animating the formation of
+                    new seas or the rising of layers of earth, whose occurrence is otherwise
+                    “only present to our minds by the aid of reflection.”6 Bleak House enacts
+                    its own slow process, its marriage and detection plots unfurling over
+                    many chapters, through the long causalities of inheritance and descent,
+                    of personal memory, social pressures, and intertwined lives. Encouraging
+                    readers to look beyond the local and the proximate, Victorian novels
+                    uncovered not causes but rather causalities, the “operation[s] or rela-
+                    tion[s] of cause and effect.”7 Who can say, Eliot’s narrator in
+                    Middlemarch might have asked, what “causes” Nicholas Bulstrode’s down-
+                    fall or Dorothea Brooke’s second marriage, what combination of circum-
+                    stances, coincidences, emotions, motives, and events?
+                            Explanations of the preeminent technological accidents of the
+                    age—railway disasters—similarly tested the limits of narrative, just as
+                    they resisted translation into familiar forms like melodrama.8 Official
+                    accident reports struggled to trace lines of causation that linked the
+                    actions of people and machines to catastrophic events. Their explana-
+                    tions often overflowed the columns of the neat tabular forms that
+                    recorded the date, victims, “nature” and “cause” of Victorian railway acci-
+                    dents. In his detailed investigation of the 1844 Shields accident, the offi-
+                    cial inspector, Joshua Coddington, confessed that he was forced to start
+                    “a little wide of the mark,” with a short history of the railway, its economic
+                    failures, the dilapidated state of its engines, and the sequence of freak
+                    coincidences and human errors that sent trains headlong into each
+                    other on the morning of 8 October.9 These reports identified a cast of
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:40:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000360
+
+                                                                                                           CAUS ALI TY              607
+              characters—not only tragic victims but partially-redeemed culprits: intel-
+              ligent but overworked signalmen and panicked engine-drivers. They
+              implicated features of landscape—icy inclines; collapsed slopes; blind
+              turns. And they focused heavily on the properties and behavior of
+              materials, pointing to latent flaws in cast iron, “marks of violence,”
+              “points of fracture,” and carefully reconstructed accident scenes.10
+              Through their sometimes tortured narration of accidents, they assembled
+              the complex systems that coordinated humans and materials to produce
+              the unforeseen and the unforeseeable.
+                      These systems of narration and narrated systems signaled a new
+              overdetermination in Victorian causality. They furnished structures of
+              culpability and causation that increasingly allowed material causes to
+              be substituted for human causes and vice versa.11 By the 1860s, the
+              Victorian popular press mirrored these understandings, as the
+              Staplehurst accident showed. By the time of the catastrophic 1868
+              Abergele accident, the Saturday Review warned that the complex, over-
+              determined causation created by the railway system had made accidents
+              inevitable: “It is as though railway accidents were, of some set purpose, so
+              arranged and diversified as to make the impossible possible, and to
+              exhaust every conceivable, or even inconceivable, variety of the remotest
+              and most unlikely danger.” In an appeal to the emerging science of the
+              indeterminate, the article argued that Quetelet himself would have been
+              hard-pressed to calculate the probabilities involved.12
+                      These literary, bureaucratic, and journalistic accounts situated
+              events within a wider geography of social, temporal, and spatial relations,
+              one implicated not only in traditional concerns about the individual,
+              technologies, gender, and social class, but also in changing ideas about
+              probability, causation, and the potentialities of complex systems.13 In
+              doing so, they also created distinctively modern explanatory structures
+              for thinking about responsibility, accident, and social order in an age
+              of complex causality.14
+                                                                      NOTES
+                1. [“The inquest upon the sufferers of the late accident”], Times
+                     (London, U. K.), June 21, 1865.
+                2. Brian Richardson, Unlikely Stories: Causality and the Nature of Modern
+                     Narrative (Newark: University of Delaware Press, 1997), 14, 29.
+                3. Stephen Kern, A Cultural History of Causality: Science, Murder Novels, and
+                     Systems of Thought (Princeton: Princeton University Press, 2004), 13.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:40:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000360
+
+                    608          VL C      •    VO L. 46, N O. 3/4
+                       4. Gillian Beer, Darwin’s Plots: Evolutionary Narrative in Darwin, George Eliot
+                            and Nineteenth-Century Fiction (Cambridge: Cambridge University Press,
+                            1983); George Levine, Darwin and the Novelists: Patterns of Science in
+                            Victorian Fiction (Chicago: University of Chicago Press, 1988).
+                       5. Charles Darwin, The Origin of Species (Harmondsworth: Penguin,
+                            1982), 456.
+                       6. Charles Lyell, Principles of Geology, ed. James Secord (London:
+                            Penguin, 1997), 31.
+                       7. “causality, n.,” OED Online, Oxford University Press, http://www.oed.
+                            com (accessed July 20, 2018).
+                       8. Ralph Harrington, “The Railway Accident: Trains, Trauma, and
+                            Technological Crisis in Nineteenth-Century Britain,” in Traumatic
+                            Pasts: History, Psychiatry, and Trauma in the Modern Age, 1870–1930,
+                            ed. Mark S. Micale and Paul Lerner (Cambridge: Cambridge
+                            University Press, 2010), 31; Matthew Wilson Smith, “Victorian
+                            Railway Accident and the Melodramatic Imagination,” Modern
+                            Drama 55, no. 4 (2012): 499.
+                       9. Joshua Coddington, “Report on accident at South Shields,”
+                            Parliamentary Papers 1846 (15): xxxix, 61.
+                    10. Janet Cutler, “Neglected Historical Sources: The Railway Inspectors
+                            Reports,” History Workshop Journal 27, no. 1 (1989): 174–75.
+                    11. Peter Galison, “An Accident of History,” in Atmospheric Flight in the
+                            Twentieth Century, ed. Peter Galison and Alex Roland (Dordrecht:
+                            Springer Netherlands, 2000), 39.
+                    12. “The Railway Calamity,” Saturday Review of Politics, Literature, Science
+                            and Art 26, no. 670 (1868): 281–82.
+                    13. Tina Young Choi, Anonymous Connections: The Body and Narratives of
+                            the Social in Victorian Britain (Ann Arbor: University of Michigan
+                            Press, 2016); Elaine Freedgood, Victorian Writing About Risk:
+                            Imagining a Safe England in a Dangerous World (Cambridge:
+                            Cambridge University Press, 2006); Theodore M. Porter, Trust in
+                            Numbers: The Pursuit of Objectivity in Science and Public Life
+                            (Princeton: Princeton University Press, 1995).
+                    14. Paul Fyfe, By Accident or Design: Writing the Victorian Metropolis (Oxford:
+                            Oxford University Press, 2015).
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:40:20, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000360
+

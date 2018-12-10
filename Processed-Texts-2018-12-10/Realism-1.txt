@@ -1,0 +1,238 @@
+                                                                                                               REALISM              835
+              Many thanks to Yoon Sun Lee and Sarah Ann Wells for their insightful
+              comments on an earlier draft; to Lauren Goodlad for ongoing
+              Jameson conversation; and to Jenny Wale for her research assistance.
+              Realism
+              IAN DUNCAN
+                                                                 1 - IMMANENCE
+              R      EALISM achieves critical mass in 1856, the year George Eliot turns to
+                       writing fiction. She and George Henry Lewes read volume three of
+              Ruskin’s Modern Painters, in which the Oxford English Dictionary records
+              the first use of the word to denote a representational code in art or liter-
+              ature. Writing in the Westminster Review in April, Eliot comments: “The
+              truth of infinite value that [Ruskin] teaches is realism—the doctrine
+              that all truth and beauty are to be attained by a humble and faithful
+              study of nature, and not by substituting vague forms, bred by imagination
+              on the mists of feeling, in place of definite, substantial reality.”1 Eliot’s
+              essay “The Natural History of German Life” (hereafter NHGL), pub-
+              lished in the same journal three months later (two months before
+              Eliot begins “The Sad Fortunes of Amos Barton”), opens with a medita-
+              tion on realism, although Eliot doesn’t use the term.
+                      Lewes does, in an 1858 essay, “Realism in Art: Modern German
+              Fiction,” which elaborates the aesthetic principles outlined in NHGL
+              and developed by George Eliot in the famous seventeenth chapter of
+              Adam Bede. For Lewes, realism is not antithetical to idealism (a fallacy
+              that disables most German efforts in the novel) but is the authentic
+              mode of expressing it; it is “that legitimate form of idealization which
+              consists in presenting the highest form of reality.”2 The head of Christ
+              by Titian has “its profound significance and idealism in the wonderful
+              reality of the presentation; the head is more intensely human than any
+              other representation of Christ, but the humanity is such as accords
+              with our highest conceptions.” For this, a photographic fidelity to exter-
+              nal appearances is not enough. Realism also requires the artist’s invest-
+              ment of sentiment, “sympathy with the internal life.”3 Ethical as well as
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000979
+
+                    836          VL C      •    VO L. 46, N O. 3/4
+                    aesthetic, realism’s sympathetic transaction recognizes a universal
+                    humanity latent within our individual, everyday selves.
+                                                                       2 - MEDIATION
+                    Realism’s goal is recognition: not just of a world composed of contingent,
+                    particular phenomena but of the immanence of the ideal in the
+                    real—“truth and beauty” in “definite, substantial reality,” “beauty in . . .
+                    commonplace things.”4 Victorian realism is a representational technol-
+                    ogy of mediation: between the actual and ideal, particular and general,
+                    individual and species. This distinguishes it from the “formal realism,”
+                    posited on a primacy of individual experience, which drives the
+                    eighteenth-century “rise of the novel” according to Ian Watt, whose influ-
+                    ential thesis may have weighed too heavily in accounts of nineteenth-
+                    century practice.5 Victorian realism models the scientific technique of
+                    induction, eliciting general laws from the interaction of “thoughts and
+                    things,” described by William Whewell in his disciplinary synthesis The
+                    Philosophy of the Inductive Sciences.6 George Levine has pinned George
+                    Eliot’s realism to her “Positivist idealism” and the scientific method of
+                    Lewes and John Tyndall.7 More recently, Catherine Gallagher has argued
+                    that the conception of novelistic character as a mediating figure between
+                    particular individual and general type is crucial to the rhetoric of fiction-
+                    ality in the regime of realism; and that George Eliot’s novels press this
+                    rhetoric to an affective limit—articulating a yearning for particularity
+                    as embodiment, shared between character and reader, in countercurrent
+                    to the reach for the ideal (truth and beauty) through the local empirical
+                    case.8
+                            Some of the more compelling accounts of realism have described its
+                    mediation as operating between the individual and what Lewes and Eliot
+                    (after Auguste Comte and Herbert Spencer) called the “social organism”
+                    or “social medium.” Where Daniel Defoe’s novels predicate their realism
+                    upon a protagonist’s alienation or isolation, in Watt’s account,9
+                    nineteenth-century fiction socializes reality—as Franco Moretti has
+                    argued with reference to key realist forms, the Bildungsroman and free
+                    indirect discourse.10 For Georg Lukács, the great works of European real-
+                    ism articulate a dialectical relation between the individual life and its
+                    social totality via the invention of a new characterological figure, the his-
+                    torical type.11 Elizabeth Deeds Ermarth makes the case for realism as a
+                    technology of “consensus,” analogous with Renaissance pictorial
+                    vanishing-point perspective, which aligns individual subjectivities within
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000979
+
+                                                                                                               REALISM              837
+              a unified virtual space.12 And Rae Greiner’s account of “sympathetic real-
+              ism” defines sympathy as a formal operation, rather than affective con-
+              tent, through which the imagination composes a shared continuum of
+              feeling and cognition amid the unknowable minds of others, in a mod-
+              ern “society of strangers.”13
+                                                                 3 - HUMANITY
+              What if we consider the human rather than the social as the totality
+              invoked by Victorian realism? Admiring Titian’s Christ for its realization
+              of an exalted idea of humanity, Lewes reiterates the displacement of the reli-
+              gious sense from the divine to the human argued in the landmark works
+              translated by George Eliot at the outset of her career: David Strauss’s Life
+              of Jesus, Ludwig Feuerbach’s Essence of Christianity. The human and the social
+              often stand synecdochally for one another, in an equation established in
+              Scottish Enlightenment philosophical anthropology—a critical juncture in
+              the genealogy of British realism, as Greiner shows in her discussion of
+              Adam Smith’s Theory of Moral Sentiments.14 Sociability became a bulwark of
+              human exceptionalism once “man” was fully embedded in natural history,
+              since sociability was the engine of progress in that uniquely human adven-
+              ture, the perfectibility of the species. It provides a humanist frame for
+              Lukács’ Marxism, in which “the unbroken upward evolution of mankind”
+              proceeds upon “the organic, indissoluble connection between man as a
+              private individual and man as a social being.”15 But this premise of the
+              new anthropology was contested at its foundation, with Jean-Jacques
+              Rousseau’s denial that sociability was a fundamental constituent of human
+              nature in his Discourse on the Origins of Inequality. A little over a century later
+              Charles Darwin would mount an assault from the other side, arguing in
+              The Descent of Man that the “social instinct” was not only intrinsic to human
+              nature but also prior to it, shared by other animals, so that its byproducts,
+              morality and conscience, could no longer count as uniquely human facul-
+              ties. Flourishing between Rousseau and Darwin, realist fiction claimed as
+              its scientific analogue “the history of man,” as George Eliot writes at the open-
+              ing of Middlemarch, “and how the mysterious mixture behaves under the vary-
+              ing experiments of Time.”16 Realism’s mediation between individual life and
+              species being charges both with ontological solidity. Victorian realism is thus
+              indeed, as Ermarth argues, the literary equivalent of vanishing-point per-
+              spective, a repertoire of techniques to secure the human at the center of real-
+              ity in place of God: at the same time that the Victorian natural sciences are
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000979
+
+                    838          VL C      •    VO L. 46, N O. 3/4
+                    rewriting reality as radically inhuman, in spatial and temporal scale, in histor-
+                    ical direction.
+                                                               4 - HUMANISM:          LIBERALISM
+                    The “problem of justifying distinction in a world that presumes common
+                    humanity beneath surface differences is central to the moral economy of
+                    mid-nineteenth-century realism,” writes John Plotz, provocatively character-
+                    izing the realist novel as the genre of “liberal guilt.”17 In Bleak Liberalism
+                    Amanda Anderson mounts a strong defense of the liberal politics of
+                    Victorian realism’s work of mediation—reconciling a tragic or satiric
+                    (“bleak”) knowledge of injustice and suffering with an efficacious sympathy.
+                    Assimilating to this argument works that are formally quite different, Bleak
+                    House as well as Middlemarch and The Way We Live Now, Anderson pitches
+                    hercase fora unified liberal aesthetic of Victorian “high realism” against ideo-
+                    logical formations that are historically outside it (closing upon us now).18
+                            It remains crucial, nevertheless, to acknowledge tendencies within
+                    Victorian realism that push against this broadly liberal aesthetic.
+                    Darwin’s work constitutes a horizon of Victorian realism in the sense
+                    not only of a fulfillment of its logic but of a limit at which the formation
+                    begins to disintegrate, insofar as Darwinian natural history dethrones
+                    man from nature’s center and history’s end. As other categories—notably
+                    “life”—take humanity’s privileged place, the field of representation admits
+                    potentials of the inhuman and posthuman, as Elizabeth Grosz argues in
+                    her philosophical reflections on Darwin and Henri Bergson.19 Near the
+                    end of Middlemarch, Dorothea’s epiphany of “involuntary, palpitating
+                    life”20 opens onto a new totality that enfolds the human but also exceeds
+                    it and ultimately, in the stream of evolutionary time, dissolves it. “Judging
+                    from the past,” writes Darwin, “we may safely infer that not one living spe-
+                    cies will transmit its unaltered likeness to a distant futurity.”21 We see why
+                    provincial life has become the topos of Victorian realism: it offers a protec-
+                    tive enclosure for the history of man, a sanctuary of slow time, within which
+                    the mysterious mixture may remain, or seem to remain, stable.
+                            As for Bleak House, populated by grotesque life-forms in the process
+                    of speciation (although not on Darwinian principles), its division of the
+                    narrative splitting the grammatical components (first versus third person,
+                    past historic versus present tense) of realism’s core technique, free indi-
+                    rect discourse: Dickens’s novel effects a denial at the level of form of that
+                    world held in common—a shared social universe, a singular humanity—
+                    that is realism’s premise. “The word humanity strikes us as strangely
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000979
+
+                                                                                                               REALISM              839
+              discordant, in the midst of these pages; for, let us boldly declare it, there
+              is no humanity here,” Henry James complains of a later Dickens novel
+              (Our Mutual Friend): “[Humanity] is in what men have in common
+              with each other, and not in what they have in distinction. [Dickens’s char-
+              acters] have nothing in common with each other, except the fact that
+              they have nothing in common with mankind at large.”22 Dickens’s insight
+              gains force on the far side of Victorian realism’s project of anthropomor-
+              phic salvage.
+                                                                      NOTES
+                1. [George Eliot], “Art and Belles Lettres,” Westminster Review 65 (April
+                     1856): 626.
+                2. [G. H. Lewes], “Realism in Art: Recent German Fiction,” Westminster
+                     Review 70 (October 1858): 274.
+                3. Lewes, “Realism in Art,” 274.
+                4. Eliot, “Art and Belles Lettres,” 626; Adam Bede, ed. Carol A. Martin
+                     (Oxford: Oxford University Press, 2008), 162.
+                5. Ian Watt, The Rise of the Novel: Studies in Defoe, Richardson and Fielding
+                     (Berkeley: University of California Press, 1957).
+                6. William Whewell, The Philosophy of the Inductive Sciences: Founded upon
+                     their History, 2 vols. (London: J. W. Parker, 1847), 2: 17, 24.
+                7. George Levine, “George Eliot’s Hypothesis of Reality,”
+                     Nineteenth-Century Fiction 35, no. 1 (1980): 1–28, 2–4.
+                8. Catherine Gallagher, “The Rise of Fictionality,” in The Novel, Vol. 1:
+                     History, Geography, and Culture, ed. Franco Moretti (Princeton:
+                     Princeton University Press, 2006), 336–63; “George Eliot:
+                     Immanent Victorian,” Representations 90, no. 1 (2005): 61–74.
+                9. See Marina MacKay, “The Wartime Rise of The Rise of the Novel,”
+                     Representations 119, no. 1 (2012): 119–43.
+              10. Franco Moretti, The Way of the World: The Bildungsroman in European
+                     Culture (London: Verso, 1987); “Serious Century,” in The Novel,
+                     Vol. 1, ed. Moretti, 364–400.
+              11. Georg Lukács, Studies in European Realism: A Sociological Survey of the
+                     Writings of Balzac, Stendhal, Zola, Tolstoy, Gorki and Others, trans.
+                     Edith Bone (New York: Grosset & Dunlap, 1964).
+              12. Elizabeth Deeds Ermarth, Realism and Consensus in the English Novel:
+                     Time, Space and Narrative (Princeton: Princeton University Press,
+                     1983).
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000979
+
+                    840          VL C      •    VO L. 46, N O. 3/4
+                    13. Rae Greiner, Sympathetic Realism in Nineteenth-Century British Fiction
+                            (Baltimore: Johns Hopkins University Press, 2012); James Vernon,
+                            Distant Strangers: How Britain Became Modern (Berkeley: University of
+                            California Press, 2014), 18–19.
+                    14. Greiner, Sympathetic Realism, 17–23.
+                    15. Lukács, Studies in European Realism, 3, 8.
+                    16. George Eliot, Middlemarch, ed. Rosemary Ashton (Harmondsworth:
+                            Penguin, 1994), 3.
+                    17. John Plotz, “Is Realism Failing? The Rise of Secondary Worlds,” Novel
+                            50, no. 3 (2017): 426–35, 427.
+                    18. Amanda Anderson, Bleak Liberalism (Chicago: University of Chicago
+                            Press, 2016), 46–77.
+                    19. Elizabeth Grosz, Becoming Undone: Darwinian Reflections on Life, Politics,
+                            and Art (Durham: Duke University Press, 2011), 11–25, 26–35.
+                    20. Eliot, Middlemarch, 788.
+                    21. Charles Darwin, On the Origin of Species, ed. William Bynum (London:
+                            Penguin, 2009), 436.
+                    22. Henry James, review in The Nation, December 21, 1865, in Charles
+                            Dickens: The Critical Heritage, ed. Philip Collins (London: Routledge
+                            & Kegan Paul, 1971), 471.
+                    Religion
+                    ILANA M. BLUMBERG
+                    “W             HAT ‘religion’ turns out to be in a given time, place, writer, or
+                                   text when not constituted in advance” by any critical theory is
+                    often “revelatory,” says the postsecular critic Lori Branch.1 Nowhere is
+                    this truer than in the mid-century prose of such writers as George
+                    Eliot, Matthew Arnold, and John Stuart Mill, whose varied uses of the
+                    term “religion” reveal a word itself in transformation, at times referring
+                    backward to an established social and spiritual order of Christian practice
+                    and belief while, more often, projecting toward a future order of moral
+                    and psychological orientation still in the making. In 1888, Mary
+                    Augusta Ward sought to catch the extraordinary activity compressed in
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:52, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000979
+

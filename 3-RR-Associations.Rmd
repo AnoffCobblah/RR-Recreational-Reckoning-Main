@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 *********************************************************************************************************************************************
 *********************************************************************************************************************************************
 
-# Associations: Correlation between words across texts.
+# tm's findAssocs(): Correlation between words across texts.
 
 Associations are a rather simple way of finding out the correlation between two words in your corpus, by using the tm package to create a term document matrix. 
 
@@ -165,3 +165,197 @@ if(file.exists(ProcessedDataLocation) == TRUE) {
 }else{print("No pre-processed data available. See 'Pre-Processing Texts' above")}
 
 ```
+
+#quanteda's feature co-occurence matrix
+
+##fcm's explained
+
+The quanteda package allows a definition of "association" that is a bit easier to intuit, but less satisfying if one's goal is to treat these words as variables in an experiment whose statistical significance is to be measured. The feature co-occurance matrix measures the co-occurences of features within a user-defined context: a document or a "window" within a collection of documents. This is easiest to demonstrate if we return to our previous dataset.
+
+```{r quanteda test data}
+data <-  c("", "word1", "word1 word2","word1 word2 word3","word1 word2 word3 word4","word1 word2 word3 word4 word5")
+```
+
+In quanteda, the first thing you want to do is construct a corpus (http://quanteda.io/reference/corpus.html). This should be a character vector with one document per element, a data.frame whose document id is a variable identified by docid_field,**a kwic object** (http://quanteda.io/reference/kwic.html) or a VCorpus created by the package tm. In this case, we'll treat each of the elements of the vector "data" as a different document.
+```{r quanteda test corpus and dfm}
+dc <- corpus(data, docnames = NULL)
+```
+
+It's worth pointing out that once you have this corpus, you can create a document feature matrix, which is quanteda's version of the document term matrices of the tm package.
+```{r quanteda test dfm}
+datadfm <- dfm(dc,tolower = TRUE, stem=FALSE)
+datadfm
+```
+
+Feature co-occurence matrices can "count" the number of times terms co-occur in a few different ways. Let's start with the simplest: frequency. If we define the context as being a document, and the count as being frequency, then the frequency co-occurrence matrix will output the number of times two words occur within the same document. For instance, the co-occurrence of word1 and word 2 is four, because they co-occure in data[3,4,5,6].
+
+```{r quanteda fcm text}
+datafcm <- fcm(dc,context="document",count = "frequency")
+datafcm
+```
+
+However, and this is key, "count = frequency" is just counting the number of co-occurences, not the number of documents in which they co-occur. If we change our data slightly, we can see this. The co-occurrence of word1 and word2 goes up significantly thanks to a new entry with multiple references to word2.
+
+```{r quanteda fcm test2}
+data <-  c("", "word1", "word1 word2","word1 word2 word3","word1 word2 word3 word4","word1 word2 word3 word4 word5","word1 word2 word2 word2 word2")
+dc <- corpus(data, docnames = NULL)
+datafcm <- fcm(dc,context="document",count = "frequency")
+datafcm
+```
+
+If we just want to measure whether or not the words co-occur in a document, we can use "count=boolean" to find the number of documents in which both occur.
+
+```{r quanteda fcm test3}
+data <-  c("", "word1", "word1 word2","word1 word2 word3","word1 word2 word3 word4","word1 word2 word3 word4 word5","word1 word2 word2 word2 word2")
+dc <- corpus(data, docnames = NULL)
+datafcm <- fcm(dc,context="document",count = "boolean")
+datafcm
+```
+
+Instead of a full document, you can set the context to "window" and set the window as a positive integer value for the size of the window on either side. The default is 5, meaning 5 words before and after the target feature. If you set "span_sentence = FALSE", the windo will not span across sentences. So in the example below, we learn that in these documents, word2 only occurs within a window of 2 words of word1 6 times. 
+
+```{r quanteda fcm boolean}
+data <-  c("", "word1", "word1 word2","word1 word2 word3","word1 word2 word3 word4","word1 word2 word3 word4 word5","word1 word2 word2 word2 word2")
+dc <- corpus(data, docnames = NULL)
+
+datafcm <- fcm(dc,context="window",count = "frequency",window=2L, span_sentence = TRUE)
+datafcm
+
+```
+
+You can also set the count to be "weighted" if you want appearances of the word closer to the target to be weighted more heavily. The default is "weights = 1L." In the example below, word5 has a co-occurrence of 0.25 with word1 because I've set the weight so that words decrease by 1/distance for every word they are away. word5 only co-occurrs with word1 once, and it is 4 words away, hence 0.25.
+
+
+```{r quanteda fcm boolean}
+data <-  c("", "word1", "word1 word2","word1 word2 word3","word1 word2 word3 word4","word1 word2 word3 word4 word5","word1 word2 word2 word2 word2")
+dc <- corpus(data, docnames = NULL)
+datafcm <- fcm(dc,context="window",count = "weighted",window=5L,weights = 5L)
+datafcm
+
+```
+
+As I noted, the data for an fcm does not need to be a character vector. You can inpu a dfm. This has the advantage of letting you stem words and numbers ahead of time. It does not matter for this particular data set. But as we will see, this can be very useful.
+
+```{r quanteda fcm test3}
+data <-  c("", "word1", "word1 word2","word1 word2 word3","word1 word2 word3 word4","word1 word2 word3 word4 word5","word1 word2 word2 word2 word2")
+dc <- corpus(data, docnames = NULL)
+datafcm <- fcm(dc,context="document",count = "frequency")
+datafcm <- fcm(datadfm,context="document",count = "boolean")
+datafcm
+```
+
+##Testing fcm's
+
+To test whether fcm's are good at showing associations between words, let's turn again to my example of scientist and artist wikipedia entries. I've googled "Five Most Famous Scientists" and "Five Most Famous Artists" and copied the first sentence of their wikipedia entry. If we enter this data straight, we get an fcm with a lot of different words. I'm using Boolean, as I am really interested in words that occur in different documents rather than how often they occur in the corpus.
+
+```{r fcm test data}
+data <-  c("Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics", "Sir Isaac Newton FRS PRS was an English mathematician, physicist, astronomer, theologian, and author who is widely recognised as one of the most influential scientists of all time, and a key figure in the scientific revolution", "Galileo Galilei was an Italian astronomer, physicist and engineer, sometimes described as a polymath. Galileo has been called the father of observational astronomy, the father of modern physics, the father of the scientific method, and the father of modern science","Marie Skłodowska Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity","Charles Robert Darwin, FRS FRGS FLS FZS was an English naturalist, geologist and biologist, best known for his contributions to the science of evolution","Pablo Ruiz Picasso was a Spanish painter, sculptor, printmaker, ceramicist, stage designer, poet and playwright who spent most of his adult life in France","Vincent Willem van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art","Leonardo di ser Piero da Vinci, more commonly Leonardo da Vinci or simply Leonardo, was an Italian polymath of the Renaissance whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography","Michelangelo di Lodovico Buonarroti Simoni or more commonly known by his first name Michelangelo was an Italian sculptor, painter, architect and poet of the High Renaissance born in the Republic of Florence, who exerted an unparalleled influence on the development of Western art","Andy Warhol was an American artist, director and producer who was a leading figure in the visual art movement known as pop art")
+dc <- corpus(data, docnames = NULL)
+datafcm <- fcm(dc,context="document",count = "boolean")
+datafcm
+
+```
+
+The result is a 170x170 matrix. If we want to find the topfeatures in this matrix, we can use the topfeatures() function (https://rdrr.io/cran/quanteda/man/topfeatures.html). We can then use fcm_select() [https://www.rdocumentation.org/packages/quanteda/versions/1.3.13/topics/dfm_select] to only plot those parts in a network, using texplot_network() [https://www.rdocumentation.org/packages/quanteda/versions/1.3.14/topics/textplot_network].
+
+```{r fcm test data net}
+feat <- names(topfeatures(datafcm,n = 30, decreasing = TRUE))
+
+fcm_select(datafcm,feat,verbose = FALSE) %>%
+  textplot_network(min_freq = 1, omit_isolated = TRUE)
+
+```
+
+The resulting network actually does suggest that art and painter are closer together in the network than science, scientific, and astronomy. But we can do better if we clean up this data a bit first.
+
+First, we make the data into a dfm to lower terms and stem them. We also remove English stopwords. Then we find the top features of the dfm, by document frequency. We're interested in what terms occur in multiple documents, not how often they are referenced. Then we create the fcm of the stemmed data, select the top features of the dfm as a our scope, and plot it again.
+
+```{r fcm test data dfm net}
+data <-  c("Albert Einstein was a German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics", "Sir Isaac Newton FRS PRS was an English mathematician, physicist, astronomer, theologian, and author who is widely recognised as one of the most influential scientists of all time, and a key figure in the scientific revolution", "Galileo Galilei was an Italian astronomer, physicist and engineer, sometimes described as a polymath. Galileo has been called the father of observational astronomy, the father of modern physics, the father of the scientific method, and the father of modern science","Marie Skłodowska Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity","Charles Robert Darwin, FRS FRGS FLS FZS was an English naturalist, geologist and biologist, best known for his contributions to the science of evolution","Pablo Ruiz Picasso was a Spanish painter, sculptor, printmaker, ceramicist, stage designer, poet and playwright who spent most of his adult life in France","Vincent Willem van Gogh was a Dutch Post-Impressionist painter who is among the most famous and influential figures in the history of Western art","Leonardo di ser Piero da Vinci, more commonly Leonardo da Vinci or simply Leonardo, was an Italian polymath of the Renaissance whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography","Michelangelo di Lodovico Buonarroti Simoni or more commonly known by his first name Michelangelo was an Italian sculptor, painter, architect and poet of the High Renaissance born in the Republic of Florence, who exerted an unparalleled influence on the development of Western art","Andy Warhol was an American artist, director and producer who was a leading figure in the visual art movement known as pop art")
+dc <- corpus(data, docnames = NULL)
+datadfm <- dfm(dc,tolower = TRUE, stem=TRUE,remove = stopwords("english"))
+datadfm
+
+feat <- names(topfeatures(datadfm,n=30,decreasing = TRUE))
+feat
+
+datafcm <- fcm(datadfm,context="document",count = "boolean")
+datafcm
+
+fcm_select(datafcm,feat,verbose = FALSE) %>%
+  textplot_network(min_freq = 1, omit_isolated = TRUE)
+
+```
+
+Wow. This turned out even better than I thought. On one side you see associations between physicist, astronom, scientif, scienc; and on the other you se art, poet, sculptor, painter. And Da Vinci is off by himself as someone who does both. Incredible.
+
+
+##VLC Application
+
+Here's what the VLC Keywords network looks like if we see how often the keywords co-occur across the corpus. I had to skip multi-word keywords like fin de siecle.
+
+```{r VLC test}
+files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE)
+dc <- readtext(files) %>% corpus()
+datadfm <- dfm(dc,tolower = TRUE, stem=FALSE,remove = stopwords("en"))
+datadfm
+View(datadfm)
+
+feat <- c("ability", "aestheticism", "aesthetics", "affect", "anachronism", "animal", "anthropocene", "author", "authorship", "beauty", "boy", "britain", "canon", "career", "caribbean", "causality", "character", "child", "circulation", "class", "data", "democracy", "description", "dialect", "ecology", "education", "emotions", "empire", "enclosure", "environment", "ethics", "evolution", "feminism", "form", "formalism", "generations", "genre", "humanitarianism", "ideology", "image", "imperialism", "information", "institutions", "literature", "logistics", "love", "materiality", "media", "medicine", "melodrama", "memory", "monstrosity", "neovictorian", "neurology", "oceans", "organicism", "performance", "poetess", "poetry", "politics", "progress", "queer", "reader", "reading", "realism", "religion", "rhyme", "scale", "science", "sentience","seriality", "sexuality", "soul", "sound", "stupidity", "sustainability", "technology", "teleology", "temporality", "theatricality", "transatlanticism", "transimperial", "uchronia", "visuality", "war", "work")
+
+datafcm <- fcm(datadfm,context="document",count = "boolean")
+datafcm
+
+fcm_select(datafcm,feat,verbose = FALSE) %>%
+  textplot_network(min_freq = 10, omit_isolated = TRUE)
+```
+
+This is basically what I'd expect. Some terms, such as "work" and "literature" and "reading" are more key than other terms, such as "animal" and "child," which where not often referenced in other texts.
+
+But what if we let the computer determine what the key terms are?
+
+```{r VLC test2}
+files <- list.files(path = ProcessedDataLocation, pattern = "txt", full.names = TRUE)
+rt <- readtext(files)
+
+#We need to clean a bit more carefully this time. 
+#Since these files were accessed though the University of Michigan, almost every file includes some varient on this: "Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:39:04, subject to the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000232." We can edit this out by finding and replacing the term in all these files.
+
+rt$text <- gsub("Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on","",rt$text)
+rt$text <- gsub("subject to the Cambridge Core terms of use, available at","",rt)
+rt$text <- gsub("https://www.cambridge.org/core/terms","",rt$text)
+rt$text <- gsub("https://doi.org/","",rt$text)
+rt$text <- gsub("www.cambridge.org","",rt$text)
+rt$text <- gsub("Cambridge University Press","",rt$text)
+rt$text <- gsub("25 Sep 2018","",rt$text)
+rt$text <- gsub("doi.org","",rt$text)
+rt$text <- gsub("doi:","",rt$text)
+rt$text <- gsub("https","",rt$text)
+rt$text <- gsub("Victorian Literature and Culture","",rt$text)
+rt$text <- gsub("New York","",rt$text)
+rt$text <- gsub("Chicago","",rt$text)
+rt$text <- gsub("London","",rt$text)
+rt$text <- gsub("Oxford","",rt$text)
+rt$text <- gsub("University Press","",rt$text)
+
+dc <- corpus(rt)
+
+#For the rest, it's easier to just add the most important words in this list to the stoplist of ignored words for the corpus, since none of them seem likely to be important keywords in this corpus. "Press" and "University" area also going to give several false positives, as these terms frequently appear in the bibliographies but are not keywords. So we cut them as well. Note that removing these capitalized terms will only remove capitalized references, leaving lower-case references which are less likely to appear in bibliographies. Now we have to start making hard choices. "Oxford" appears 47 times in this corpus, but most of those are referencing bibliographic materials from Oxford University Press. So it must go. The same holds true of "New York", "Chicago", and "London". 
+
+datadfm <- dfm(dc,tolower = TRUE, stem=TRUE,remove_punct = TRUE, remove_numbers = TRUE, remove_symbols = TRUE) %>% dfm_remove(stopwords("en"))
+datadfm
+
+feat <- names(topfeatures(datadfm,n=30,decreasing = TRUE))
+feat
+
+datafcm <- fcm(datadfm,context="document",count = "boolean")
+datafcm
+
+fcm_select(datafcm,feat,verbose = FALSE) %>%
+  textplot_network(min_freq = 80, omit_isolated = TRUE)
+```
+
+~~~cooccurence using VLC's terms, and then the computer terms.
+
+#Cleaning
+  

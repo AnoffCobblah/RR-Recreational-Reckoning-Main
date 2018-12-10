@@ -1,0 +1,251 @@
+                    640          VL C      •    VO L. 46, N O. 3/4
+                       3. Arthur Symons, “The Decadent Movement in Literature,” Harper’s
+                            New Monthly Magazine 87 (June 1893): 858.
+                       4. Paul Bourget, Essais de Psychologie Contemporaine (Paris: Lemerre,
+                            1883), 25.
+                       5. Susan Sontag, “Notes on Camp,” Partisan Review 31, no. 4 (1964):
+                            515–30, 517.
+                       6. Sontag, “Notes,” 516.
+                       7. Symons, “The Decadent Movement,” 859.
+                       8. Max Beerbohm, “A Letter to the Editor,” The Yellow Book 2 (July
+                            1894): 284.
+                       9. Sontag, “Notes,” 522.
+                    10. This image appeared in Beardsley’s design for the title page of the
+                            1894 Bodley Head edition of Salome. See Oscar Wilde, Salome
+                            (London: Elkin Mathews & John Lane, 1894).
+                    11. R. Murray Gilchrist, “The Crimson Weaver,” The Yellow Book 6 (July
+                            1895): 270.
+                    12. Sontag, “Notes,” 523.
+                    Democracy
+                    KENT PUCKETT
+                    W          E have plenty of reasons to think about democracy just now. In ways
+                               that would have seemed frankly unimaginable a year or two ago,
+                    reference is being routinely made to the authoritarian and maybe inex-
+                    orable decay of democratic norms in the otherwise staid opinion pages of
+                    The New York Times, The Washington Post, and even USA Today. Just a month
+                    ago, E. J. Dionne (neither an alarmist nor a revolutionary) wrote about
+                    our Trumpian moment, “Democracies sometimes collapse suddenly.
+                    More typically, they waste away.”1 Maybe more worrisome is the fact
+                    that so many ordinary people seem already to have given up, seem,
+                    regardless of party affiliation, to have taken up a casually, if corrosively,
+                    skeptical attitude to elections that are the institutional basis of any
+                    democracy. If one group appears to believe that elections are “rigged”
+                    (fraudulent votes, stolen elections, hacked machines), the other seems
+                    to think most other voters are too bigoted, ill-informed, or stupid to
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000451
+
+                                                                                                        D E M OC R ACY              641
+              weigh in on important political questions. Both beliefs call the very act of
+              voting into question, a fact that threatens to undermine institutional
+              norms that make representative democracy possible.
+                      Rather, then, than think about democracy in the large and some-
+              times fuzzy terms of an ethical ideal as opposed to a political norm, I
+              want to look back to the Victorian period and to the Victorian novel in
+              order to consider what we might take as democracy’s procedural or log-
+              ical minimum: the individual vote. Representative democracy depends
+              on formal assumptions about votes and voting that were on the minds
+              of some eminent Victorians as they considered electoral reform in
+              1832, 1867, 1872, 1884, and 1885. As Victorians argued about the
+              more and less gradual expansion of the electorate, the nature of political
+              representation, the costs and benefits of the secret ballot, and so on, they
+              confronted essential questions about individual votes and whole elections
+              as forms capable of representing preferences. Democracy, then and now,
+              relies on a formal account both of the representational status of the sin-
+              gle vote as an index of the individual’s social preference and of the way
+              individual votes are taken in aggregate to produce second-order repre-
+              sentations of the preference of a group. More than that, and as electoral
+              theorists (from the Marquis de Condorcet and Lewis Carroll to Joseph
+              Schumpeter and Kenneth Arrow) have long argued, every effort to
+              design a logically coherent electoral system must confront certain neces-
+              sary limits. I want to argue that Victorians not only had to work through
+              some of the limits and paradoxes immanent to democratic procedure
+              but also used literary form as a way, if not to think through, at least to
+              highlight those limits and those paradoxes.
+                      Take Middlemarch: although George Eliot’s novel is in some obvious
+              sense about voting, the 1832 Reform Act, and its partial expansion of the
+              franchise, it doesn’t attend to the details of voting and elections in the
+              same way that some other Victorian novels do. That is, although we follow
+              Will Ladislaw as he works to return Mr. Brooke to Parliament as a reform
+              candidate for the town of Middlemarch, Brooke’s spectacularly tongue-
+              tied failure on the hustings brings his campaign to an early end and
+              pushes the details, the processes, the actual act of voting into the novel’s
+              background. Seen in these terms, it would make more sense to look at
+              several of Trollope’s novels, or to Our Mutual Friend, or even to Eliot’s
+              other novel of 1832, Felix Holt, the Radical, in order to understand how
+              Victorian voting actually worked.
+                      That said, although it hasn’t the national consequence of a Reform
+              Act, one fully represented election does appear in the novel. In the early
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000451
+
+                    642          VL C      •    VO L. 46, N O. 3/4
+                    days of Lydgate’s association with the banker Bulstrode, he is called upon to
+                    cast a vote for the new chaplain of the infirmary he oversees with Bulstrode,
+                    Brooke, and other Middlemarch notables. The choice is between Lydgate’s
+                    new friend, Mr. Farebrother, and Bulstrode’s man, Mr. Tyke. Although he
+                    leans initially towards Tyke despite his regard for Farebrother, Lydgate hes-
+                    itates, finding the decision less difficult than personally galling: “But which-
+                    ever way Lydgate began to incline, there was something to make him wince;
+                    and being a proud man, he was a little exasperated at being obliged to
+                    wince.”2 The issue is less about the relative merits of the two candidates,
+                    about whom Lydgate still knows little, than about how other people will
+                    interpret his vote. In the end, he votes for Tyke out of neither conviction
+                    nor convenience, but rather out of a kind of game-theoretical spite.
+                            Coming last into the room, Lydgate has thus to cast the tie-breaking
+                    vote. Before he does, the phlegmatic Wrench chides him:
+                             “The thing is settled now,” said Mr. Wrench, rising. “We all know how
+                             Mr. Lydgate will vote.”
+                                   “You seem to speak with some peculiar meaning, sir,” said Lydgate,
+                             rather defiantly, and keeping his pencil suspended.
+                                   “I merely mean that you are expected to vote with Mr. Bulstrode. Do you
+                             regard that meaning as offensive?”
+                                   “It may be offensive to others. But I shall not desist from voting with him
+                             on that account.”
+                                   Lydgate immediately wrote down “Tyke.”3
+                     Denying the good Farebrother a much-needed income, Lydgate’s vote
+                    continues to make him wince: “The affair of the chaplaincy remained a
+                    sore point in his memory as a case in which this petty medium of
+                    Middlemarch had been too strong for him. How could a man be satisfied
+                    with a decision between such alternatives and under such circumstances?
+                    No more than he could be satisfied with his hat, which he has chosen
+                    from among such shapes as the resources of the age offer him, wearing it
+                    at best with a resignation which is chiefly supported by comparison.”4
+                            What happens here? Eliot’s quick sartorial take feels weak insofar as
+                    it attributes Lydgate’s consternation to the historically limited nature of
+                    any and every choice. Because we must choose between only the options
+                    that time and circumstance provide, no choice can be really objective or
+                    free; and Lydgate, whose chief fault is his inflated sense of independence
+                    from social and material constraint (what Eliot calls his “spots of com-
+                    monness”), would chafe at the idea of choice as wholly conditioned by
+                    historical contingency. This sketchy analysis, however consonant with
+                    the novel’s larger sense of the limits of historical agency, doesn’t really
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000451
+
+                                                                                                        D E M OC R ACY              643
+              account for what’s odd about Lydgate’s vote. He doesn’t vote for
+              Tyke simply because he has to vote for someone; he votes for him because
+              he wants, in a moment of pique, to show Wrench and the others that he
+              doesn’t care what they think. He votes against his inclination but not
+              necessarily his interest in order assert his agency.
+                      Lydgate’s wince-inducing vote is thus an example of problems essen-
+              tial to the political representation of social preference. What part of
+              Lydgate—his public preference, his personal interest, his claim to auton-
+              omy, his amour propre—is in fact represented by his vote? Given Lydgate’s
+              divided and avowedly irrational sense of what’s at stake, which person votes
+              when Lydgate votes for Tyke over Farebrother? Lydgate’s problem is thus
+              a nice instance of what Elaine Hadley takes as essential to debates that led
+              up to Britain’s adoption of the secret ballot in 1872: “the persistence of
+              personation as a topic of debate, and therefore its persistence as a ‘prob-
+              lem’ for liberalism, suggests that the ballot unsuccessfully addresses a
+              social alterity that once was and could be again the perilous or promising
+              place of politics: as if the liberal citizen must always register in the possi-
+              bility of personation his own representational inadequacy.”5 That is, in
+              and around 1872, while Eliot was finishing Middlemarch, it was not clear
+              that it was possible to represent oneself as a single and rational person
+              in the form of a single vote. Arguing against the secret ballot in 1861,
+              John Stuart Mill wrote that, “Though the community, as a whole, can
+              have (as the terms imply) no other interest than its collective interest,
+              any or every individual in it may. A man’s interest consists of whatever
+              he takes an interest in. Every body has as many different interests as he
+              has feelings; likings or dislikings, either of a selfish or of a better kind.”6
+                      Eliot’s sense of the internally divided nature of Lydgate’s vote
+              thus anticipates the economist Joseph Schumpeter’s skeptical account
+              of “the classical theory of democracy” in Capitalism, Socialism, and
+              Democracy (1942): “we still remain under the practical necessity of attrib-
+              uting to the will of the individual an independence and a rational quality
+              that are altogether unrealistic. If we are to argue that the will of the cit-
+              izens per se is a political factor entitled to respect, it must first exist. That
+              is to say, it must be something more than an indeterminate bundle of
+              vague impulses loosely playing about given slogans and mistaken impres-
+              sions.”7 In order for the individual vote to count and to be counted as a
+              representation of a discrete social preference, we have to imagine the
+              person as a bearer of individual and autonomous preferences; and,
+              because his preference is an incoherent and ironic mix of public feeling,
+              private interest, and personal pique, Lydgate cannot cast his vote as a
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000451
+
+                    644          VL C      •    VO L. 46, N O. 3/4
+                    single representation of an already available and single preference: he
+                    had not an opinion but rather “a vexed sense that he must make up
+                    his mind.”8
+                            For Schumpeter and other electoral theorists, the ambiguity of the
+                    vote as form of representation leads to other, more systemic problems
+                    stemming from what we might call the bad transitivity of the individual
+                    vote. That is, when elections take several votes in aggregate as a represen-
+                    tation of a group’s will, they assume individual votes as roughly equivalent
+                    to one another. In order to say that 5 beats 4 (that 5 is somehow more
+                    significant than 4), we must assign each of those votes an equal value.
+                    How, though, do we assign a stable quantitative value to the shifting qual-
+                    ity of Lydgate’s acknowledged perplexity? In electoral theory, these ques-
+                    tions are often asked in terms of voter intensity and voter ignorance:
+                    should elections take the intensity of a voter’s feelings into consideration?
+                    If 5 voting against a proposal don’t much care, and 4 voting for a pro-
+                    posal care passionately, should we say still that the 5 matter more? Is
+                    the vote of someone who knows nothing about a given issue equivalent
+                    to the vote of someone who knows everything? This core problem—dem-
+                    ocratic elections must assume a transitive relation between votes that
+                    votes cannot themselves formally support—is at the base of a number
+                    of discrete technical paradoxes that can undermine elections:
+                    Condorcet’s Paradox, the Winner-Turns-Loser Paradox, the No-Show
+                    Paradox, the Multiple-Districts Paradox, and so on.9
+                            Given time, we could look to other examples to see where some
+                    Victorian writers used literary representation as a way to highlight and
+                    to think through some of these paradoxes. We could look at how
+                    Dickens and Trollope embed formal concerns about voter aggregation
+                    not only in the elections they occasionally represent but also in different
+                    theories of character that rely on the relation between major and minor,
+                    the one and the many as relative modes of preferential intensity. We
+                    could look, too, to William Morris’s brief account of voting in News
+                    from Nowhere to see where his democratic socialist’s skepticism turns not
+                    only on the affective limits of any given vote but also on an imagined
+                    and anachronistic point of contact between a novelistic present, a uto-
+                    pian future, and an imaginary and epic past. Or we could look to
+                    Lewis Carroll’s effort aesthetically to encode and to transcend the precise
+                    terms of Condorcet’s Paradox (an issue with which he grappled explicitly
+                    in his electoral theory) in the Dodo’s Caucus Race in Alice’s Adventures in
+                    Wonderland.10 The point, though, is not to resign either the Victorians or
+                    ourselves to a corrosive skepticism about elections and democracy. It is
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000451
+
+                                                                                                        D E M OC R ACY              645
+              rather to see that these logical limits and paradoxes, troubling as they are,
+              are not an excuse to give up but are rather the very reason to value, to
+              defend, and continuously to improve some of the democratic institutions
+              and norms we already possess. To see, as some Victorian novels help us to
+              see, that elections and democracy are specifically and technically imperfect
+              is, I think, to acknowledge an opportunity and a responsibility to make
+              them better. And if that’s not a Victorian feeling, I don’t know what is.
+                                                                      NOTES
+                1. E. J. Dionne Jr., “Trump Is Faithfully Following the Autocrat’s
+                     Playbook,” The Washington Post, November 1, 2017.
+                2. George Eliot, Middlemarch (New York: W. W. Norton & Company,
+                     2000), 115.
+                3. Eliot, Middlemarch, 119.
+                4. Eliot, Middlemarch, 119.
+                5. Elaine Hadley, Living Liberalism: Practical Citizenship in Mid-Victorian
+                     Britain (Chicago: University of Chicago Press, 2010), 227–28.
+                6. John Stuart Mill, Considerations on Representative Government
+                     (Charleston: Bibliobazaar, 2007), 147 (emphasis original).
+                7. Joseph A. Schumpeter, Capitalism, Socialism, and Democracy
+                     (New York: Harper Perennial, 2008), 253.
+                8. Eliot, Middlemarch, 114.
+                9. See for example Christopher H. Achen and Larry M. Bartels,
+                     Democracy for Realists: Why Elections Do Not Produce Responsive
+                     Government (Princeton: Princeton University Press, 2016); Kenneth
+                     Arrow, Social Choice and Individual Values (New Haven: Yale
+                     University Press, 1963); Robert A. Dahl, A Preface to Democratic
+                     Theory (Chicago: University of Chicago Press, 2006); Peter
+                     C. Fishburn, “Paradoxes of Voting,” The American Political Science
+                     Review, 68, No. 2 (1974): 537–546; Chantal Mouffe, The Democratic
+                     Paradox (London: Verso, 2005); George G. Szpiro, Numbers Rule:
+                     The Vexing Mathematics of Democracy, from Plato to the Present
+                     (Princeton: Princeton University Press, 2010).
+              10. See Kent Puckett, “Caucus-Racing,” NOVEL: A Forum on Fiction 47, no.
+                     1 (2014): 11–23.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:41:30, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000451
+

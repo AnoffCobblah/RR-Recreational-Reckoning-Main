@@ -1,0 +1,245 @@
+                    826          VL C      •    VO L. 46, N O. 3/4
+                    of engaging with the physical world. In this regard, nineteenth-century
+                    novels are not so much a training ground where readers practice forms
+                    of perception that they will apply in everyday life. Rather, the knowledge
+                    they have acquired and the capacities they have honed from the cumula-
+                    tive labor of everyday experience make it possible for readers to grasp a
+                    scene that is totally absent from the senses.
+                                                                            NOTES
+                    1. Georges Poulet, “Phenomenology of Reading,” New Literary History 1
+                          (1969): 53–68, 55.
+                    2. Mihály Csíkszentmihályi, Beyond Boredom and Anxiety: Experiencing Flow
+                          in Work and Play (San Francisco: Jossey-Bass, 1975), 36–48.
+                    3. Teun A. van Dijk and Walter Kintsch, Strategies of Discourse
+                          Comprehension (New York: Academic Press, 1983).
+                    4. Charles Dickens, Bleak House, ed. Nicola Bradbury (London: Penguin,
+                          2003), 149.
+                    5. Rolf A. Zwaan and Carol J. Madden, “Embodied Sentence
+                          Comprehension,” in Grounding Cognition: The Role of Perception and Action
+                          in Memory, Language, and Thinking, ed. Diane Pecher and Rolf A. Zwaan
+                          (Cambridge: Cambridge University Press, 2005), 224–45.
+                    6. Ferdinand de Saussure, Course in General Linguistics, trans. Wade
+                          Baskin (New York: McGraw-Hill, 1966), 111.
+                    7. Ian Watt, The Rise of the Novel (London: Chatto & Windus, 1957), 29.
+                    Reading
+                    JESSE CORDES SELBIN
+                    B       Y the end of the nineteenth century, few social questions had not
+                             been linked to what, in 1845, Sarah Stickney Ellis called “the art
+                    of reading well.”1 Little wonder, then, that many of today’s most imagina-
+                    tive theories of this art have emerged among scholars of nineteenth-
+                    century literature; taking this object of study, theorists of methods such
+                    as surface reading, distant reading, and curatorial reading reproduce a
+                    major concern of their era of study. But unlike those of their
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000955
+
+                                                                                                              READING               827
+              antecedents, these theories are chiefly academic: how we read as a
+              dimension of how we research. Rare is the theory inherited from the
+              Victorians themselves, whose beliefs about reading are largely relegated
+              to the purportedly uncritical prehistory of academic professionalization.
+              But understanding what constitutes critical reading requires ascertaining
+              what it has been—necessitates asking, in Michael Warner’s words, “what
+              alternative reading disciplines might be misrecognized as uncritical.”2 As
+              Jonathan Kramnick and Anahid Nersessian have recently suggested,
+              methodological pluralism is a sign of the health of a discipline.3 In
+              that spirit, the conceptual resources of earlier eras might form a larger
+              share of contemporary conversations about reading. In particular, exca-
+              vating a lapsed culture of reading built around the social value of the
+              endeavor stands not only to enrich contemporary research methods,
+              but to help forge neglected links between specialized disciplinary tools
+              and strategies for broader public engagement.
+                      Even as major monographs of the past few decades have revealed the
+              heterogeneity of nineteenth-century approaches to reading, the full his-
+              tory is still richer, stranger, and more diverse than we have yet under-
+              stood.4 Throughout the era, reading strategies promoted to mass
+              audiences offered both rigor and system, even as practitioners formu-
+              lated broad ideals that left room for adaptation to textual specificity.
+              For figures such as Blanche Leppington and Geraldine Jewsbury, for
+              instance, it was crucial to read novels like Ivanhoe or The Moonstone
+              twice to appreciate, distinctly, both plot and form: first, as Leppington
+              put it, “for the sake of the story itself, and then for the sake of observing
+              how it has been constructed.”5 In 1889, the National Home Reading
+              Union formed to promote the “organisation of reading, its method
+              and system”6 by convening local reading groups, pressing members “to
+              form opinions for themselves,”7 and publishing monthly journals that
+              posed interpretive “questions and difficulties.” These efforts consolidated
+              more and less formal protocols—“rules for reading”8—that had emerged
+              over decades in popular journals, elocution guides, literary reviews, and
+              public lectures. Yet reading credos also often consciously avoided formal-
+              izing particular prescriptions, and instead praised the spontaneity and
+              unpredictability of a lively, context-responsive form of reading so unlike
+              the kind inculcated in what Frederic Harrison deemed the “patent high-
+              pressure Reading Machine” of modern education.9 Indeed, the era’s
+              popular reading advocates consistently suggest that theories and methods
+              cannot be fully determined in advance; rather, texts indicate their own
+              modes of analysis and interpretation. Theorists today might productively
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000955
+
+                    828          VL C      •    VO L. 46, N O. 3/4
+                    appropriate this stance of openness from their predecessors, whose
+                    model of reading often stresses what Rachel Ablow has described as “a
+                    willingness to accommodate ambivalence, ambiguity, and perhaps most
+                    important, surprise.”10
+                            The names that constellate this lost history are largely unfamiliar, yet
+                    their questions remain vital. How is it, asked Richard Chevenix Trench—
+                    pondering the concept of subtext through Ralph Waldo Emerson’s idea
+                    of language as “fossil poetry”—that texts both say what they say and say
+                    what they don’t say?11 Can fiction offer readers, as Anne Mozley believed
+                    it could, a distinct way of knowing?12 How might reflective reading prac-
+                    tices be rendered habitual, Lucy Soulsby wondered, without becoming
+                    rote?13 In order to become better “interpreters of human things” writ
+                    large, as James Welldon put it, should we work to reconcile disparate ele-
+                    ments of a text rather than enjoying it “cut up or boiled down”—a prac-
+                    tice, then as now, extoled widely and employed rarely?14 What, more
+                    generally, was entailed by the widespread charge to “read with attention,”
+                    and how did it relate to Arthur Helps’s advice to “read with method,”15
+                    Sydney Smith’s injunctions to “read heartily,”16 or prevailing conceptions
+                    of the importance of “close thinking”?17 These questions were reprised
+                    throughout the century, commonly in settings designed to foster debate.
+                    Far from a solitary enterprise, reading was meant to be discussed among
+                    members of a community: “If it was not worth conversing about,” John
+                    Cassell insisted, “it was not worth reading.”18 This collective ideal of read-
+                    ing prompted the Home Reading Union’s formation of collaborative
+                    reading societies designed to facilitate discussion of the “diverse opinions
+                    of different writers” through the “comparing influence of thought.”19
+                    The Union’s model drew upon that of the American Chautauqua
+                    societies—wherein, Joshua Girling Fitch enthused, “collective reading
+                    and mutual conference” worked to “quicken into new enthusiasm” the
+                    literary aspirations of participants20—and rapidly enfolded older organi-
+                    zations like the Glasgow Eclectic Reading Club, who had first banded in
+                    order to “give more definition to our reading.”21 Among political actors
+                    of many stripes, reading skills were framed as tools for parsing ideological
+                    glosses, holding legislators accountable, and devising canny appeals for
+                    liberation. The belief was not without warrant: as Leah Price has
+                    shown, anxieties and fantasies about the spread of literacy underwrote
+                    many of the era’s defining siociopolitical reforms.22
+                            Exploring outmoded beliefs about reading is not an act of
+                    navel-gazing, but a means of recovering lost skills and cultivating contem-
+                    porary strategies. Earlier reading practices are already resurfacing in the
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000955
+
+                                                                                                              READING               829
+              literary-studies classroom. Witness the increasing tendency to assign
+              readings in the serial installments in which they originally circulated,
+              or to rethink memorization and recitation—nineteenth-century
+              stock-in-trade—not as a flattening of the analytic enterprise, but, with
+              the right framing, as an embodied enhancement to it.23 Other
+              approaches from the era stand to set current doxa of literary-critical
+              scholarship in productive tension. Reading with the nineteenth century,
+              when thinkers found lively ways to speculate about authorial meaning
+              without regarding it as definitive—when, indeed, annotation was often
+              framed as a form of colloquy with authorial opinions readers were
+              licensed to dissent from—we might ask why intention is still so frequently
+              invoked as a fallacy. We might also reconceive lingering taboos against
+              identification, absorption, and other messy affective states by drawing
+              inspiration from Victorian attempts to reconcile informational and imag-
+              inative reading.24 In so doing, we might devise a more nuanced vocabu-
+              lary for the structures of feeling that attend experiences of reading.
+              Perhaps most simply, we might articulate anew the value of rereading
+              and emphasize the surprising way in which—as many a bygone theorist
+              has marveled—the literary object becomes stranger with each reentrance
+              into its pages. Nineteenth-century thinkers had creative ideas about these
+              and other facets of the reading process, resources to draw upon in elab-
+              orating practices that are less starkly divided between professional and
+              ordinary readers. In unearthing these older methods, we need not
+              replace abiding ones, but might find good cause to rethink them.
+                                                                      NOTES
+                1. Sarah Stickney Ellis, “The Art of Reading Well, As Connected with
+                     Social Improvement,” in The Young Ladies’ Reader; or, Extracts from
+                     Modern Authors, ed. Sarah Stickney Ellis (London: Grant and
+                     Griffith, 1845), 1.
+                2. Michael Warner, “Uncritical Reading,” in Polemic: Critical or Uncritical,
+                     ed. Jane Gallop (New York: Routledge, 2004), 20. For a more recent
+                     take on this question, see Michael Allan, In the Shadow of World
+                     Literature: Sites of Reading in Colonial Egypt (Princeton: Princeton
+                     University Press, 2016).
+                3. Jonathan Kramnick and Anahid Nersessian, “Form and
+                     Explanation,” Critical Inquiry 43 (Spring 2017): 650–69.
+                4. See, for instance, Kate Flint, The Woman Reader, 1837–1914
+                     (Oxford: Clarendon Press, 1993); Nicholas Dames, The Physiology of
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000955
+
+                    830          VL C      •    VO L. 46, N O. 3/4
+                            the Novel: Reading, Neural Science, and the Form of Victorian Fiction
+                            (Oxford: Oxford University Press, 2007); Deidre Shauna Lynch,
+                            Loving Literature: A Cultural History (Chicago: University of Chicago
+                            Press, 2015).
+                       5.   Blanche Leppington, “Ivanhoe,” National Home Reading Union
+                            Monthly Journal, January 4, 1890, 35; Geraldine Jewsbury, unsigned
+                            review [The Moonstone], Athenaeum, July 25, 1868, 106
+                       6.   George Radford, The Faculty of Reading: The Coming of Age of the
+                            National Home Reading Union (Cambridge: Cambridge University
+                            Press, 1910), 21.
+                       7.   S. M. Amos, “Biographies of Working Men,” National Home Reading
+                            Union Monthly Journal, Artizans’ Section, January 4, 1890, 39.
+                       8.   John Cassell, “Rules for Reading,” The Working Man’s Friend and
+                            Family Instructor, January 12, 1850, 61.
+                       9.   Frederic Harrison, Autobiographic Memoirs (London: Macmillan and
+                            Co., 1911), 327.
+                    10.     Rachel Ablow, “Introduction,” in The Feeling of Reading: Affective
+                            Experience and Victorian Literature, ed. Rachel Ablow (Ann Arbor:
+                            University of Michigan Press, 2010), 4.
+                    11.     Richard Chevenix Trench, On the Study of Words (1851; New York:
+                            A. C. Armstrong, 1885), 19.
+                    12.     Anne Mozley, “On Fiction as an Educator,” Blackwood’s Magazine 108
+                            (1870): 449–59.
+                    13.     Lucy H. M. Soulsby, Stray Thoughts on Reading (London: Longmans,
+                            Green and Co., 1897).
+                    14.     J. E. C. Welldon, “The Art of Reading Books,” National Review (April
+                            1894): 213–18, 215, 216.
+                    15.     Arthur Helps, Friends in Council: A Series of Readings and Discourse
+                            Thereon, Vol. 2 (London: Pickering, 1847), 10.
+                    16.     Sydney Smith, Wit and Wisdom of the Rev. Sydney Smith (New York:
+                            Widdleton, 1856), 209.
+                    17.     John Cassell, untitled introduction, in The Working Man’s Friend and
+                            Family Instructor, Supplementary Number (March 1850): 1; and
+                            J. G. Fitch, “The Chautauqua Reading Circle,” The Nineteenth
+                            Century 24 (July–Dec. 1888): 487–500, 489.
+                    18.     John Cassell, “How to Read Profitably,” The Working Man’s Friend and
+                            Family Instructor, August 3, 1850, 120–24, 123.
+                    19.     Radford, Faculty of Reading, 8.
+                    20.     Fitch, “Chautauqua Reading Circle,” 489.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000955
+
+                                                                                           R E A D I NG , R E A L I S M             831
+              21. Qtd. in Robert Snape, “National Home Reading Union,” Journal of
+                     Victorian Culture 7, no. 1 (2002): 86–110, 93.
+              22. Leah Price, “Victorian Reading,” in The Cambridge History of Victorian
+                     Literature, ed. Kate Flint (Cambridge: Cambridge University Press,
+                     2012), 34.
+              23. See, for instance, Jerome McGann, “Recitation Considered as a Fine
+                     Art,” Experimental Literary Education, English Language Notes 47, no. 1
+                     (2009): 181–83; Jonathan Culler, “The Closeness of Close
+                     Reading,” ADE Bulletin 149 (2010): 20–25; Catherine Robson, Heart
+                     Beats: Everyday Life and the Memorized Poem (Princeton: Princeton
+                     University Press, 2012).
+              24. For a concise illustration of how major Victorian reading theories
+                     press upon this distinction in relevant and productive ways, see
+                     Stephen Arata, “Literature and Information,” PMLA 130, no. 3
+                     (2015): 673–78, especially 677.
+              Realism
+              AYELET BEN-YISHAI
+              I   N considering Aru, the young, idealistic protagonist of her 1996 novel
+                   A Matter of Time, Indian novelist Shashi Deshpande has her narrator
+              muse on her own narratorial/authorial enterprise and technique:
+                      But to [admit knowledge of the future into her narrative] is to admit that
+                      Aru is the heroine of this story; only for the heroine can Time be bent back-
+                      wards.
+                             Is Aru the heroine? Why not? She has youth, one of the necessary
+                      requirements of a heroine. And the other—beauty? Well, possibly. The
+                      potential is there anyway. (The Natyashastra lays down that the heroine
+                      should have nobility and steadfastness as well. But we can ignore this. We
+                      no longer make such demands on our heroines.) Perhaps there’s this too,
+                      this above all, that Aru is trying to make sense of what is happening.1
+                      Victorianists might easily recognize the allusion to George Eliot’s
+              famous “why always Dorothea?” passage from Middlemarch, making
+              explicit not only the connection between the two protagonists but also
+              the genres in which they appear. We might then ask: if the allusion to
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:48:51, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000955
+

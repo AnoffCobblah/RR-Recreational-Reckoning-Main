@@ -1,0 +1,116 @@
+                    700          VL C      •    VO L. 46, N O. 3/4
+                    6. Max Nordau, Degeneration (Lincoln: University of Nebraska Press,
+                          1993), 1.
+                    7. Raymond Williams, Culture and Society, 1780–1950 (New York:
+                          Columbia University Press, 1983).
+                    Form
+                    STEPHEN ARATA
+                    A        TRUISM: to understand a work of literature you must attend not just
+                             to what it says but to how it is made. That is, you must attend to
+                    form. A second truism: it can be difficult to persuade students of the
+                    truth of that truism. I am not suggesting that students never respond
+                    to a work’s formal features, only that such responses tend to be felt in
+                    the blood and felt along the heart rather than brought fully into con-
+                    sciousness for the purposes of reflection or analysis. And, they sometimes
+                    tell me, that’s as it should be. Implicit in their resistance to formal anal-
+                    ysis is the suspicion that it is at best tangential to and at worst destructive
+                    of what is most valuable in any particular work of literature. This is the
+                    case whether the work in question is a lyric poem or a three-decker
+                    novel. Why master scansion if the point of reading poetry is to be
+                    made to feel physically as if the top of your head were taken off? Why
+                    scrutinize modes of narration or map out textual networks when your
+                    research interests center on questions of class or gender or empire that
+                    are treated thematically, and with great power, in the novels you’re study-
+                    ing? Formal analysis can seem pedantic or hermetic (or both), a set of
+                    technical exercises designed to numb aesthetic response or else to quar-
+                    antine literature from the richness and complexity of lived experience.
+                            Outside the classroom, formalist criticism flourishes. A renewed
+                    attention to form has led to some extraordinary work over the past two
+                    decades. Thanks to this work, the questions we ask about form are richer,
+                    more various, and more supple than they once were. Those questions can
+                    invigorate not just our scholarship but our pedagogy, not least by making
+                    formal analysis seem less pedantic or hermetic (or both). Yet their very
+                    richness and variety only deepen the pedagogic challenges. Literary
+                    form is a protean concept, and students may now wonder where one
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000608
+
+                                                                                                                     FO R M         701
+              finds the fortitude to hold it fast for long enough to compel it to utter
+              truth. As a methodology, formalism has always been capacious; at present
+              it is even more so. As the range of critical activities brought under its
+              heading becomes ever more extensive, we may have difficulty saying
+              where formal analysis begins or ends. “By form I mean how a literary
+              work is made out of artistic conventions and linguistic materials,” writes
+              Paul Armstrong.1 Most critics, including me, would agree in principle
+              with this definition, but it doesn’t exactly narrow the field of
+              investigation.
+                      As many have argued, this lack of definitional clarity is not a flaw in
+              formalism but one of its enabling conditions. According to Jonathan
+              Kramnick and Anahid Nersessian, critics “need not, indeed cannot pro-
+              vide a single definition of form because form is an entity known by occa-
+              sion.” That is to say, it is a term that only “become[s] intelligible in
+              particular and independently interesting contexts.”2 A corollary is that
+              we find form where we seek it. The truths form utters depend on the
+              questions we ask of it. That we can find only what we know to look for
+              is a basic axiom of all scholarly inquiry, so thoroughly internalized that
+              we can easily forget that it is anything but self-evident to the novice
+              inquirers in our classrooms. Teaching form in the age of New
+              Formalism can have the salutary effect of pushing such methodological
+              issues into the foreground.
+                      Students often press on the question of what exactly it means to say that
+              a text has a form or that it contains several forms. We are accustomed to
+              drawing analogies from the material world (trees, buildings, waves, rhi-
+              zomes) or from social configurations (hierarchies, networks, genealogies),
+              but these are of course just that: analogies. Sandra Macpherson proposes
+              thinking of “form as nothing more—and nothing less—than the shape
+              matter (whether a poem or a tree) takes.”3 Thinking of form in this way
+              allows for sophisticated investigations into the nature of literary form in
+              general, as Macpherson’s essay everywhere demonstrates. Yet it seems
+              worth saying that while a tree has a shape, a poem has a “shape.” That is,
+              its shape is figural, a mental construct we use in order to make evident
+              some aspect of the poem in question. This is the case whether we think
+              of form in spatial or temporal terms. A printed text is of course a material
+              entity made of paper, ink, glue, cloth, thread, and so on, and its literal
+              shape can be the object of fruitful analysis, but the great majority of formal-
+              ist criticism takes as its object of analysis not the material work but an
+              abstraction from it. Indeed, formalists need to abstract from the material
+              work before they can do the things they wish to do.
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000608
+
+                    702          VL C      •    VO L. 46, N O. 3/4
+                            This is not to quibble or to question the validity of the metaphors we
+                    use to conjure up literary form. It is, though, to suggest that the metaphors
+                    we use are always motivated, and that it is best to be as aware as we can of those
+                    motivations, especially when we seek to connect texts to the social or natural
+                    world by way of the formal attributes we ascribe to each. To the extent that
+                    literary language—poetic, narrative, or dramatic—is highly organized, it is
+                    not at all misleading to say that forms inhere in texts. At the same time,
+                    the figures we employ in order to think cogently and creatively about form
+                    are heuristic devices that need not be organically related to the texts at all.
+                    We make use of some figures rather than others because we seek answers
+                    to one set of questions rather than another. Our inquiries are context-
+                    specific, as are the vocabularies we use to pursue them. Here again student
+                    responses can be clarifying. Is literary form “in” a text, I ventriloquize them
+                    asking, or is it something you just make up? Do you find it or invent it? Those
+                    are not the only two options, but it is not hard to see why the question is posed
+                    that way. Found or invented? The answer is yes. One challenge of teaching
+                    formalism is to explain why that is so, and why it matters.
+                                                                            NOTES
+                    1. Paul B. Armstrong, “Form and History: Reading as an Aesthetic
+                          Experience and Historical Act,” Modern Language Quarterly 69, no. 2
+                          (2008): 195–219, 198.
+                    2. Jonathan Kramnick and Anahid Nersessian, “Form and Explanation,”
+                          Critical Inquiry 43, no. 3 (2017): 650–69, 664, 665.
+                    3. Sandra Macpherson, “A Little Formalism,” ELH 82, no. 2 (2015): 385–
+                          405, 390.
+                    Formalism
+                    HERBERT F. TUCKER
+                    A        trusted colleague’s having written on form leaves me to tease out its
+                              associated –ism, and the contentious family of terms of which that
+                    suffix makes it a member. I don’t think my keyword belongs with
+                    Methodism, Marxism, and other badges of adherence to a system of
+Downloaded from https://www.cambridge.org/core. Univ of Michigan Law Library, on 25 Sep 2018 at 20:42:58, subject to the Cambridge Core terms of use, available at
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/S1060150318000608
+
